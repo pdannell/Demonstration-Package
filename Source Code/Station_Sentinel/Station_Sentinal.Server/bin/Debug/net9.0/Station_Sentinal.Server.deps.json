@@ -1,0 +1,125 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Station_Sentinal.Server/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "9.0.2",
+          "Microsoft.AspNetCore.SpaProxy": "9.0.3",
+          "System.Drawing.Common": "10.0.0-preview.1.25080.3"
+        },
+        "runtime": {
+          "Station_Sentinal.Server.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/9.0.2": {
+        "dependencies": {
+          "Microsoft.OpenApi": "1.6.17"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "assemblyVersion": "9.0.2.0",
+            "fileVersion": "9.0.225.6704"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.SpaProxy/9.0.3": {
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.SpaProxy.dll": {
+            "assemblyVersion": "9.0.3.0",
+            "fileVersion": "9.0.325.11220"
+          }
+        }
+      },
+      "Microsoft.OpenApi/1.6.17": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "1.6.17.0",
+            "fileVersion": "1.6.17.0"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/10.0.0-preview.1.25080.5": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.8005"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net9.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.8005"
+          }
+        }
+      },
+      "System.Drawing.Common/10.0.0-preview.1.25080.3": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "10.0.0-preview.1.25080.5"
+        },
+        "runtime": {
+          "lib/net9.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.8003"
+          },
+          "lib/net9.0/System.Private.Windows.Core.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.8003"
+          },
+          "lib/net9.0/System.Private.Windows.GdiPlus.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.8003"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Station_Sentinal.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.OpenApi/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JUndpjRNdG8GvzBLH/J4hen4ehWaPcshtiQ6+sUs1Bcj3a7dOsmWpDloDlpPeMOVSlhHwUJ3Xld0ClZjsFLgFQ==",
+      "path": "microsoft.aspnetcore.openapi/9.0.2",
+      "hashPath": "microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.SpaProxy/9.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iErynM2aBLYMprxUv8HB+9zFWzXQN7ETSKEEaPN75Xmig7lcYT/97NULu3jI0uDV8jIrvGrS047AMCbB9iPW2A==",
+      "path": "microsoft.aspnetcore.spaproxy/9.0.3",
+      "hashPath": "microsoft.aspnetcore.spaproxy.9.0.3.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/1.6.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Le+kehlmrlQfuDFUt1zZ2dVwrhFQtKREdKBo+rexOwaCoYP0/qpgT9tLxCsZjsgR5Itk1UKPcbgO+FyaNid/bA==",
+      "path": "microsoft.openapi/1.6.17",
+      "hashPath": "microsoft.openapi.1.6.17.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/10.0.0-preview.1.25080.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5WIKddfHK+qhwqoobdGuKRBcwNO4W1iENnZO5f6KM9Ph0F2Q/NgH4NaV2HOeFevSZuFAl5A/evA4VNEOT9bOfg==",
+      "path": "microsoft.win32.systemevents/10.0.0-preview.1.25080.5",
+      "hashPath": "microsoft.win32.systemevents.10.0.0-preview.1.25080.5.nupkg.sha512"
+    },
+    "System.Drawing.Common/10.0.0-preview.1.25080.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YVKpms8SaTmHucvMZ8IovsF4cQEyUOF9fhDY2kPrs/NIYkrldGa0WYlZmVcMq8h0/35hubNl66dqWqZOLJcB4g==",
+      "path": "system.drawing.common/10.0.0-preview.1.25080.3",
+      "hashPath": "system.drawing.common.10.0.0-preview.1.25080.3.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+2024 07 11 10 21 16|Connecting to ADUs...
+2024 07 11 10 21 16|Devices found: 3
+2024 07 11 10 21 16|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 07 11 10 21 16|USB: Base E22188 REY_PM_L3S02 Base
+2024 07 11 10 21 16|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 07 11 10 21 16|Keyence Scanner Connected!
+2024 07 11 10 21 16|Keyence Scanner Connected!
+2024 07 11 10 21 17|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 07 11 10 21 18|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 07 11 10 21 50|Connecting to ADUs...
+2024 07 11 10 21 50|Devices found: 3
+2024 07 11 10 21 50|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 07 11 10 21 50|USB: Base E22188 REY_PM_L3S02 Base
+2024 07 11 10 21 50|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 07 11 10 21 50|Keyence Scanner Connected!
+2024 07 11 10 21 50|Keyence Scanner Connected!
+2024 07 11 10 21 51|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 07 11 10 21 52|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 07 11 10 22 02|IO ready; touch START...
+2024 07 11 10 25 24|Doors are now OPEN
+2024 07 11 11 08 02|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 07 11 11 08 07|Keyence Scanner Disconnected!
+2024 07 11 11 08 07|Attempting to reconnect...
+2024 07 11 11 08 12|Keyence Scanner Disconnected!
+2024 07 11 11 08 12|Attempting to reconnect...
+2024 07 11 11 08 17|Timeout connecting to Keyence Scanner 192.168.0.22
+2024 07 11 11 08 17|Timeout connecting to Keyence Scanner 192.168.0.21
+2024 07 11 11 08 38|UserClick|Meca500_ProgramComboChange
+2024 07 11 11 08 39|UserClick|Meca500_Btn_1_Home
+2024 07 11 11 09 21|UserClick|Meca500_Btn_1_Home
+2024 07 11 11 10 00|Connecting to ADUs...
+2024 07 11 11 10 00|Devices found: 3
+2024 07 11 11 10 00|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 07 11 11 10 00|USB: Base E22188 REY_PM_L3S02 Base
+2024 07 11 11 10 00|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 07 11 11 10 00|Keyence Scanner Connected!
+2024 07 11 11 10 00|Keyence Scanner Connected!
+2024 07 11 11 10 01|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 07 11 11 10 02|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 07 11 11 10 23|ERROR|Failed to connect to the MECA500 during App initialization
+2024 07 11 11 12 21|Connecting to ADUs...
+2024 07 11 11 12 22|Devices found: 3
+2024 07 11 11 12 22|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 07 11 11 12 22|USB: Base E22188 REY_PM_L3S02 Base
+2024 07 11 11 12 22|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 07 11 11 12 22|Keyence Scanner Connected!
+2024 07 11 11 12 22|Keyence Scanner Connected!
+2024 07 11 11 12 23|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 07 11 11 12 24|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 07 11 11 12 42|IO ready; touch START...
+2024 07 11 10 14 14|UserClick|Meca500_ProgramComboChange
+2024 07 11 10 14 15|UserClick|Meca500_Btn_1_Home
+2024 07 11 10 14 19|UserClick|Meca500_Btn_PalletClampON
+2024 07 11 10 14 23|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 07 11 10 14 35|UserClick|Meca500_Btn_2_PalletPick
+2024 07 11 10 14 38|UserClick|Meca500_Btn_VacuumGoON_1
+2024 07 11 10 14 40|UserClick|Meca500_Btn_3_NestPlace
+2024 07 11 10 37 31|UserClick|Meca500_Btn_VacuumGoOFF_1
+2024 07 11 11 33 21|Doors are now OPEN
+2024 07 11 11 43 25|Doors are now OPEN
+2024 07 11 11 46 17|Doors are now OPEN
+2024 07 11 11 47 47|Doors are now OPEN
+2024 07 11 11 50 08|Doors are now OPEN
+2024 07 11 14 01 41|UserClick|Quit
+2024 07 11 14 04 10|Connecting to ADUs...
+2024 07 11 14 04 10|Devices found: 3
+2024 07 11 14 04 10|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 07 11 14 04 10|USB: Base E22188 REY_PM_L3S02 Base
+2024 07 11 14 04 10|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 07 11 14 04 11|Keyence Scanner Connected!
+2024 07 11 14 04 11|Keyence Scanner Connected!
+2024 07 11 14 04 12|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 07 11 14 04 13|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 07 11 14 04 18|IO ready; touch START...
+2024 07 11 14 04 21|UserClick|ToggleOutput_Tower Light - Red_OFF
+2024 07 11 14 31 51|Doors are now OPEN
+2024 07 11 14 36 10|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 07 11 14 50 10|Doors are now OPEN
+2024 07 11 14 50 44|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF
+2024 07 11 14 50 44|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 07 11 14 56 56|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 07 11 15 48 47|Doors are now OPEN
+2024 07 11 15 51 48|Doors are now OPEN

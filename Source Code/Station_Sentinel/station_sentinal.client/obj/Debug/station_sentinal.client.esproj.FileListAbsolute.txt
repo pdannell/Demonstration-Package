@@ -1,0 +1,3 @@
+C:\Users\pdannelly\source\repos\Station_Sentinal\station_sentinal.client\obj\Debug\station_sentinal.client.esproj.CoreCompileInputs.cache
+C:\Users\pdannelly\source\repos\Station_Sentinel\station_sentinal.client\obj\Debug\station_sentinal.client.esproj.CoreCompileInputs.cache
+C:\Users\pdann\Documents\GitHub\Station_Sentinel\station_sentinal.client\obj\Debug\station_sentinal.client.esproj.CoreCompileInputs.cache

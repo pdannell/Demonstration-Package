@@ -1,0 +1,668 @@
+2024 04 11 07 54 22|Connecting to ADUs...
+2024 04 11 07 54 22|Devices found: 3
+2024 04 11 07 54 22|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 07 54 22|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 07 54 22|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 07 54 22|Keyence Scanner Connected!
+2024 04 11 07 54 22|Keyence Scanner Connected!
+2024 04 11 07 54 45|IO ready; touch START...
+2024 04 11 08 18 51|Connecting to ADUs...
+2024 04 11 08 18 51|Devices found: 3
+2024 04 11 08 18 51|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 08 18 51|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 08 18 51|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 08 18 52|Keyence Scanner Connected!
+2024 04 11 08 18 52|Keyence Scanner Connected!
+2024 04 11 08 19 15|IO ready; touch START...
+2024 04 11 08 19 19|UserClick|StartBtn
+2024 04 11 08 19 19|starting...
+2024 04 11 08 19 19|Running Test Conveyors...
+2024 04 11 08 19 19|TIMER|Initialize Outputs|0.09
+2024 04 11 08 20 43|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 08 20 44|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 11 08 20 45|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 08 20 45|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 08 20 46|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 08 20 47|UserClick|ToggleOutput_Output - 2K5_ON
+2024 04 11 08 20 48|UserClick|ToggleOutput_Output - 2K5_OFF
+2024 04 11 08 21 23|UserClick|StopBtn
+2024 04 11 08 21 24|UserClick|StopBtn_MsgBox_YES
+2024 04 11 08 21 24|Application stopped.
+2024 04 11 08 21 46|UserClick|ToggleOutput_Output - 2K5_ON
+2024 04 11 08 22 33|UserClick|Quit
+2024 04 11 08 25 24|Connecting to ADUs...
+2024 04 11 08 25 24|Devices found: 3
+2024 04 11 08 25 24|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 08 25 24|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 08 25 24|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 08 25 24|Keyence Scanner Connected!
+2024 04 11 08 25 24|Keyence Scanner Connected!
+2024 04 11 08 25 27|IO ready; touch START...
+2024 04 11 08 36 17|UserClick|StartBtn
+2024 04 11 08 36 17|starting...
+2024 04 11 08 36 17|Running Test Conveyors...
+2024 04 11 08 36 17|TIMER|Initialize Outputs|0.09
+2024 04 11 08 36 27|TIMER|Wait for operator to Send the Pallet|10.25
+2024 04 11 08 36 31|TIMER|Indexing Front Pallet into Position|3.38
+2024 04 11 08 36 34|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 08 36 56|UserClick|RetryBtn
+2024 04 11 08 36 57|TIMER|Waiting for Viper Place to be Ready in the Front...|22.89
+2024 04 11 08 37 05|TIMER|Sending Pallet to Viper Placement Zone|7.98
+2024 04 11 08 37 17|UserClick|StopBtn
+2024 04 11 08 37 18|UserClick|StopBtn_MsgBox_YES
+2024 04 11 08 37 18|Application stopped.
+2024 04 11 08 37 21|UserClick|ToggleOutput_Me Ready to Receive Front_OFF
+2024 04 11 08 37 23|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 08 37 50|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 08 38 42|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 11 08 38 44|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 08 38 45|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 08 38 46|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 11 08 38 47|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 08 38 47|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 08 39 21|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 08 40 22|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 08 40 30|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 08 40 32|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 11 08 43 35|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 08 43 36|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 08 44 03|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 08 44 07|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 08 44 07|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 08 52 34|Connecting to ADUs...
+2024 04 11 08 52 34|Devices found: 3
+2024 04 11 08 52 34|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 08 52 34|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 08 52 34|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 08 52 34|Keyence Scanner Connected!
+2024 04 11 08 52 34|Keyence Scanner Connected!
+2024 04 11 08 52 57|IO ready; touch START...
+2024 04 11 08 52 59|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 08 57 17|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 11 08 57 20|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 08 57 22|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 08 57 23|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 08 57 52|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 08 57 54|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 08 58 03|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 01 15|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 01 17|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 01 19|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 01 21|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 05 37|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 05 40|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 05 42|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 11 09 05 45|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 09 05 47|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 05 52|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 07 24|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 07 26|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 07 28|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 11 09 07 33|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 09 09 16|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 09 18|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 09 19|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 09 19|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 17 21|Connecting to ADUs...
+2024 04 11 09 17 21|Devices found: 3
+2024 04 11 09 17 21|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 09 17 21|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 09 17 21|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 09 17 21|Keyence Scanner Connected!
+2024 04 11 09 17 21|Keyence Scanner Connected!
+2024 04 11 09 17 44|IO ready; touch START...
+2024 04 11 09 19 37|Connecting to ADUs...
+2024 04 11 09 19 37|Devices found: 3
+2024 04 11 09 19 37|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 09 19 37|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 09 19 37|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 09 19 37|Keyence Scanner Connected!
+2024 04 11 09 19 37|Keyence Scanner Connected!
+2024 04 11 09 20 00|IO ready; touch START...
+2024 04 11 09 24 47|UserClick|StartBtn
+2024 04 11 09 24 47|starting...
+2024 04 11 09 24 47|Running Test MECA500 Routine...
+2024 04 11 09 25 07|TIMER|MECA500_Initialize|20.28
+2024 04 11 09 25 09|TIMER|MECA500_Home|1.17
+2024 04 11 09 25 10|TIMER|MECA500_Pick|1.42
+2024 04 11 09 25 17|TIMER|MECA500_Place|6.89
+2024 04 11 09 25 18|TIMER|MECA500_Clear|1.19
+2024 04 11 09 25 21|TIMER|PortedHeatink_DoStuff|3.01
+2024 04 11 09 25 30|TIMER|MECA500_Combine|8.57
+2024 04 11 09 25 31|TIMER|MECA500_Home|1.40
+2024 04 11 09 25 31|TestTime_Meca500|NonPortedHeatsink|23.69
+2024 04 11 09 25 31|Application stopped.
+2024 04 11 09 25 38|UserClick|Quit
+2024 04 11 09 26 24|Connecting to ADUs...
+2024 04 11 09 26 24|Devices found: 3
+2024 04 11 09 26 24|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 09 26 24|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 09 26 24|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 09 26 24|Keyence Scanner Connected!
+2024 04 11 09 26 24|Keyence Scanner Connected!
+2024 04 11 09 26 27|IO ready; touch START...
+2024 04 11 09 26 30|UserClick|StartBtn
+2024 04 11 09 26 30|starting...
+2024 04 11 09 26 30|Running Test Conveyors...
+2024 04 11 09 26 31|TIMER|Initialize Outputs|0.08
+2024 04 11 09 26 47|TIMER|Wait for operator to Send the Pallet|16.16
+2024 04 11 09 26 50|TIMER|Indexing Front Pallet into Position|3.00
+2024 04 11 09 26 53|TIMER|Doing Stuff in Vision Box Front Conveyor|3.13
+2024 04 11 09 27 23|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 27 33|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 11 09 27 45|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 27 46|UserClick|StopBtn
+2024 04 11 09 27 47|UserClick|StopBtn_MsgBox_YES
+2024 04 11 09 27 47|Application stopped.
+2024 04 11 09 27 48|UserClick|Quit
+2024 04 11 09 30 02|Connecting to ADUs...
+2024 04 11 09 30 02|Devices found: 3
+2024 04 11 09 30 02|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 09 30 02|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 09 30 02|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 09 30 02|Keyence Scanner Connected!
+2024 04 11 09 30 02|Keyence Scanner Connected!
+2024 04 11 09 30 05|IO ready; touch START...
+2024 04 11 09 30 33|UserClick|StartBtn
+2024 04 11 09 30 33|starting...
+2024 04 11 09 30 33|Running Test Conveyors...
+2024 04 11 09 30 33|TIMER|Initialize Outputs|0.09
+2024 04 11 09 30 39|TIMER|Wait for operator to Send the Pallet|5.50
+2024 04 11 09 30 42|TIMER|Indexing Front Pallet into Position|3.70
+2024 04 11 09 30 46|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 09 35 14|TIMER|Waiting for Viper Place to be Ready in the Front...|268.74
+2024 04 11 09 35 39|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 35 56|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 36 13|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 38 03|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 38 12|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 38 58|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 40 25|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 11 09 42 56|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 43 07|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 43 12|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 43 32|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 09 43 33|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 09 43 34|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 10 05 04|UserClick|StopBtn
+2024 04 11 10 05 06|UserClick|StopBtn_MsgBox_YES
+2024 04 11 10 05 06|Application stopped.
+2024 04 11 10 05 13|UserClick|StartBtn
+2024 04 11 10 05 13|starting...
+2024 04 11 10 05 13|Running Test Cameras
+2024 04 11 10 05 15|TIMER|INSPECT_TEST1|0.54
+2024 04 11 10 05 15|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 15|TIMER|INSPECT_TEST2|0.77
+2024 04 11 10 05 16|VISIONDATA|TEST2|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 16|TIMER|INSPECT_TEST3|0.78
+2024 04 11 10 05 17|VISIONDATA|TEST3|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 18|TIMER|INSPECT_TEST1|0.55
+2024 04 11 10 05 18|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 19|TIMER|INSPECT_TEST2|0.76
+2024 04 11 10 05 19|VISIONDATA|TEST2|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 20|TIMER|INSPECT_TEST3|0.82
+2024 04 11 10 05 20|VISIONDATA|TEST3|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 21|TIMER|INSPECT_TEST1|0.53
+2024 04 11 10 05 22|UserClick|StopBtn
+2024 04 11 10 05 22|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 22|UserClick|StopBtn_MsgBox_YES
+2024 04 11 10 05 23|Vision Inspect with Camera 1 failed.
+2024 04 11 10 05 23|Application stopped.
+2024 04 11 10 05 29|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 11 10 05 30|UserClick|StartBtn
+2024 04 11 10 05 30|starting...
+2024 04 11 10 05 30|Running Test Cameras
+2024 04 11 10 05 32|TIMER|INSPECT_TEST1|0.56
+2024 04 11 10 05 32|VISIONDATA|TEST1|CAM1_STLA_1|PASS|
+2024 04 11 10 05 33|TIMER|INSPECT_TEST2|0.76
+2024 04 11 10 05 33|VISIONDATA|TEST2|CAM1_STLA_1|PASS|
+2024 04 11 10 05 33|TIMER|INSPECT_TEST3|0.80
+2024 04 11 10 05 34|VISIONDATA|TEST3|CAM1_STLA_1|PASS|
+2024 04 11 10 05 35|TIMER|INSPECT_TEST1|0.54
+2024 04 11 10 05 36|VISIONDATA|TEST1|CAM1_STLA_1|PASS|
+2024 04 11 10 05 36|TIMER|INSPECT_TEST2|0.81
+2024 04 11 10 05 37|VISIONDATA|TEST2|CAM1_STLA_1|PASS|
+2024 04 11 10 05 37|TIMER|INSPECT_TEST3|0.81
+2024 04 11 10 05 37|VISIONDATA|TEST3|CAM1_STLA_1|PASS|
+2024 04 11 10 05 39|TIMER|INSPECT_TEST1|0.55
+2024 04 11 10 05 39|VISIONDATA|TEST1|CAM1_STLA_1|PASS|
+2024 04 11 10 05 40|TIMER|INSPECT_TEST2|0.79
+2024 04 11 10 05 40|VISIONDATA|TEST2|CAM1_STLA_1|PASS|
+2024 04 11 10 05 40|TIMER|INSPECT_TEST3|0.80
+2024 04 11 10 05 41|VISIONDATA|TEST3|CAM1_STLA_1|PASS|
+2024 04 11 10 05 42|TIMER|INSPECT_TEST1|0.54
+2024 04 11 10 05 43|VISIONDATA|TEST1|CAM1_STLA_1|PASS|
+2024 04 11 10 05 43|TIMER|INSPECT_TEST2|0.86
+2024 04 11 10 05 44|VISIONDATA|TEST2|CAM1_STLA_1|PASS|
+2024 04 11 10 05 44|TIMER|INSPECT_TEST3|0.82
+2024 04 11 10 05 44|VISIONDATA|TEST3|CAM1_STLA_1|PASS|
+2024 04 11 10 05 46|TIMER|INSPECT_TEST1|0.54
+2024 04 11 10 05 46|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 47|TIMER|INSPECT_TEST2|0.78
+2024 04 11 10 05 47|VISIONDATA|TEST2|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 48|TIMER|INSPECT_TEST3|0.80
+2024 04 11 10 05 48|VISIONDATA|TEST3|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 49|TIMER|INSPECT_TEST1|0.53
+2024 04 11 10 05 50|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 50|TIMER|INSPECT_TEST2|0.87
+2024 04 11 10 05 51|VISIONDATA|TEST2|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 51|TIMER|INSPECT_TEST3|0.80
+2024 04 11 10 05 51|VISIONDATA|TEST3|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 53|TIMER|INSPECT_TEST1|0.54
+2024 04 11 10 05 53|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 54|TIMER|INSPECT_TEST2|0.82
+2024 04 11 10 05 54|VISIONDATA|TEST2|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 55|TIMER|INSPECT_TEST3|0.80
+2024 04 11 10 05 55|VISIONDATA|TEST3|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 56|TIMER|INSPECT_TEST1|0.54
+2024 04 11 10 05 57|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 57|TIMER|INSPECT_TEST2|0.81
+2024 04 11 10 05 58|VISIONDATA|TEST2|CAM1_STLA_1|FAIL|
+2024 04 11 10 05 58|TIMER|INSPECT_TEST3|0.83
+2024 04 11 10 05 58|VISIONDATA|TEST3|CAM1_STLA_1|PASS|
+2024 04 11 10 06 00|TIMER|INSPECT_TEST1|0.54
+2024 04 11 10 06 00|VISIONDATA|TEST1|CAM1_STLA_1|PASS|
+2024 04 11 10 06 01|TIMER|INSPECT_TEST2|0.80
+2024 04 11 10 06 01|VISIONDATA|TEST2|CAM1_STLA_1|PASS|
+2024 04 11 10 06 02|TIMER|INSPECT_TEST3|0.82
+2024 04 11 10 06 02|VISIONDATA|TEST3|CAM1_STLA_1|PASS|
+2024 04 11 10 06 02|UserClick|StopBtn
+2024 04 11 10 06 03|UserClick|StopBtn_MsgBox_YES
+2024 04 11 10 06 03|Application stopped.
+2024 04 11 10 06 07|UserClick|Quit
+2024 04 11 10 08 52|Connecting to ADUs...
+2024 04 11 10 08 52|Devices found: 3
+2024 04 11 10 08 52|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 10 08 52|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 10 08 52|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 10 08 52|Keyence Scanner Connected!
+2024 04 11 10 08 52|Keyence Scanner Connected!
+2024 04 11 10 09 15|IO ready; touch START...
+2024 04 11 10 14 23|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 10 14 44|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 10 14 57|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 10 15 19|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 10 16 17|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 10 16 50|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 10 16 53|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 10 17 26|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 10 17 28|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 10 27 25|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 11 10 27 31|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF
+2024 04 11 10 27 32|UserClick|Quit
+2024 04 11 10 58 48|Connecting to ADUs...
+2024 04 11 10 58 48|Devices found: 3
+2024 04 11 10 58 48|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 10 58 48|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 10 58 48|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 10 58 48|Keyence Scanner Connected!
+2024 04 11 10 58 48|Keyence Scanner Connected!
+2024 04 11 10 59 11|IO ready; touch START...
+2024 04 11 10 59 16|UserClick|StartBtn
+2024 04 11 10 59 16|starting...
+2024 04 11 11 00 12|Connecting to ADUs...
+2024 04 11 11 00 13|Devices found: 3
+2024 04 11 11 00 13|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 11 00 13|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 11 00 13|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 11 00 13|Keyence Scanner Connected!
+2024 04 11 11 00 13|Keyence Scanner Connected!
+2024 04 11 11 00 36|IO ready; touch START...
+2024 04 11 11 00 37|UserClick|StartBtn
+2024 04 11 11 00 37|starting...
+2024 04 11 11 05 11|Connecting to ADUs...
+2024 04 11 11 05 11|Devices found: 3
+2024 04 11 11 05 12|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 11 05 12|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 11 05 12|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 11 05 12|Keyence Scanner Connected!
+2024 04 11 11 05 12|Keyence Scanner Connected!
+2024 04 11 11 05 35|IO ready; touch START...
+2024 04 11 11 05 37|UserClick|StartBtn
+2024 04 11 11 05 37|starting...
+2024 04 11 11 08 22|UserClick|StopBtn
+2024 04 11 11 08 23|UserClick|StopBtn_MsgBox_YES
+2024 04 11 11 08 23|Application stopped.
+2024 04 11 11 24 03|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 11 25 54|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 12 03 21|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 12 05 59|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 12 08 17|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 11 12 08 31|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 12 10 15|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 11 12 10 28|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 11 12 10 34|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 11 12 10 43|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 11 12 20 15|UserClick|StartBtn
+2024 04 11 12 20 15|starting...
+2024 04 11 12 20 15|Running Test Cameras
+2024 04 11 12 22 45|UserClick|StopBtn
+2024 04 11 12 22 46|UserClick|StopBtn_MsgBox_YES
+2024 04 11 12 22 46|Application stopped.
+2024 04 11 12 22 49|UserClick|Quit
+2024 04 11 12 22 59|Connecting to ADUs...
+2024 04 11 12 23 00|Devices found: 3
+2024 04 11 12 23 00|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 12 23 00|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 12 23 00|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 12 23 00|Keyence Scanner Connected!
+2024 04 11 12 23 00|Keyence Scanner Connected!
+2024 04 11 12 23 23|IO ready; touch START...
+2024 04 11 12 32 45|UserClick|StartBtn
+2024 04 11 12 32 45|starting...
+2024 04 11 12 32 45|Running Test Cameras
+2024 04 11 12 32 47|TIMER|INSPECT_TEST1|0.55
+2024 04 11 12 32 47|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 12 32 47|TIMER|INSPECT_TEST2|0.76
+2024 04 11 12 32 48|VISIONDATA|TEST2|CAM1_STLA_1|FAIL|
+2024 04 11 12 32 48|TIMER|INSPECT_TEST3|0.70
+2024 04 11 12 32 49|VISIONDATA|TEST3|CAM1_STLA_1|FAIL|
+2024 04 11 12 32 50|TIMER|INSPECT_TEST1|0.56
+2024 04 11 12 32 50|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 12 32 51|TIMER|INSPECT_TEST2|0.73
+2024 04 11 12 32 51|VISIONDATA|TEST2|CAM1_STLA_1|FAIL|
+2024 04 11 12 32 52|TIMER|INSPECT_TEST3|0.90
+2024 04 11 12 32 52|VISIONDATA|TEST3|CAM1_STLA_1|FAIL|
+2024 04 11 12 32 53|TIMER|INSPECT_TEST1|0.53
+2024 04 11 12 32 54|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 12 32 54|TIMER|INSPECT_TEST2|0.73
+2024 04 11 12 32 55|VISIONDATA|TEST2|CAM1_STLA_1|FAIL|
+2024 04 11 12 32 55|UserClick|StopBtn
+2024 04 11 12 32 55|UserClick|StopBtn_MsgBox_YES
+2024 04 11 12 32 55|Vision Inspect with Camera 1 failed.
+2024 04 11 12 32 55|Application stopped.
+2024 04 11 12 33 00|UserClick|StartBtn
+2024 04 11 12 33 00|starting...
+2024 04 11 12 33 00|TIMER|Initialize Outputs|0.18
+2024 04 11 12 33 16|UserClick|RetryBtn
+2024 04 11 12 33 16|TIMER|Remove Nested Hestsink|13.04
+2024 04 11 12 33 28|TIMER|Wait for operator to Send the Pallet|12.01
+2024 04 11 12 33 33|TIMER|Indexing Front Pallet into Position|4.50
+2024 04 11 12 33 33|SCANDATA|DK70887833343259
+2024 04 11 12 33 33|Non-Ported Heatsink Label=DK70887833343259
+2024 04 11 12 33 33|TIMER|Scan Non-Ported Heatsink|0.39
+2024 04 11 12 33 34|FISComm String: BREQ|id=DK70887833343259|process=STLA_GPIM_01|station=GPIM_L1S01
+2024 04 11 12 33 34|TIMER|FISBREQ - Heatsink_NonPorted|1.01
+2024 04 11 12 33 35|VISIONDATA|STLA_400VPIM150_TIMPADS_NonPortedHS|CAM2_STLA_1|FAIL|
+2024 04 11 12 33 46|UserClick|RetryBtn
+2024 04 11 12 33 47|VISIONDATA|STLA_400VPIM150_TIMPADS_NonPortedHS|CAM2_STLA_1|FAIL|
+2024 04 11 12 40 09|UserClick|RetryBtn
+2024 04 11 12 40 09|TIMER|INSPECT_STLA_400VPIM150_TIMPADS_NonPortedHS|395.10
+2024 04 11 12 40 10|VISIONDATA|STLA_400VPIM150_TIMPADS_NonPortedHS|CAM2_STLA_1|PASS|
+2024 04 11 12 40 10|TIMER|INSPECT_STLA_400VPIM150_RETAINERS_SEALS|0.86
+2024 04 11 12 40 11|VISIONDATA|STLA_400VPIM150_RETAINERS_SEALS|CAM2_STLA_1|PASS|
+2024 04 11 12 40 11|TIMER|INSPECT_STLA_400VPIM150_CLIPS|0.82
+2024 04 11 12 40 12|VISIONDATA|STLA_400VPIM150_CLIPS|CAM2_STLA_1|PASS|
+2024 04 11 12 41 34|Connecting to ADUs...
+2024 04 11 12 41 35|Devices found: 3
+2024 04 11 12 41 35|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 12 41 35|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 12 41 35|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 12 41 35|Keyence Scanner Connected!
+2024 04 11 12 41 35|Keyence Scanner Connected!
+2024 04 11 12 41 58|IO ready; touch START...
+2024 04 11 12 42 01|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 04 11 12 42 02|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 04 11 12 42 30|UserClick|StartBtn
+2024 04 11 12 42 30|starting...
+2024 04 11 12 43 46|UserClick|StopBtn
+2024 04 11 12 43 47|UserClick|StopBtn_MsgBox_YES
+2024 04 11 12 43 47|Application stopped.
+2024 04 11 12 56 35|UserClick|StartBtn
+2024 04 11 12 56 35|starting...
+2024 04 11 12 56 35|Running Test Cameras
+2024 04 11 12 56 36|TIMER|INSPECT_TEST1|0.54
+2024 04 11 12 56 37|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 12 56 37|TIMER|INSPECT_TEST2|0.77
+2024 04 11 12 56 38|VISIONDATA|TEST2|CAM1_STLA_1|FAIL|
+2024 04 11 12 56 38|TIMER|INSPECT_TEST3|0.79
+2024 04 11 12 56 38|VISIONDATA|TEST3|CAM1_STLA_1|FAIL|
+2024 04 11 12 56 40|TIMER|INSPECT_TEST1|0.56
+2024 04 11 12 56 40|UserClick|StopBtn
+2024 04 11 12 56 40|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 11 12 56 41|UserClick|StopBtn_MsgBox_YES
+2024 04 11 12 56 41|Vision Inspect with Camera 1 failed.
+2024 04 11 12 56 41|Application stopped.
+2024 04 11 12 57 02|UserClick|StartBtn
+2024 04 11 12 57 02|starting...
+2024 04 11 12 57 02|Running Test Cameras
+2024 04 11 12 57 22|Connecting to ADUs...
+2024 04 11 12 57 22|Devices found: 3
+2024 04 11 12 57 22|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 12 57 22|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 12 57 22|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 12 57 22|Keyence Scanner Connected!
+2024 04 11 12 57 22|Keyence Scanner Connected!
+2024 04 11 12 57 25|IO ready; touch START...
+2024 04 11 12 57 26|UserClick|StartBtn
+2024 04 11 12 57 26|starting...
+2024 04 11 13 07 16|UserClick|StopBtn
+2024 04 11 13 07 18|UserClick|StopBtn_MsgBox_YES
+2024 04 11 13 07 18|Application stopped.
+2024 04 11 13 45 26|UserClick|StartBtn
+2024 04 11 13 45 26|starting...
+2024 04 11 13 45 26|Running Test Conveyors...
+2024 04 11 13 45 26|TIMER|Initialize Outputs|0.09
+2024 04 11 13 46 54|TIMER|Wait for operator to Send the Pallet|87.22
+2024 04 11 13 46 58|TIMER|Indexing Front Pallet into Position|4.39
+2024 04 11 13 47 01|TIMER|Doing Stuff in Vision Box Front Conveyor|3.10
+2024 04 11 14 05 41|TIMER|Waiting for Viper Place to be Ready in the Front...|1119.62
+2024 04 11 14 07 17|UserClick|ToggleOutput_Output - 2K2_ON
+2024 04 11 14 07 19|UserClick|ToggleOutput_Output - 2K2_OFF
+2024 04 11 14 07 20|UserClick|ToggleOutput_Output - 2K2_ON
+2024 04 11 14 07 21|UserClick|ToggleOutput_Output - 2K2_OFF
+2024 04 11 14 07 22|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 11 14 07 22|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 11 14 07 25|TIMER|Sending Pallet to Viper Placement Zone|104.79
+2024 04 11 14 16 10|TIMER|Wait for operator to Send the Pallet|524.19
+2024 04 11 14 16 14|TIMER|Indexing Front Pallet into Position|4.32
+2024 04 11 14 16 17|TIMER|Doing Stuff in Vision Box Front Conveyor|3.09
+2024 04 11 14 16 17|TIMER|Waiting for Viper Place to be Ready in the Front...|0.09
+2024 04 11 14 16 20|TIMER|Sending Pallet to Viper Placement Zone|3.15
+2024 04 11 14 16 23|TIMER|Wait for operator to Send the Pallet|3.01
+2024 04 11 14 16 27|TIMER|Indexing Front Pallet into Position|3.51
+2024 04 11 14 16 30|TIMER|Doing Stuff in Vision Box Front Conveyor|3.10
+2024 04 11 14 17 46|TIMER|Waiting for Viper Place to be Ready in the Front...|76.15
+2024 04 11 14 17 49|TIMER|Sending Pallet to Viper Placement Zone|3.16
+2024 04 11 14 24 06|TIMER|Wait for operator to Send the Pallet|377.02
+2024 04 11 14 24 18|TIMER|Indexing Front Pallet into Position|11.54
+2024 04 11 14 24 21|TIMER|Doing Stuff in Vision Box Front Conveyor|3.08
+2024 04 11 14 24 21|TIMER|Waiting for Viper Place to be Ready in the Front...|0.09
+2024 04 11 14 24 24|TIMER|Sending Pallet to Viper Placement Zone|3.15
+2024 04 11 14 25 20|TIMER|Wait for operator to Send the Pallet|55.67
+2024 04 11 14 25 25|TIMER|Indexing Front Pallet into Position|5.33
+2024 04 11 14 25 28|TIMER|Doing Stuff in Vision Box Front Conveyor|3.08
+2024 04 11 14 25 29|TIMER|Waiting for Viper Place to be Ready in the Front...|0.86
+2024 04 11 14 25 32|TIMER|Sending Pallet to Viper Placement Zone|3.18
+2024 04 11 14 25 43|TIMER|Wait for operator to Send the Pallet|11.10
+2024 04 11 14 25 49|TIMER|Indexing Front Pallet into Position|5.49
+2024 04 11 14 25 52|TIMER|Doing Stuff in Vision Box Front Conveyor|3.09
+2024 04 11 14 26 02|TIMER|Waiting for Viper Place to be Ready in the Front...|10.32
+2024 04 11 14 26 05|TIMER|Sending Pallet to Viper Placement Zone|3.15
+2024 04 11 14 26 12|TIMER|Wait for operator to Send the Pallet|6.06
+2024 04 11 14 26 17|TIMER|Indexing Front Pallet into Position|5.65
+2024 04 11 14 26 20|TIMER|Doing Stuff in Vision Box Front Conveyor|3.08
+2024 04 11 14 26 24|TIMER|Waiting for Viper Place to be Ready in the Front...|4.22
+2024 04 11 14 26 28|TIMER|Sending Pallet to Viper Placement Zone|3.12
+2024 04 11 14 26 57|TIMER|Wait for operator to Send the Pallet|29.23
+2024 04 11 14 27 00|TIMER|Indexing Front Pallet into Position|3.32
+2024 04 11 14 27 03|TIMER|Doing Stuff in Vision Box Front Conveyor|3.09
+2024 04 11 14 27 03|TIMER|Waiting for Viper Place to be Ready in the Front...|0.09
+2024 04 11 14 27 06|TIMER|Sending Pallet to Viper Placement Zone|3.13
+2024 04 11 14 27 11|TIMER|Wait for operator to Send the Pallet|4.47
+2024 04 11 14 27 14|TIMER|Indexing Front Pallet into Position|3.11
+2024 04 11 14 27 17|TIMER|Doing Stuff in Vision Box Front Conveyor|3.10
+2024 04 11 14 27 25|TIMER|Waiting for Viper Place to be Ready in the Front...|7.45
+2024 04 11 14 27 28|TIMER|Sending Pallet to Viper Placement Zone|3.17
+2024 04 11 14 27 50|TIMER|Wait for operator to Send the Pallet|22.05
+2024 04 11 14 27 53|TIMER|Indexing Front Pallet into Position|3.26
+2024 04 11 14 27 56|TIMER|Doing Stuff in Vision Box Front Conveyor|3.09
+2024 04 11 14 27 57|TIMER|Waiting for Viper Place to be Ready in the Front...|1.08
+2024 04 11 14 28 00|TIMER|Sending Pallet to Viper Placement Zone|3.17
+2024 04 11 14 28 18|TIMER|Wait for operator to Send the Pallet|17.78
+2024 04 11 14 28 21|TIMER|Indexing Front Pallet into Position|2.94
+2024 04 11 14 28 24|TIMER|Doing Stuff in Vision Box Front Conveyor|3.08
+2024 04 11 14 28 24|TIMER|Waiting for Viper Place to be Ready in the Front...|0.08
+2024 04 11 14 28 28|TIMER|Sending Pallet to Viper Placement Zone|3.13
+2024 04 11 14 29 06|TIMER|Wait for operator to Send the Pallet|38.80
+2024 04 11 14 29 10|TIMER|Indexing Front Pallet into Position|3.19
+2024 04 11 14 29 13|TIMER|Doing Stuff in Vision Box Front Conveyor|3.08
+2024 04 11 14 29 13|TIMER|Waiting for Viper Place to be Ready in the Front...|0.09
+2024 04 11 14 29 16|TIMER|Sending Pallet to Viper Placement Zone|3.14
+2024 04 11 14 29 22|TIMER|Wait for operator to Send the Pallet|6.44
+2024 04 11 14 29 25|TIMER|Indexing Front Pallet into Position|2.83
+2024 04 11 14 29 28|TIMER|Doing Stuff in Vision Box Front Conveyor|3.08
+2024 04 11 14 29 37|TIMER|Waiting for Viper Place to be Ready in the Front...|8.65
+2024 04 11 14 29 40|TIMER|Sending Pallet to Viper Placement Zone|3.19
+2024 04 11 14 29 47|TIMER|Wait for operator to Send the Pallet|6.87
+2024 04 11 14 29 51|TIMER|Indexing Front Pallet into Position|3.59
+2024 04 11 14 29 54|TIMER|Doing Stuff in Vision Box Front Conveyor|3.09
+2024 04 11 14 29 59|TIMER|Waiting for Viper Place to be Ready in the Front...|4.98
+2024 04 11 14 30 02|TIMER|Sending Pallet to Viper Placement Zone|3.12
+2024 04 11 14 30 43|TIMER|Wait for operator to Send the Pallet|41.28
+2024 04 11 14 30 46|TIMER|Indexing Front Pallet into Position|3.37
+2024 04 11 14 30 50|TIMER|Doing Stuff in Vision Box Front Conveyor|3.08
+2024 04 11 14 30 50|TIMER|Waiting for Viper Place to be Ready in the Front...|0.08
+2024 04 11 14 30 53|TIMER|Sending Pallet to Viper Placement Zone|3.10
+2024 04 11 14 30 55|TIMER|Wait for operator to Send the Pallet|2.03
+2024 04 11 14 30 59|TIMER|Indexing Front Pallet into Position|3.91
+2024 04 11 14 31 02|TIMER|Doing Stuff in Vision Box Front Conveyor|3.07
+2024 04 11 14 31 36|TIMER|Waiting for Viper Place to be Ready in the Front...|34.50
+2024 04 11 14 31 39|TIMER|Sending Pallet to Viper Placement Zone|3.10
+2024 04 11 14 31 41|TIMER|Wait for operator to Send the Pallet|1.74
+2024 04 11 14 31 44|TIMER|Indexing Front Pallet into Position|3.06
+2024 04 11 14 31 47|TIMER|Doing Stuff in Vision Box Front Conveyor|3.07
+2024 04 11 14 32 34|TIMER|Waiting for Viper Place to be Ready in the Front...|46.78
+2024 04 11 14 32 37|TIMER|Sending Pallet to Viper Placement Zone|3.14
+2024 04 11 14 33 32|TIMER|Wait for operator to Send the Pallet|55.23
+2024 04 11 14 33 35|TIMER|Indexing Front Pallet into Position|2.83
+2024 04 11 14 33 38|TIMER|Doing Stuff in Vision Box Front Conveyor|3.08
+2024 04 11 14 35 02|TIMER|Waiting for Viper Place to be Ready in the Front...|83.45
+2024 04 11 14 35 05|TIMER|Sending Pallet to Viper Placement Zone|3.12
+2024 04 11 14 35 12|TIMER|Wait for operator to Send the Pallet|7.41
+2024 04 11 14 35 31|TIMER|Indexing Front Pallet into Position|18.95
+2024 04 11 14 35 48|TIMER|Doing Stuff in Vision Box Front Conveyor|15.47
+2024 04 11 14 36 44|Connecting to ADUs...
+2024 04 11 14 36 44|Devices found: 3
+2024 04 11 14 36 44|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 11 14 36 44|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 11 14 36 44|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 11 14 36 44|Keyence Scanner Connected!
+2024 04 11 14 36 44|Keyence Scanner Connected!
+2024 04 11 14 37 07|IO ready; touch START...
+2024 04 11 14 37 18|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 11 14 37 23|UserClick|StartBtn
+2024 04 11 14 37 23|starting...
+2024 04 11 14 37 23|Running Test Conveyors...
+2024 04 11 14 37 23|TIMER|Initialize Outputs|0.09
+2024 04 11 14 37 27|TIMER|Doing Stuff in Vision Box Front Conveyor|4.16
+2024 04 11 14 37 36|TIMER|Waiting for Viper Place to be Ready in the Front...|8.58
+2024 04 11 14 37 39|TIMER|Sending Pallet to Viper Placement Zone|3.42
+2024 04 11 14 37 41|TIMER|Wait for operator to Send the Pallet|1.74
+2024 04 11 14 37 54|TIMER|Indexing Front Pallet into Position|13.62
+2024 04 11 14 37 58|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 14 38 07|TIMER|Waiting for Viper Place to be Ready in the Front...|9.00
+2024 04 11 14 38 10|TIMER|Sending Pallet to Viper Placement Zone|3.43
+2024 04 11 14 38 12|TIMER|Wait for operator to Send the Pallet|1.61
+2024 04 11 14 38 15|TIMER|Indexing Front Pallet into Position|3.38
+2024 04 11 14 38 18|TIMER|Doing Stuff in Vision Box Front Conveyor|3.13
+2024 04 11 14 38 29|TIMER|Waiting for Viper Place to be Ready in the Front...|10.36
+2024 04 11 14 38 32|TIMER|Sending Pallet to Viper Placement Zone|3.40
+2024 04 11 14 38 38|TIMER|Wait for operator to Send the Pallet|5.79
+2024 04 11 14 38 41|TIMER|Indexing Front Pallet into Position|2.82
+2024 04 11 14 38 44|TIMER|Doing Stuff in Vision Box Front Conveyor|3.13
+2024 04 11 14 38 52|TIMER|Waiting for Viper Place to be Ready in the Front...|8.34
+2024 04 11 14 38 55|TIMER|Sending Pallet to Viper Placement Zone|3.38
+2024 04 11 14 39 01|TIMER|Wait for operator to Send the Pallet|5.52
+2024 04 11 14 39 04|TIMER|Indexing Front Pallet into Position|2.94
+2024 04 11 14 39 07|TIMER|Doing Stuff in Vision Box Front Conveyor|3.13
+2024 04 11 14 39 14|TIMER|Waiting for Viper Place to be Ready in the Front...|6.51
+2024 04 11 14 39 17|TIMER|Sending Pallet to Viper Placement Zone|3.40
+2024 04 11 14 39 27|TIMER|Wait for operator to Send the Pallet|9.80
+2024 04 11 14 39 29|TIMER|Indexing Front Pallet into Position|2.60
+2024 04 11 14 39 32|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 14 39 36|TIMER|Waiting for Viper Place to be Ready in the Front...|3.02
+2024 04 11 14 39 39|TIMER|Sending Pallet to Viper Placement Zone|3.40
+2024 04 11 14 39 41|TIMER|Wait for operator to Send the Pallet|1.81
+2024 04 11 14 39 43|TIMER|Indexing Front Pallet into Position|2.66
+2024 04 11 14 39 47|TIMER|Doing Stuff in Vision Box Front Conveyor|3.14
+2024 04 11 14 39 58|TIMER|Waiting for Viper Place to be Ready in the Front...|11.93
+2024 04 11 14 40 02|TIMER|Sending Pallet to Viper Placement Zone|3.40
+2024 04 11 14 40 09|TIMER|Wait for operator to Send the Pallet|7.24
+2024 04 11 14 40 12|TIMER|Indexing Front Pallet into Position|3.05
+2024 04 11 14 40 15|TIMER|Doing Stuff in Vision Box Front Conveyor|3.13
+2024 04 11 14 40 19|TIMER|Waiting for Viper Place to be Ready in the Front...|4.15
+2024 04 11 14 40 23|TIMER|Sending Pallet to Viper Placement Zone|3.42
+2024 04 11 14 40 25|TIMER|Wait for operator to Send the Pallet|1.58
+2024 04 11 14 40 49|TIMER|Indexing Front Pallet into Position|24.27
+2024 04 11 14 40 52|TIMER|Doing Stuff in Vision Box Front Conveyor|3.14
+2024 04 11 14 40 52|TIMER|Waiting for Viper Place to be Ready in the Front...|0.12
+2024 04 11 14 40 55|TIMER|Sending Pallet to Viper Placement Zone|3.43
+2024 04 11 14 40 57|TIMER|Wait for operator to Send the Pallet|1.50
+2024 04 11 14 41 05|TIMER|Indexing Front Pallet into Position|8.11
+2024 04 11 14 41 08|TIMER|Doing Stuff in Vision Box Front Conveyor|3.13
+2024 04 11 14 41 14|TIMER|Waiting for Viper Place to be Ready in the Front...|5.26
+2024 04 11 14 41 17|TIMER|Sending Pallet to Viper Placement Zone|3.39
+2024 04 11 14 41 30|TIMER|Wait for operator to Send the Pallet|13.14
+2024 04 11 14 41 33|TIMER|Indexing Front Pallet into Position|2.47
+2024 04 11 14 41 36|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 14 41 36|TIMER|Waiting for Viper Place to be Ready in the Front...|0.12
+2024 04 11 14 41 39|TIMER|Sending Pallet to Viper Placement Zone|3.43
+2024 04 11 14 41 42|TIMER|Wait for operator to Send the Pallet|3.21
+2024 04 11 14 41 46|TIMER|Indexing Front Pallet into Position|3.18
+2024 04 11 14 41 49|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 14 42 13|TIMER|Waiting for Viper Place to be Ready in the Front...|23.85
+2024 04 11 14 42 16|TIMER|Sending Pallet to Viper Placement Zone|3.46
+2024 04 11 14 42 18|TIMER|Wait for operator to Send the Pallet|2.10
+2024 04 11 14 42 21|TIMER|Indexing Front Pallet into Position|2.62
+2024 04 11 14 42 24|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 14 42 36|TIMER|Waiting for Viper Place to be Ready in the Front...|12.26
+2024 04 11 14 42 40|TIMER|Sending Pallet to Viper Placement Zone|3.44
+2024 04 11 14 43 02|TIMER|Wait for operator to Send the Pallet|22.60
+2024 04 11 14 43 06|TIMER|Indexing Front Pallet into Position|3.30
+2024 04 11 14 43 09|TIMER|Doing Stuff in Vision Box Front Conveyor|3.13
+2024 04 11 14 43 09|TIMER|Waiting for Viper Place to be Ready in the Front...|0.13
+2024 04 11 14 43 12|TIMER|Sending Pallet to Viper Placement Zone|3.45
+2024 04 11 14 43 18|TIMER|Wait for operator to Send the Pallet|5.20
+2024 04 11 14 43 21|TIMER|Indexing Front Pallet into Position|2.94
+2024 04 11 14 43 24|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 14 43 30|TIMER|Waiting for Viper Place to be Ready in the Front...|6.27
+2024 04 11 14 43 33|TIMER|Sending Pallet to Viper Placement Zone|3.37
+2024 04 11 14 43 35|TIMER|Wait for operator to Send the Pallet|1.79
+2024 04 11 14 43 38|TIMER|Indexing Front Pallet into Position|3.02
+2024 04 11 14 43 41|TIMER|Doing Stuff in Vision Box Front Conveyor|3.14
+2024 04 11 14 43 51|TIMER|Waiting for Viper Place to be Ready in the Front...|10.15
+2024 04 11 14 43 55|TIMER|Sending Pallet to Viper Placement Zone|3.43
+2024 04 11 14 44 01|TIMER|Wait for operator to Send the Pallet|5.97
+2024 04 11 14 44 04|TIMER|Indexing Front Pallet into Position|3.25
+2024 04 11 14 44 07|TIMER|Doing Stuff in Vision Box Front Conveyor|3.13
+2024 04 11 14 44 22|TIMER|Waiting for Viper Place to be Ready in the Front...|15.15
+2024 04 11 14 44 26|TIMER|Sending Pallet to Viper Placement Zone|3.42
+2024 04 11 14 44 45|TIMER|Wait for operator to Send the Pallet|18.74
+2024 04 11 14 44 57|TIMER|Indexing Front Pallet into Position|12.25
+2024 04 11 14 45 00|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 14 45 03|TIMER|Waiting for Viper Place to be Ready in the Front...|3.22
+2024 04 11 14 45 07|TIMER|Sending Pallet to Viper Placement Zone|3.39
+2024 04 11 14 45 22|TIMER|Wait for operator to Send the Pallet|15.10
+2024 04 11 14 45 30|TIMER|Indexing Front Pallet into Position|7.86
+2024 04 11 14 45 33|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 14 45 50|TIMER|Waiting for Viper Place to be Ready in the Front...|17.32
+2024 04 11 14 45 53|TIMER|Sending Pallet to Viper Placement Zone|3.42
+2024 04 11 14 45 56|TIMER|Wait for operator to Send the Pallet|2.32
+2024 04 11 14 45 59|TIMER|Indexing Front Pallet into Position|3.18
+2024 04 11 14 46 02|TIMER|Doing Stuff in Vision Box Front Conveyor|3.12
+2024 04 11 14 46 19|TIMER|Waiting for Viper Place to be Ready in the Front...|16.41
+2024 04 11 14 46 22|TIMER|Sending Pallet to Viper Placement Zone|3.44
+2024 04 11 14 46 25|TIMER|Wait for operator to Send the Pallet|2.86
+2024 04 11 14 46 38|TIMER|Indexing Front Pallet into Position|13.21
+2024 04 11 14 46 42|TIMER|Doing Stuff in Vision Box Front Conveyor|3.13
+2024 04 11 14 47 02|TIMER|Waiting for Viper Place to be Ready in the Front...|20.26
+2024 04 11 14 47 06|TIMER|Sending Pallet to Viper Placement Zone|3.45
+2024 04 11 14 47 10|TIMER|Wait for operator to Send the Pallet|3.96
+2024 04 11 14 47 18|TIMER|Indexing Front Pallet into Position|7.82
+2024 04 11 14 47 21|TIMER|Doing Stuff in Vision Box Front Conveyor|3.13
+2024 04 11 14 47 26|TIMER|Waiting for Viper Place to be Ready in the Front...|5.58
+2024 04 11 14 47 30|TIMER|Sending Pallet to Viper Placement Zone|3.40
+2024 04 11 16 00 22|UserClick|StopBtn
+2024 04 11 16 00 25|UserClick|StopBtn_MsgBox_YES
+2024 04 11 16 00 25|Application stopped.

@@ -1,0 +1,6 @@
+@Station_Sentinal.Server_HostAddress = http://localhost:5058
+
+GET {{Station_Sentinal.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

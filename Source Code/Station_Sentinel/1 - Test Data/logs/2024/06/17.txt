@@ -1,0 +1,114 @@
+2024 06 17 08 56 43|Connecting to ADUs...
+2024 06 17 08 56 44|Devices found: 3
+2024 06 17 08 56 44|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 06 17 08 56 44|USB: Base E22188 REY_PM_L3S02 Base
+2024 06 17 08 56 44|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 06 17 08 56 44|Keyence Scanner Connected!
+2024 06 17 08 56 44|Keyence Scanner Connected!
+2024 06 17 08 56 45|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 06 17 08 56 46|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 06 17 08 57 05|IO ready; touch START...
+2024 06 17 08 58 03|Doors are now OPEN
+2024 06 17 08 58 14|Doors are now OPEN
+2024 06 17 08 58 36|Doors are now OPEN
+2024 06 17 08 59 23|Doors are now OPEN
+2024 06 17 08 59 30|Doors are now OPEN
+2024 06 17 09 00 54|Doors are now OPEN
+2024 06 17 09 01 11|Doors are now OPEN
+2024 06 17 09 02 18|Doors are now OPEN
+2024 06 17 09 08 39|Doors are now OPEN
+2024 06 17 09 44 21|UserClick|ToggleOutput_Me Ready to Receive Front_ON
+2024 06 17 09 44 35|UserClick|ToggleOutput_Me Ready to Receive Front_OFF
+2024 06 17 09 45 01|UserClick|ToggleOutput_Me Ready to Receive Front_ON
+2024 06 17 09 45 02|UserClick|ToggleOutput_Me Ready to Receive Front_OFF
+2024 06 17 09 45 10|UserClick|ToggleOutput_Me Ready to Receive Front_ON
+2024 06 17 09 45 11|UserClick|ToggleOutput_Me Ready to Receive Front_OFF
+2024 06 17 09 46 50|UserClick|ToggleOutput_Me Ready to Receive Front_ON
+2024 06 17 09 46 51|UserClick|ToggleOutput_Me Ready to Receive Front_OFF
+2024 06 17 09 46 55|UserClick|ToggleOutput_Me Ready to Receive Front_ON
+2024 06 17 09 56 16|User: Microbase
+2024 06 17 09 56 52|UserClick|Quit
+2024 06 17 09 56 55|Connecting to ADUs...
+2024 06 17 09 56 55|Devices found: 3
+2024 06 17 09 56 55|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 06 17 09 56 55|USB: Base E22188 REY_PM_L3S02 Base
+2024 06 17 09 56 55|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 06 17 09 56 55|Keyence Scanner Connected!
+2024 06 17 09 56 55|Keyence Scanner Connected!
+2024 06 17 09 56 56|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 06 17 09 56 57|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 06 17 10 04 59|IO ready; touch START...
+2024 06 17 10 05 10|UserClick|StartBtn
+2024 06 17 10 05 10|starting...
+2024 06 17 10 05 10|PN_PowerModule_Assembly=42057410
+2024 06 17 10 05 10|PN_Heatsink_Ported=42036366
+2024 06 17 10 05 10|PN_Heatsink_NonPorted=42036367
+2024 06 17 10 05 10|PN_SpringClamp=42040020
+2024 06 17 10 05 10|PN_Seal=42040020
+2024 06 17 10 05 10|PN_Retainer=42048934
+2024 06 17 10 05 10|MODEL_Heatsink_Ported=42037640
+2024 06 17 10 05 10|MODEL_Heatsink_NonPorted=42037641
+2024 06 17 10 05 10|PN_Insulator=DNE
+2024 06 17 10 05 10|PALLETARRAY|0|PAL0451
+2024 06 17 10 05 10|PALLETARRAY|1|PAL0452
+2024 06 17 10 05 10|PALLETARRAY|2|PAL0453
+2024 06 17 10 05 10|PALLETARRAY|3|PAL0454
+2024 06 17 10 05 10|PALLETARRAY|4|PAL0455
+2024 06 17 10 05 10|PALLETARRAY|5|PAL0456
+2024 06 17 10 05 11|Job File Is Already Loaded onto Camera, PM_L3S02_CAM1
+2024 06 17 10 05 11|Job File Is Already Loaded onto Camera, PM_L3S02_CAM2
+2024 06 17 10 05 12|TIMER|Initialize Outputs|0.09
+2024 06 17 10 05 15|TIMER|MECA500_Home|0.27
+2024 06 17 10 05 15|Switching lights to NEST and waiting 0 seconds
+2024 06 17 10 05 17|User: Microbase
+2024 06 17 10 07 33|Connecting to ADUs...
+2024 06 17 10 07 33|Devices found: 3
+2024 06 17 10 07 33|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 06 17 10 07 33|USB: Base E22188 REY_PM_L3S02 Base
+2024 06 17 10 07 33|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 06 17 10 07 33|Keyence Scanner Connected!
+2024 06 17 10 07 33|Keyence Scanner Connected!
+2024 06 17 10 07 34|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 06 17 10 07 35|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 06 17 10 07 37|IO ready; touch START...
+2024 06 17 10 07 40|UserClick|StartBtn
+2024 06 17 10 07 40|starting...
+2024 06 17 10 07 41|PN_PowerModule_Assembly=42057410
+2024 06 17 10 07 41|PN_Heatsink_Ported=42036366
+2024 06 17 10 07 41|PN_Heatsink_NonPorted=42036367
+2024 06 17 10 07 41|PN_SpringClamp=42040020
+2024 06 17 10 07 41|PN_Seal=42040020
+2024 06 17 10 07 41|PN_Retainer=42048934
+2024 06 17 10 07 41|MODEL_Heatsink_Ported=42037640
+2024 06 17 10 07 41|MODEL_Heatsink_NonPorted=42037641
+2024 06 17 10 07 41|PN_Insulator=DNE
+2024 06 17 10 07 41|PALLETARRAY|0|PAL0451
+2024 06 17 10 07 41|PALLETARRAY|1|PAL0452
+2024 06 17 10 07 41|PALLETARRAY|2|PAL0453
+2024 06 17 10 07 41|PALLETARRAY|3|PAL0454
+2024 06 17 10 07 41|PALLETARRAY|4|PAL0455
+2024 06 17 10 07 41|PALLETARRAY|5|PAL0456
+2024 06 17 10 07 42|Job File Is Already Loaded onto Camera, PM_L3S02_CAM1
+2024 06 17 10 07 42|Job File Is Already Loaded onto Camera, PM_L3S02_CAM2
+2024 06 17 10 07 42|TIMER|Initialize Outputs|0.09
+2024 06 17 10 07 46|TIMER|MECA500_Home|0.26
+2024 06 17 10 07 46|Switching lights to NEST and waiting 0 seconds
+2024 06 17 10 09 21|User: Microbase
+2024 06 17 10 09 29|UserClick|StopBtn
+2024 06 17 10 09 30|UserClick|StopBtn_MsgBox_YES
+2024 06 17 10 09 30|Application stopped.
+2024 06 17 10 10 23|User: Microbase
+2024 06 17 10 10 52|User: Admin
+2024 06 17 10 11 45|UserClick|Meca500_ProgramComboChange
+2024 06 17 10 59 05|UserClick|Quit
+2024 06 17 15 22 32|Connecting to ADUs...
+2024 06 17 15 22 32|Devices found: 3
+2024 06 17 15 22 32|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 06 17 15 22 32|USB: Base E22188 REY_PM_L3S02 Base
+2024 06 17 15 22 32|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 06 17 15 22 33|Keyence Scanner Connected!
+2024 06 17 15 22 33|Keyence Scanner Connected!
+2024 06 17 15 22 34|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 06 17 15 22 35|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 06 17 15 22 57|IO ready; touch START...
+2024 06 17 15 55 29|UserClick|Quit

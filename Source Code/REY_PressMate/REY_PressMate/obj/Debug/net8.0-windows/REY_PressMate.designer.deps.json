@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UcAsp.Opc/1.0.0.5": {
+        "runtime": {
+          "lib/net46/UcAsp.Opc.dll": {
+            "assemblyVersion": "1.0.0.5",
+            "fileVersion": "1.0.0.5"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UcAsp.Opc/1.0.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zrMIBdgIgTm/ZdM2NFfrq10egsINOGhgnhf+bEli/qgDDmBKr6sCM2fdjozllrkIUj5+Lqr9ANYNbGP4608WTQ==",
+      "path": "ucasp.opc/1.0.0.5",
+      "hashPath": "ucasp.opc.1.0.0.5.nupkg.sha512"
+    }
+  }
+}

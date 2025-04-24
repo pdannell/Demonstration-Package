@@ -1,0 +1,6 @@
+2025 04 08 08 32 59|UserClick|StopBtn
+2025 04 08 08 33 00|UserClick|StopBtn
+2025 04 08 08 33 04|UserClick|StopBtn_MsgBox_YES
+2025 04 08 08 33 04|UserClick|StopBtn_MsgBox_YES
+2025 04 08 08 33 04|UserClick|StopBtn_MsgBox_YES
+2025 02 01 08 33 04|Application stopped.

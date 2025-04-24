@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings_OPCDA">
+  <Profiles />
+  <Settings>
+    <Setting Name="Default_Server_IP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Default_Server_ProgramName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Schmidt Technology.PRCOPC_DA</Value>
+    </Setting>
+    <Setting Name="Enabled" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

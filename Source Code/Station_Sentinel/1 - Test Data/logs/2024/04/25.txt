@@ -1,0 +1,1072 @@
+2024 04 25 07 44 11|UserClick|Quit
+2024 04 25 10 29 57|Connecting to ADUs...
+2024 04 25 10 29 57|Devices found: 3
+2024 04 25 10 29 57|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 10 29 57|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 10 29 57|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 10 29 57|Keyence Scanner Connected!
+2024 04 25 10 29 57|Keyence Scanner Connected!
+2024 04 25 10 30 20|IO ready; touch START...
+2024 04 25 10 30 33|UserClick|StartBtn
+2024 04 25 10 30 33|starting...
+2024 04 25 10 30 33|TIMER|Initialize Outputs|0.09
+2024 04 25 10 31 17|TIMER|Wait for operator to Send the Pallet|40.71
+2024 04 25 10 31 20|TIMER|Indexing Front Pallet into Position|3.03
+2024 04 25 10 31 21|TIMER|Indexing Front Pallet into Position|1.32
+2024 04 25 10 31 23|TIMER|Indexing Front Pallet into Position|1.33
+2024 04 25 10 31 24|TIMER|Indexing Front Pallet into Position|1.34
+2024 04 25 10 31 25|TIMER|Indexing Front Pallet into Position|1.33
+2024 04 25 10 31 27|TIMER|Indexing Front Pallet into Position|1.34
+2024 04 25 10 31 28|TIMER|Indexing Front Pallet into Position|1.34
+2024 04 25 10 31 29|TIMER|Indexing Front Pallet into Position|1.33
+2024 04 25 10 31 31|TIMER|Indexing Front Pallet into Position|1.34
+2024 04 25 10 31 32|TIMER|Indexing Front Pallet into Position|1.34
+2024 04 25 10 31 32|UserClick|StopBtn
+2024 04 25 10 31 33|UserClick|StopBtn_MsgBox_YES
+2024 04 25 10 31 33|Application stopped.
+2024 04 25 10 31 48|UserClick|Quit
+2024 04 25 10 34 40|Connecting to ADUs...
+2024 04 25 10 34 40|Devices found: 3
+2024 04 25 10 34 40|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 10 34 40|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 10 34 40|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 10 34 40|Keyence Scanner Connected!
+2024 04 25 10 34 40|Keyence Scanner Connected!
+2024 04 25 10 35 03|IO ready; touch START...
+2024 04 25 10 35 32|UserClick|StartBtn
+2024 04 25 10 35 32|starting...
+2024 04 25 10 35 32|TIMER|Initialize Outputs|0.11
+2024 04 25 10 35 38|TIMER|Indexing Front Pallet into Position|2.37
+2024 04 25 10 35 39|TIMER|Indexing Front Pallet into Position|1.33
+2024 04 25 10 35 41|TIMER|Indexing Front Pallet into Position|1.34
+2024 04 25 10 35 42|TIMER|Indexing Front Pallet into Position|1.34
+2024 04 25 10 35 43|TIMER|Indexing Front Pallet into Position|1.34
+2024 04 25 10 35 45|TIMER|Indexing Front Pallet into Position|1.33
+2024 04 25 10 35 46|TIMER|Indexing Front Pallet into Position|1.33
+2024 04 25 10 35 47|TIMER|Indexing Front Pallet into Position|1.33
+2024 04 25 10 35 49|TIMER|Indexing Front Pallet into Position|1.34
+2024 04 25 10 35 50|TIMER|Indexing Front Pallet into Position|1.34
+2024 04 25 10 36 27|Connecting to ADUs...
+2024 04 25 10 36 27|Devices found: 3
+2024 04 25 10 36 27|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 10 36 27|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 10 36 27|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 10 36 27|Keyence Scanner Connected!
+2024 04 25 10 36 27|Keyence Scanner Connected!
+2024 04 25 10 36 50|IO ready; touch START...
+2024 04 25 10 36 56|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 25 10 37 02|UserClick|StartBtn
+2024 04 25 10 37 02|starting...
+2024 04 25 10 37 02|TIMER|Initialize Outputs|0.09
+2024 04 25 10 37 07|TIMER|Indexing Front Pallet into Position|2.38
+2024 04 25 10 37 48|UserClick|StopBtn
+2024 04 25 10 37 50|UserClick|StopBtn_MsgBox_YES
+2024 04 25 10 37 50|Application stopped.
+2024 04 25 10 37 51|UserClick|Quit
+2024 04 25 10 45 19|Connecting to ADUs...
+2024 04 25 10 45 20|Devices found: 3
+2024 04 25 10 45 20|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 10 45 20|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 10 45 20|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 10 45 20|Keyence Scanner Connected!
+2024 04 25 10 45 20|Keyence Scanner Connected!
+2024 04 25 10 45 23|IO ready; touch START...
+2024 04 25 10 46 26|UserClick|Quit
+2024 04 25 10 46 31|Connecting to ADUs...
+2024 04 25 10 46 31|Devices found: 3
+2024 04 25 10 46 31|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 10 46 31|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 10 46 31|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 10 46 31|Keyence Scanner Connected!
+2024 04 25 10 46 31|Keyence Scanner Connected!
+2024 04 25 10 46 56|IO ready; touch START...
+2024 04 25 10 47 01|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 25 10 47 10|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 25 10 48 34|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 25 10 48 42|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 25 10 48 45|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 25 10 48 49|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 25 10 48 53|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 25 10 48 58|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 25 10 49 00|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 25 10 49 04|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 25 10 49 05|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 25 10 49 05|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 25 10 49 05|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 25 10 49 06|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 25 10 49 06|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 25 10 49 07|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 25 10 52 31|UserClick|ToggleOutput_Front Stop 1 Go DOWN_OFF
+2024 04 25 10 52 32|UserClick|ToggleOutput_Front Stop 1 Go DOWN_ON
+2024 04 25 10 52 44|UserClick|ToggleOutput_Front Stop 2 Go DOWN_ON
+2024 04 25 10 52 47|UserClick|ToggleOutput_Front Stop 1 Go DOWN_OFF
+2024 04 25 10 52 49|UserClick|ToggleOutput_Front Stop 2 Go DOWN_OFF
+2024 04 25 10 52 50|UserClick|ToggleOutput_Front Stop 2 Go DOWN_ON
+2024 04 25 10 52 55|UserClick|ToggleOutput_Front Stop 2 Go DOWN_OFF
+2024 04 25 10 52 56|UserClick|ToggleOutput_Front Stop 1 Go DOWN_ON
+2024 04 25 10 52 56|UserClick|ToggleOutput_Front Stop 1 Go DOWN_OFF
+2024 04 25 10 53 02|UserClick|Quit
+2024 04 25 10 55 03|Connecting to ADUs...
+2024 04 25 10 55 03|Devices found: 3
+2024 04 25 10 55 03|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 10 55 03|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 10 55 03|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 10 55 03|Keyence Scanner Connected!
+2024 04 25 10 55 03|Keyence Scanner Connected!
+2024 04 25 10 55 28|IO ready; touch START...
+2024 04 25 10 57 35|Connecting to ADUs...
+2024 04 25 10 57 36|Devices found: 3
+2024 04 25 10 57 36|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 10 57 36|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 10 57 36|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 10 57 36|Keyence Scanner Connected!
+2024 04 25 10 57 36|Keyence Scanner Connected!
+2024 04 25 10 58 00|IO ready; touch START...
+2024 04 25 11 02 06|Connecting to ADUs...
+2024 04 25 11 02 06|Devices found: 3
+2024 04 25 11 02 06|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 11 02 06|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 11 02 06|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 11 02 06|Keyence Scanner Connected!
+2024 04 25 11 02 06|Keyence Scanner Connected!
+2024 04 25 11 02 09|IO ready; touch START...
+2024 04 25 11 02 47|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 04 25 11 02 48|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 04 25 11 02 53|UserClick|Quit
+2024 04 25 11 03 00|Connecting to ADUs...
+2024 04 25 11 03 00|Devices found: 3
+2024 04 25 11 03 00|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 11 03 00|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 11 03 00|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 11 03 00|Keyence Scanner Connected!
+2024 04 25 11 03 00|Keyence Scanner Connected!
+2024 04 25 11 03 24|IO ready; touch START...
+2024 04 25 11 03 58|Connecting to ADUs...
+2024 04 25 11 03 58|Devices found: 3
+2024 04 25 11 03 58|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 11 03 58|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 11 03 58|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 11 03 58|Keyence Scanner Connected!
+2024 04 25 11 03 58|Keyence Scanner Connected!
+2024 04 25 11 04 22|IO ready; touch START...
+2024 04 25 12 39 18|UserClick|Quit
+2024 04 25 12 41 34|Connecting to ADUs...
+2024 04 25 12 41 34|Devices found: 3
+2024 04 25 12 41 34|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 12 41 34|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 12 41 34|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 12 41 34|Keyence Scanner Connected!
+2024 04 25 12 41 34|Keyence Scanner Connected!
+2024 04 25 12 41 58|IO ready; touch START...
+2024 04 25 12 42 38|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 25 12 42 47|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF
+2024 04 25 12 42 48|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 25 12 52 51|Connecting to ADUs...
+2024 04 25 12 52 51|Devices found: 3
+2024 04 25 12 52 51|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 12 52 51|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 12 52 51|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 12 52 51|Keyence Scanner Connected!
+2024 04 25 12 52 51|Keyence Scanner Connected!
+2024 04 25 12 52 54|IO ready; touch START...
+2024 04 25 12 53 00|UserClick|StartBtn
+2024 04 25 12 53 00|starting...
+2024 04 25 12 53 00|PN_PowerModule_Assembly=42037639
+2024 04 25 12 53 00|PN_Heatsink_Ported=DK708877
+2024 04 25 12 53 00|PN_Heatsink_NonPorted=DK708878
+2024 04 25 12 53 00|PN_SpringClamp=42040020
+2024 04 25 12 53 00|PN_Seal=42040020
+2024 04 25 12 53 00|PN_Retainer=42048934
+2024 04 25 12 53 00|PN_Insulator=DK708877
+2024 04 25 12 53 00|PALLETARRAY|0|PAL0450
+2024 04 25 12 53 00|PALLETARRAY|1|PAL0451
+2024 04 25 12 53 00|PALLETARRAY|2|PAL0452
+2024 04 25 12 53 00|PALLETARRAY|3|PAL0453
+2024 04 25 12 53 00|PALLETARRAY|4|PAL0454
+2024 04 25 12 53 00|PALLETARRAY|5|PAL0455
+2024 04 25 12 53 00|TIMER|Initialize Outputs|0.10
+2024 04 25 12 53 03|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 12 53 24|TIMER|COMPLETED_JOB_CHANGE|21.24
+2024 04 25 12 53 24|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.26
+2024 04 25 12 53 27|TIMER|Indexing Front Pallet into Position|2.33
+2024 04 25 12 53 31|Invalid Pallet Label!
+2024 04 25 12 53 51|UserClick|RetryBtn
+2024 04 25 12 55 30|Connecting to ADUs...
+2024 04 25 12 55 30|Devices found: 3
+2024 04 25 12 55 30|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 12 55 30|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 12 55 30|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 12 55 30|Keyence Scanner Connected!
+2024 04 25 12 55 30|Keyence Scanner Connected!
+2024 04 25 12 55 33|IO ready; touch START...
+2024 04 25 12 55 34|UserClick|StartBtn
+2024 04 25 12 55 34|starting...
+2024 04 25 12 55 34|PN_PowerModule_Assembly=42037639
+2024 04 25 12 55 34|PN_Heatsink_Ported=DK708877
+2024 04 25 12 55 34|PN_Heatsink_NonPorted=DK708878
+2024 04 25 12 55 34|PN_SpringClamp=42040020
+2024 04 25 12 55 34|PN_Seal=42040020
+2024 04 25 12 55 34|PN_Retainer=42048934
+2024 04 25 12 55 34|PN_Insulator=DK708877
+2024 04 25 12 55 34|PALLETARRAY|0|PAL0450
+2024 04 25 12 55 34|PALLETARRAY|1|PAL0451
+2024 04 25 12 55 34|PALLETARRAY|2|PAL0452
+2024 04 25 12 55 34|PALLETARRAY|3|PAL0453
+2024 04 25 12 55 34|PALLETARRAY|4|PAL0454
+2024 04 25 12 55 34|PALLETARRAY|5|PAL0455
+2024 04 25 12 55 34|TIMER|Initialize Outputs|0.10
+2024 04 25 12 55 37|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 12 55 58|TIMER|COMPLETED_JOB_CHANGE|21.24
+2024 04 25 12 55 58|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.35
+2024 04 25 12 56 01|TIMER|Indexing Front Pallet into Position|2.35
+2024 04 25 13 29 39|Connecting to ADUs...
+2024 04 25 13 29 39|Devices found: 3
+2024 04 25 13 29 39|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 13 29 39|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 13 29 39|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 13 29 39|Keyence Scanner Connected!
+2024 04 25 13 29 39|Keyence Scanner Connected!
+2024 04 25 13 30 03|IO ready; touch START...
+2024 04 25 13 30 05|UserClick|StartBtn
+2024 04 25 13 30 05|starting...
+2024 04 25 13 30 05|PN_PowerModule_Assembly=42037639
+2024 04 25 13 30 05|PN_Heatsink_Ported=DK708877
+2024 04 25 13 30 05|PN_Heatsink_NonPorted=DK708878
+2024 04 25 13 30 05|PN_SpringClamp=42040020
+2024 04 25 13 30 05|PN_Seal=42040020
+2024 04 25 13 30 05|PN_Retainer=42048934
+2024 04 25 13 30 05|PN_Insulator=DK708877
+2024 04 25 13 30 05|PALLETARRAY|0|PAL0450
+2024 04 25 13 30 05|PALLETARRAY|1|PAL0451
+2024 04 25 13 30 05|PALLETARRAY|2|PAL0452
+2024 04 25 13 30 05|PALLETARRAY|3|PAL0453
+2024 04 25 13 30 05|PALLETARRAY|4|PAL0454
+2024 04 25 13 30 05|PALLETARRAY|5|PAL0455
+2024 04 25 13 30 05|TIMER|Initialize Outputs|0.10
+2024 04 25 13 30 08|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 13 30 30|Failed to set camera online
+2024 04 25 13 30 30|Failed to set camera online
+2024 04 25 13 30 30|Failed to set camera online
+2024 04 25 13 30 31|Failed to set camera online
+2024 04 25 13 30 31|Failed to set camera online
+2024 04 25 13 30 32|Failed to set camera online
+2024 04 25 13 30 32|Failed to set camera online
+2024 04 25 13 30 32|Failed to set camera online
+2024 04 25 13 30 33|Failed to set camera online
+2024 04 25 13 30 33|Failed to set camera online
+2024 04 25 13 30 34|Failed to set camera online
+2024 04 25 13 30 34|Failed to set camera online
+2024 04 25 13 30 35|Failed to set camera online
+2024 04 25 13 30 35|Failed to set camera online
+2024 04 25 13 30 35|Failed to set camera online
+2024 04 25 13 30 36|Failed to set camera online
+2024 04 25 13 30 36|Failed to set camera online
+2024 04 25 13 30 37|Failed to set camera online
+2024 04 25 13 30 37|Failed to set camera online
+2024 04 25 13 30 37|FAULT|Unable to load Job on Camera: 1 Job: 
+2024 04 25 13 31 05|UserClick|StopBtn
+2024 04 25 13 31 06|UserClick|StopBtn_MsgBox_YES
+2024 04 25 13 31 06|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 13 31 06|TIMER|Change Vision Inspection Number, Cam1, Insp1|58.05
+2024 04 25 13 31 07|Application stopped.
+2024 04 25 13 31 08|UserClick|StartBtn
+2024 04 25 13 31 08|starting...
+2024 04 25 13 31 08|PN_PowerModule_Assembly=42037639
+2024 04 25 13 31 08|PN_Heatsink_Ported=DK708877
+2024 04 25 13 31 08|PN_Heatsink_NonPorted=DK708878
+2024 04 25 13 31 08|PN_SpringClamp=42040020
+2024 04 25 13 31 08|PN_Seal=42040020
+2024 04 25 13 31 08|PN_Retainer=42048934
+2024 04 25 13 31 08|PN_Insulator=DK708877
+2024 04 25 13 31 08|PALLETARRAY|6|PAL0450
+2024 04 25 13 31 08|PALLETARRAY|7|PAL0451
+2024 04 25 13 31 08|PALLETARRAY|8|PAL0452
+2024 04 25 13 31 08|PALLETARRAY|9|PAL0453
+2024 04 25 13 31 09|PALLETARRAY|10|PAL0454
+2024 04 25 13 31 09|PALLETARRAY|11|PAL0455
+2024 04 25 13 31 09|TIMER|Initialize Outputs|0.10
+2024 04 25 13 31 12|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 13 31 33|TIMER|COMPLETED_JOB_CHANGE|21.24
+2024 04 25 13 31 33|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.25
+2024 04 25 13 31 34|TIMER|Indexing Front Pallet into Position|1.31
+2024 04 25 14 39 35|Connecting to ADUs...
+2024 04 25 14 39 35|Devices found: 3
+2024 04 25 14 39 35|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 14 39 35|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 14 39 35|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 14 39 35|Keyence Scanner Connected!
+2024 04 25 14 39 35|Keyence Scanner Connected!
+2024 04 25 14 39 38|IO ready; touch START...
+2024 04 25 14 39 51|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 25 14 40 20|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF
+2024 04 25 14 40 21|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 25 14 41 18|UserClick|StartBtn
+2024 04 25 14 41 18|starting...
+2024 04 25 14 41 18|PN_PowerModule_Assembly=42037639
+2024 04 25 14 41 18|PN_Heatsink_Ported=DK708877
+2024 04 25 14 41 18|PN_Heatsink_NonPorted=DK708878
+2024 04 25 14 41 18|PN_SpringClamp=42040020
+2024 04 25 14 41 18|PN_Seal=42040020
+2024 04 25 14 41 18|PN_Retainer=42048934
+2024 04 25 14 41 18|PN_Insulator=DK708877
+2024 04 25 14 41 18|PALLETARRAY|0|PAL0450
+2024 04 25 14 41 18|PALLETARRAY|1|PAL0451
+2024 04 25 14 41 18|PALLETARRAY|2|PAL0452
+2024 04 25 14 41 18|PALLETARRAY|3|PAL0453
+2024 04 25 14 41 18|PALLETARRAY|4|PAL0454
+2024 04 25 14 41 18|PALLETARRAY|5|PAL0455
+2024 04 25 14 41 19|TIMER|Initialize Outputs|0.10
+2024 04 25 14 41 22|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 14 41 43|TIMER|COMPLETED_JOB_CHANGE|21.25
+2024 04 25 14 41 43|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.26
+2024 04 25 14 41 45|TIMER|Indexing Front Pallet into Position|2.35
+2024 04 25 14 41 50|Invalid Pallet Label!
+2024 04 25 14 41 55|UserClick|RetryBtn
+2024 04 25 14 42 00|Invalid Pallet Label!
+2024 04 25 14 42 08|UserClick|RetryBtn
+2024 04 25 14 43 36|Connecting to ADUs...
+2024 04 25 14 43 36|Devices found: 3
+2024 04 25 14 43 36|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 14 43 36|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 14 43 36|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 14 43 36|Keyence Scanner Connected!
+2024 04 25 14 43 36|Keyence Scanner Connected!
+2024 04 25 14 43 39|IO ready; touch START...
+2024 04 25 14 43 41|UserClick|StartBtn
+2024 04 25 14 43 41|starting...
+2024 04 25 14 43 41|PN_PowerModule_Assembly=42037639
+2024 04 25 14 43 41|PN_Heatsink_Ported=DK708877
+2024 04 25 14 43 41|PN_Heatsink_NonPorted=DK708878
+2024 04 25 14 43 41|PN_SpringClamp=42040020
+2024 04 25 14 43 41|PN_Seal=42040020
+2024 04 25 14 43 41|PN_Retainer=42048934
+2024 04 25 14 43 41|PN_Insulator=DK708877
+2024 04 25 14 43 41|PALLETARRAY|0|PAL0450
+2024 04 25 14 43 41|PALLETARRAY|1|PAL0451
+2024 04 25 14 43 41|PALLETARRAY|2|PAL0452
+2024 04 25 14 43 41|PALLETARRAY|3|PAL0453
+2024 04 25 14 43 41|PALLETARRAY|4|PAL0454
+2024 04 25 14 43 41|PALLETARRAY|5|PAL0455
+2024 04 25 14 43 41|TIMER|Initialize Outputs|0.11
+2024 04 25 14 43 44|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 14 44 05|TIMER|COMPLETED_JOB_CHANGE|21.23
+2024 04 25 14 44 06|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.24
+2024 04 25 14 44 08|TIMER|Indexing Front Pallet into Position|2.34
+2024 04 25 14 50 28|Connecting to ADUs...
+2024 04 25 14 50 29|Devices found: 3
+2024 04 25 14 50 29|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 14 50 29|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 14 50 29|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 14 50 29|Keyence Scanner Connected!
+2024 04 25 14 50 29|Keyence Scanner Connected!
+2024 04 25 14 50 31|IO ready; touch START...
+2024 04 25 14 50 40|UserClick|StartBtn
+2024 04 25 14 50 40|starting...
+2024 04 25 14 50 40|PN_PowerModule_Assembly=42037639
+2024 04 25 14 50 40|PN_Heatsink_Ported=DK708877
+2024 04 25 14 50 40|PN_Heatsink_NonPorted=DK708878
+2024 04 25 14 50 40|PN_SpringClamp=42040020
+2024 04 25 14 50 40|PN_Seal=42040020
+2024 04 25 14 50 40|PN_Retainer=42048934
+2024 04 25 14 50 40|PN_Insulator=DK708877
+2024 04 25 14 50 40|PALLETARRAY|0|PAL0450
+2024 04 25 14 50 40|PALLETARRAY|1|PAL0451
+2024 04 25 14 50 40|PALLETARRAY|2|PAL0452
+2024 04 25 14 50 40|PALLETARRAY|3|PAL0453
+2024 04 25 14 50 40|PALLETARRAY|4|PAL0454
+2024 04 25 14 50 40|PALLETARRAY|5|PAL0455
+2024 04 25 14 50 40|TIMER|Initialize Outputs|0.11
+2024 04 25 14 50 44|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 14 51 05|TIMER|COMPLETED_JOB_CHANGE|21.26
+2024 04 25 14 51 05|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.28
+2024 04 25 14 51 07|TIMER|Indexing Front Pallet into Position|2.35
+2024 04 25 14 51 12|Invalid Pallet Label!
+2024 04 25 14 51 21|UserClick|RetryBtn
+2024 04 25 14 51 26|Invalid Pallet Label!
+2024 04 25 14 51 33|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 25 14 51 33|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 25 14 51 36|UserClick|RetryBtn
+2024 04 25 14 51 41|Invalid Pallet Label!
+2024 04 25 14 51 44|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 25 14 51 45|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 25 14 51 56|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 25 14 51 58|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 25 14 53 28|UserClick|RetryBtn
+2024 04 25 14 53 32|Invalid Pallet Label!
+2024 04 25 14 53 41|Connecting to ADUs...
+2024 04 25 14 53 42|Devices found: 3
+2024 04 25 14 53 42|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 14 53 42|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 14 53 42|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 14 53 42|Keyence Scanner Connected!
+2024 04 25 14 53 42|Keyence Scanner Connected!
+2024 04 25 14 53 45|IO ready; touch START...
+2024 04 25 14 53 46|UserClick|StartBtn
+2024 04 25 14 53 46|starting...
+2024 04 25 14 53 46|Running Vision MSA for Camera 1, Inspection 1, Number of Samples = 5
+2024 04 25 14 53 47|MSA Sample 1 of 5
+2024 04 25 14 53 48|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 14 53 49|MSA Sample 2 of 5
+2024 04 25 14 53 50|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 14 53 51|MSA Sample 3 of 5
+2024 04 25 14 53 51|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 14 53 53|VISIONDATA|MSA_PointXY|MSA_SAMPLE_1|RECIEVE_DATA_TIMEOUT
+2024 04 25 14 53 53|MSA Sample 4 of 5
+2024 04 25 14 53 53|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 14 53 54|VISIONDATA|MSA_PointXY|MSA_SAMPLE_2|RECIEVE_DATA_TIMEOUT
+2024 04 25 14 53 54|MSA Sample 5 of 5
+2024 04 25 14 53 55|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 14 53 56|VISIONDATA|MSA_PointXY|MSA_SAMPLE_3|RECIEVE_DATA_TIMEOUT
+2024 04 25 14 53 56|Application stopped.
+2024 04 25 14 53 58|VISIONDATA|MSA_PointXY|MSA_SAMPLE_4|RECIEVE_DATA_TIMEOUT
+2024 04 25 14 53 59|UserClick|Quit
+2024 04 25 14 57 33|Connecting to ADUs...
+2024 04 25 14 57 33|Devices found: 3
+2024 04 25 14 57 33|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 14 57 33|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 14 57 33|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 14 57 33|Keyence Scanner Connected!
+2024 04 25 14 57 33|Keyence Scanner Connected!
+2024 04 25 14 57 36|IO ready; touch START...
+2024 04 25 14 57 38|UserClick|Quit
+2024 04 25 14 58 06|Connecting to ADUs...
+2024 04 25 14 58 06|Devices found: 3
+2024 04 25 14 58 06|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 14 58 06|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 14 58 06|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 14 58 06|Keyence Scanner Connected!
+2024 04 25 14 58 06|Keyence Scanner Connected!
+2024 04 25 14 58 09|IO ready; touch START...
+2024 04 25 14 58 14|UserClick|StartBtn
+2024 04 25 14 58 14|starting...
+2024 04 25 14 58 14|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 14 58 35|TIMER|COMPLETED_JOB_CHANGE|21.25
+2024 04 25 14 58 35|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.26
+2024 04 25 14 58 36|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 14 58 42|UserClick|RetryBtn
+2024 04 25 14 58 47|Label_Pallet = 
+2024 04 25 14 58 47|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 14 58 57|UserClick|RetryBtn
+2024 04 25 14 59 02|Label_Pallet = 
+2024 04 25 14 59 02|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 14 59 08|UserClick|RetryBtn
+2024 04 25 14 59 13|Label_Pallet = 
+2024 04 25 14 59 13|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 14 59 25|UserClick|RetryBtn
+2024 04 25 14 59 30|Label_Pallet = 
+2024 04 25 14 59 30|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 14 59 54|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 25 14 59 55|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 25 15 05 04|Connecting to ADUs...
+2024 04 25 15 05 04|Devices found: 3
+2024 04 25 15 05 04|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 15 05 04|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 15 05 04|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 15 05 04|Keyence Scanner Connected!
+2024 04 25 15 05 04|Keyence Scanner Connected!
+2024 04 25 15 05 07|IO ready; touch START...
+2024 04 25 15 05 18|UserClick|StartBtn
+2024 04 25 15 05 18|starting...
+2024 04 25 15 05 18|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 15 05 40|TIMER|COMPLETED_JOB_CHANGE|21.25
+2024 04 25 15 05 40|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.27
+2024 04 25 15 05 41|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 05 48|UserClick|RetryBtn
+2024 04 25 15 05 53|Label_Pallet = 
+2024 04 25 15 05 53|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 05 56|UserClick|RetryBtn
+2024 04 25 15 06 01|Label_Pallet = 
+2024 04 25 15 06 01|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 06 02|UserClick|StopBtn
+2024 04 25 15 06 03|UserClick|StopBtn_MsgBox_YES
+2024 04 25 15 06 03|Application stopped.
+2024 04 25 15 06 12|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 25 15 06 13|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF
+2024 04 25 15 06 15|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 25 15 06 15|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 25 15 06 16|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 25 15 06 18|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 25 15 06 18|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 25 15 06 20|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF
+2024 04 25 15 15 23|Connecting to ADUs...
+2024 04 25 15 15 23|Devices found: 3
+2024 04 25 15 15 23|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 15 15 23|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 15 15 23|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 15 15 23|Keyence Scanner Connected!
+2024 04 25 15 15 23|Keyence Scanner Connected!
+2024 04 25 15 15 26|IO ready; touch START...
+2024 04 25 15 15 30|UserClick|StartBtn
+2024 04 25 15 15 30|starting...
+2024 04 25 15 15 30|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 15 15 52|TIMER|COMPLETED_JOB_CHANGE|21.25
+2024 04 25 15 15 52|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.27
+2024 04 25 15 15 53|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 16 08|UserClick|RetryBtn
+2024 04 25 15 20 26|Connecting to ADUs...
+2024 04 25 15 20 26|Devices found: 3
+2024 04 25 15 20 26|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 15 20 26|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 15 20 26|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 15 20 26|Keyence Scanner Connected!
+2024 04 25 15 20 26|Keyence Scanner Connected!
+2024 04 25 15 20 29|IO ready; touch START...
+2024 04 25 15 20 32|UserClick|StartBtn
+2024 04 25 15 20 32|starting...
+2024 04 25 15 20 32|Running Vision MSA for Camera 1, Inspection 1, Number of Samples = 5
+2024 04 25 15 20 33|MSA Sample 1 of 5
+2024 04 25 15 20 34|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 15 20 35|MSA Sample 2 of 5
+2024 04 25 15 20 35|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 20 37|MSA Sample 3 of 5
+2024 04 25 15 20 37|TIMER|INSPECT_MSA_PointXY|0.52
+2024 04 25 15 20 38|VISIONDATA|MSA_PointXY|MSA_SAMPLE_1|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 20 38|MSA Sample 4 of 5
+2024 04 25 15 20 39|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 20 40|VISIONDATA|MSA_PointXY|MSA_SAMPLE_2|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 20 40|MSA Sample 5 of 5
+2024 04 25 15 20 41|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 15 20 42|VISIONDATA|MSA_PointXY|MSA_SAMPLE_3|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 20 42|Application stopped.
+2024 04 25 15 20 43|VISIONDATA|MSA_PointXY|MSA_SAMPLE_4|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 20 45|VISIONDATA|MSA_PointXY|MSA_SAMPLE_5|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 20 48|UserClick|Quit
+2024 04 25 15 21 13|Connecting to ADUs...
+2024 04 25 15 21 13|Devices found: 3
+2024 04 25 15 21 13|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 15 21 13|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 15 21 13|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 15 21 13|Keyence Scanner Connected!
+2024 04 25 15 21 13|Keyence Scanner Connected!
+2024 04 25 15 21 16|IO ready; touch START...
+2024 04 25 15 21 18|UserClick|StartBtn
+2024 04 25 15 21 18|starting...
+2024 04 25 15 21 18|Running Vision MSA for Camera 1, Inspection 1, Number of Samples = 5
+2024 04 25 15 21 19|MSA Sample 1 of 5
+2024 04 25 15 21 20|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 15 21 21|MSA Sample 2 of 5
+2024 04 25 15 21 22|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 21 23|MSA Sample 3 of 5
+2024 04 25 15 21 23|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 21 25|VISIONDATA|MSA_PointXY|MSA_SAMPLE_1|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 21 25|MSA Sample 4 of 5
+2024 04 25 15 21 25|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 21 26|VISIONDATA|MSA_PointXY|MSA_SAMPLE_2|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 21 26|MSA Sample 5 of 5
+2024 04 25 15 21 27|TIMER|INSPECT_MSA_PointXY|0.56
+2024 04 25 15 21 28|VISIONDATA|MSA_PointXY|MSA_SAMPLE_3|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 21 28|Application stopped.
+2024 04 25 15 21 30|VISIONDATA|MSA_PointXY|MSA_SAMPLE_4|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 21 32|VISIONDATA|MSA_PointXY|MSA_SAMPLE_5|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 21 32|UserClick|Quit
+2024 04 25 15 35 27|Connecting to ADUs...
+2024 04 25 15 35 27|Devices found: 3
+2024 04 25 15 35 27|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 15 35 27|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 15 35 27|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 15 35 27|Keyence Scanner Connected!
+2024 04 25 15 35 28|Keyence Scanner Connected!
+2024 04 25 15 35 30|IO ready; touch START...
+2024 04 25 15 35 34|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 25 15 36 10|UserClick|StartBtn
+2024 04 25 15 36 10|starting...
+2024 04 25 15 36 10|Running Vision MSA for Camera 1, Inspection 1, Number of Samples = 5
+2024 04 25 15 36 12|MSA Sample 1 of 5
+2024 04 25 15 36 12|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 15 36 13|MSA Sample 2 of 5
+2024 04 25 15 36 14|TIMER|INSPECT_MSA_PointXY|0.55
+2024 04 25 15 36 15|MSA Sample 3 of 5
+2024 04 25 15 36 16|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 36 17|VISIONDATA|MSA_PointXY|MSA_SAMPLE_1|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 36 17|MSA Sample 4 of 5
+2024 04 25 15 36 18|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 36 19|VISIONDATA|MSA_PointXY|MSA_SAMPLE_2|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 36 19|MSA Sample 5 of 5
+2024 04 25 15 36 19|TIMER|INSPECT_MSA_PointXY|0.56
+2024 04 25 15 36 21|VISIONDATA|MSA_PointXY|MSA_SAMPLE_3|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 36 21|Application stopped.
+2024 04 25 15 36 22|VISIONDATA|MSA_PointXY|MSA_SAMPLE_4|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 36 22|UserClick|Quit
+2024 04 25 15 36 37|Connecting to ADUs...
+2024 04 25 15 36 37|Devices found: 3
+2024 04 25 15 36 37|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 15 36 37|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 15 36 37|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 15 36 37|Keyence Scanner Connected!
+2024 04 25 15 36 38|Keyence Scanner Connected!
+2024 04 25 15 36 40|IO ready; touch START...
+2024 04 25 15 36 44|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 25 15 36 47|UserClick|StartBtn
+2024 04 25 15 36 47|starting...
+2024 04 25 15 36 47|Running Vision MSA for Camera 1, Inspection 1, Number of Samples = 5
+2024 04 25 15 36 48|MSA Sample 1 of 5
+2024 04 25 15 36 49|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 15 36 50|MSA Sample 2 of 5
+2024 04 25 15 36 51|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 36 52|MSA Sample 3 of 5
+2024 04 25 15 36 52|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 36 54|VISIONDATA|MSA_PointXY|MSA_SAMPLE_1|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 36 54|MSA Sample 4 of 5
+2024 04 25 15 36 54|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 36 55|VISIONDATA|MSA_PointXY|MSA_SAMPLE_2|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 36 55|MSA Sample 5 of 5
+2024 04 25 15 36 56|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 15 36 57|VISIONDATA|MSA_PointXY|MSA_SAMPLE_3|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 36 57|Application stopped.
+2024 04 25 15 36 59|VISIONDATA|MSA_PointXY|MSA_SAMPLE_4|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 37 00|VISIONDATA|MSA_PointXY|MSA_SAMPLE_5|RECIEVE_DATA_TIMEOUT
+2024 04 25 15 37 14|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 25 15 39 12|UserClick|StartBtn
+2024 04 25 15 39 12|starting...
+2024 04 25 15 39 13|Running Vision MSA for Camera 1, Inspection 1, Number of Samples = 5
+2024 04 25 15 39 14|MSA Sample 1 of 5
+2024 04 25 15 39 14|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 15 39 16|VISIONDATA|MSA_PointXY|MSA_SAMPLE_1|CAM1_INSP1|PASS|PAT_X|1074.81|PAT_Y|1685.51|PAT_U|0.297558|PAT_SCORE|98.5036
+2024 04 25 15 39 16|MSA Sample 2 of 5
+2024 04 25 15 39 16|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 15 39 17|VISIONDATA|MSA_PointXY|MSA_SAMPLE_2|CAM1_INSP1|PASS|PAT_X|1074.81|PAT_Y|1685.47|PAT_U|-0.28516|PAT_SCORE|98.3698
+2024 04 25 15 39 17|MSA Sample 3 of 5
+2024 04 25 15 39 18|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 39 19|VISIONDATA|MSA_PointXY|MSA_SAMPLE_3|CAM1_INSP1|PASS|PAT_X|1074.79|PAT_Y|1685.48|PAT_U|0.24949|PAT_SCORE|98.43
+2024 04 25 15 39 19|MSA Sample 4 of 5
+2024 04 25 15 39 20|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 15 39 21|VISIONDATA|MSA_PointXY|MSA_SAMPLE_4|CAM1_INSP1|PASS|PAT_X|1074.79|PAT_Y|1685.51|PAT_U|0.0231152|PAT_SCORE|98.43
+2024 04 25 15 39 21|MSA Sample 5 of 5
+2024 04 25 15 39 22|TIMER|INSPECT_MSA_PointXY|0.56
+2024 04 25 15 39 23|VISIONDATA|MSA_PointXY|MSA_SAMPLE_5|CAM1_INSP1|PASS|PAT_X|1074.81|PAT_Y|1685.49|PAT_U|-0.393937|PAT_SCORE|98.3603
+2024 04 25 15 39 23|Application stopped.
+2024 04 25 15 39 24|UserClick|Quit
+2024 04 25 15 39 36|Connecting to ADUs...
+2024 04 25 15 39 36|Devices found: 3
+2024 04 25 15 39 36|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 15 39 36|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 15 39 36|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 15 39 36|Keyence Scanner Connected!
+2024 04 25 15 39 36|Keyence Scanner Connected!
+2024 04 25 15 39 39|IO ready; touch START...
+2024 04 25 15 39 46|UserClick|StartBtn
+2024 04 25 15 39 46|starting...
+2024 04 25 15 39 46|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 15 40 07|TIMER|COMPLETED_JOB_CHANGE|21.24
+2024 04 25 15 40 07|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.26
+2024 04 25 15 40 08|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 40 10|UserClick|RetryBtn
+2024 04 25 15 40 19|Label_Pallet = 
+2024 04 25 15 40 19|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 43 27|UserClick|RetryBtn
+2024 04 25 15 43 32|Label_Pallet = 
+2024 04 25 15 43 32|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 48 40|UserClick|RetryBtn
+2024 04 25 15 48 45|Label_Pallet = 
+2024 04 25 15 48 46|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 49 54|UserClick|RetryBtn
+2024 04 25 15 49 59|Label_Pallet = 
+2024 04 25 15 49 59|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 51 09|UserClick|RetryBtn
+2024 04 25 15 51 14|Label_Pallet = 
+2024 04 25 15 51 14|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 53 05|UserClick|StopBtn
+2024 04 25 15 53 06|UserClick|StopBtn_MsgBox_YES
+2024 04 25 15 53 06|Application stopped.
+2024 04 25 15 53 07|UserClick|Quit
+2024 04 25 15 53 14|Connecting to ADUs...
+2024 04 25 15 53 14|Devices found: 3
+2024 04 25 15 53 14|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 25 15 53 14|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 25 15 53 14|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 25 15 53 14|Keyence Scanner Connected!
+2024 04 25 15 53 14|Keyence Scanner Connected!
+2024 04 25 15 53 17|IO ready; touch START...
+2024 04 25 15 53 20|UserClick|StartBtn
+2024 04 25 15 53 20|starting...
+2024 04 25 15 53 20|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 15 53 42|Failed to set camera online
+2024 04 25 15 53 42|Failed to set camera online
+2024 04 25 15 53 42|Failed to set camera online
+2024 04 25 15 53 43|Failed to set camera online
+2024 04 25 15 53 43|Failed to set camera online
+2024 04 25 15 53 44|Failed to set camera online
+2024 04 25 15 53 44|Failed to set camera online
+2024 04 25 15 53 44|Failed to set camera online
+2024 04 25 15 53 45|Failed to set camera online
+2024 04 25 15 53 45|Failed to set camera online
+2024 04 25 15 53 46|Failed to set camera online
+2024 04 25 15 53 46|Failed to set camera online
+2024 04 25 15 53 47|Failed to set camera online
+2024 04 25 15 53 47|Failed to set camera online
+2024 04 25 15 53 47|Failed to set camera online
+2024 04 25 15 53 48|Failed to set camera online
+2024 04 25 15 53 48|Failed to set camera online
+2024 04 25 15 53 49|Failed to set camera online
+2024 04 25 15 53 49|Failed to set camera online
+2024 04 25 15 53 49|Failed to set camera online
+2024 04 25 15 53 50|Failed to set camera online
+2024 04 25 15 53 50|Failed to set camera online
+2024 04 25 15 53 51|Failed to set camera online
+2024 04 25 15 53 51|Failed to set camera online
+2024 04 25 15 53 52|Failed to set camera online
+2024 04 25 15 53 52|Failed to set camera online
+2024 04 25 15 53 52|Failed to set camera online
+2024 04 25 15 53 53|Failed to set camera online
+2024 04 25 15 53 53|Failed to set camera online
+2024 04 25 15 53 54|Failed to set camera online
+2024 04 25 15 53 54|Failed to set camera online
+2024 04 25 15 53 54|Failed to set camera online
+2024 04 25 15 53 55|Failed to set camera online
+2024 04 25 15 53 55|Failed to set camera online
+2024 04 25 15 53 56|Failed to set camera online
+2024 04 25 15 53 56|Failed to set camera online
+2024 04 25 15 53 56|Failed to set camera online
+2024 04 25 15 53 57|Failed to set camera online
+2024 04 25 15 53 57|Failed to set camera online
+2024 04 25 15 53 58|Failed to set camera online
+2024 04 25 15 53 58|Failed to set camera online
+2024 04 25 15 53 59|Failed to set camera online
+2024 04 25 15 53 59|Failed to set camera online
+2024 04 25 15 53 59|Failed to set camera online
+2024 04 25 15 54 00|Failed to set camera online
+2024 04 25 15 54 00|Failed to set camera online
+2024 04 25 15 54 01|Failed to set camera online
+2024 04 25 15 54 01|Failed to set camera online
+2024 04 25 15 54 01|Failed to set camera online
+2024 04 25 15 54 02|Failed to set camera online
+2024 04 25 15 54 02|Failed to set camera online
+2024 04 25 15 54 03|Failed to set camera online
+2024 04 25 15 54 03|Failed to set camera online
+2024 04 25 15 54 04|Failed to set camera online
+2024 04 25 15 54 04|Failed to set camera online
+2024 04 25 15 54 04|Failed to set camera online
+2024 04 25 15 54 05|Failed to set camera online
+2024 04 25 15 54 05|Failed to set camera online
+2024 04 25 15 54 06|Failed to set camera online
+2024 04 25 15 54 06|Failed to set camera online
+2024 04 25 15 54 06|Failed to set camera online
+2024 04 25 15 54 07|Failed to set camera online
+2024 04 25 15 54 07|Failed to set camera online
+2024 04 25 15 54 08|Failed to set camera online
+2024 04 25 15 54 08|Failed to set camera online
+2024 04 25 15 54 08|Failed to set camera online
+2024 04 25 15 54 09|Failed to set camera online
+2024 04 25 15 54 09|Failed to set camera online
+2024 04 25 15 54 10|Failed to set camera online
+2024 04 25 15 54 10|Failed to set camera online
+2024 04 25 15 54 11|Failed to set camera online
+2024 04 25 15 54 11|Failed to set camera online
+2024 04 25 15 54 11|Failed to set camera online
+2024 04 25 15 54 12|Failed to set camera online
+2024 04 25 15 54 12|Failed to set camera online
+2024 04 25 15 54 13|Failed to set camera online
+2024 04 25 15 54 13|Failed to set camera online
+2024 04 25 15 54 13|Failed to set camera online
+2024 04 25 15 54 14|Failed to set camera online
+2024 04 25 15 54 14|Failed to set camera online
+2024 04 25 15 54 15|Failed to set camera online
+2024 04 25 15 54 15|Failed to set camera online
+2024 04 25 15 54 16|Failed to set camera online
+2024 04 25 15 54 16|Failed to set camera online
+2024 04 25 15 54 16|Failed to set camera online
+2024 04 25 15 54 17|Failed to set camera online
+2024 04 25 15 54 17|Failed to set camera online
+2024 04 25 15 54 18|Failed to set camera online
+2024 04 25 15 54 18|Failed to set camera online
+2024 04 25 15 54 18|Failed to set camera online
+2024 04 25 15 54 19|Failed to set camera online
+2024 04 25 15 54 19|Failed to set camera online
+2024 04 25 15 54 20|Failed to set camera online
+2024 04 25 15 54 20|Failed to set camera online
+2024 04 25 15 54 20|Failed to set camera online
+2024 04 25 15 54 21|Failed to set camera online
+2024 04 25 15 54 21|Failed to set camera online
+2024 04 25 15 54 22|Failed to set camera online
+2024 04 25 15 54 22|Failed to set camera online
+2024 04 25 15 54 23|Failed to set camera online
+2024 04 25 15 54 23|Failed to set camera online
+2024 04 25 15 54 23|Failed to set camera online
+2024 04 25 15 54 24|Failed to set camera online
+2024 04 25 15 54 24|Failed to set camera online
+2024 04 25 15 54 25|Failed to set camera online
+2024 04 25 15 54 25|Failed to set camera online
+2024 04 25 15 54 25|Failed to set camera online
+2024 04 25 15 54 26|Failed to set camera online
+2024 04 25 15 54 26|Failed to set camera online
+2024 04 25 15 54 27|Failed to set camera online
+2024 04 25 15 54 28|Failed to set camera online
+2024 04 25 15 54 28|Failed to set camera online
+2024 04 25 15 54 28|Failed to set camera online
+2024 04 25 15 54 29|Failed to set camera online
+2024 04 25 15 54 29|Failed to set camera online
+2024 04 25 15 54 30|Failed to set camera online
+2024 04 25 15 54 30|Failed to set camera online
+2024 04 25 15 54 30|Failed to set camera online
+2024 04 25 15 54 31|Failed to set camera online
+2024 04 25 15 54 31|Failed to set camera online
+2024 04 25 15 54 32|Failed to set camera online
+2024 04 25 15 54 32|Failed to set camera online
+2024 04 25 15 54 33|Failed to set camera online
+2024 04 25 15 54 33|Failed to set camera online
+2024 04 25 15 54 34|Failed to set camera online
+2024 04 25 15 54 34|Failed to set camera online
+2024 04 25 15 54 35|Failed to set camera online
+2024 04 25 15 54 35|Failed to set camera online
+2024 04 25 15 54 35|Failed to set camera online
+2024 04 25 15 54 36|Failed to set camera online
+2024 04 25 15 54 36|Failed to set camera online
+2024 04 25 15 54 37|Failed to set camera online
+2024 04 25 15 54 37|Failed to set camera online
+2024 04 25 15 54 37|Failed to set camera online
+2024 04 25 15 54 38|Failed to set camera online
+2024 04 25 15 54 38|Failed to set camera online
+2024 04 25 15 54 39|Failed to set camera online
+2024 04 25 15 54 39|Failed to set camera online
+2024 04 25 15 54 39|Failed to set camera online
+2024 04 25 15 54 40|Failed to set camera online
+2024 04 25 15 54 40|Failed to set camera online
+2024 04 25 15 54 41|Failed to set camera online
+2024 04 25 15 54 41|Failed to set camera online
+2024 04 25 15 54 42|Failed to set camera online
+2024 04 25 15 54 42|Failed to set camera online
+2024 04 25 15 54 42|Failed to set camera online
+2024 04 25 15 54 43|Failed to set camera online
+2024 04 25 15 54 43|Failed to set camera online
+2024 04 25 15 54 44|Failed to set camera online
+2024 04 25 15 54 44|Failed to set camera online
+2024 04 25 15 54 44|Failed to set camera online
+2024 04 25 15 54 45|Failed to set camera online
+2024 04 25 15 54 45|Failed to set camera online
+2024 04 25 15 54 46|Failed to set camera online
+2024 04 25 15 54 46|Failed to set camera online
+2024 04 25 15 54 46|Failed to set camera online
+2024 04 25 15 54 47|Failed to set camera online
+2024 04 25 15 54 47|Failed to set camera online
+2024 04 25 15 54 48|Failed to set camera online
+2024 04 25 15 54 48|Failed to set camera online
+2024 04 25 15 54 49|Failed to set camera online
+2024 04 25 15 54 49|Failed to set camera online
+2024 04 25 15 54 49|Failed to set camera online
+2024 04 25 15 54 50|Failed to set camera online
+2024 04 25 15 54 50|Failed to set camera online
+2024 04 25 15 54 51|Failed to set camera online
+2024 04 25 15 54 51|Failed to set camera online
+2024 04 25 15 54 51|Failed to set camera online
+2024 04 25 15 54 52|Failed to set camera online
+2024 04 25 15 54 52|Failed to set camera online
+2024 04 25 15 54 53|Failed to set camera online
+2024 04 25 15 54 53|Failed to set camera online
+2024 04 25 15 54 53|Failed to set camera online
+2024 04 25 15 54 54|Failed to set camera online
+2024 04 25 15 54 54|Failed to set camera online
+2024 04 25 15 54 55|Failed to set camera online
+2024 04 25 15 54 55|Failed to set camera online
+2024 04 25 15 54 56|Failed to set camera online
+2024 04 25 15 54 56|Failed to set camera online
+2024 04 25 15 54 56|Failed to set camera online
+2024 04 25 15 54 57|Failed to set camera online
+2024 04 25 15 54 57|Failed to set camera online
+2024 04 25 15 54 58|Failed to set camera online
+2024 04 25 15 54 58|Failed to set camera online
+2024 04 25 15 54 58|Failed to set camera online
+2024 04 25 15 54 59|Failed to set camera online
+2024 04 25 15 54 59|Failed to set camera online
+2024 04 25 15 55 00|Failed to set camera online
+2024 04 25 15 55 00|Failed to set camera online
+2024 04 25 15 55 01|Failed to set camera online
+2024 04 25 15 55 01|Failed to set camera online
+2024 04 25 15 55 01|Failed to set camera online
+2024 04 25 15 55 02|Failed to set camera online
+2024 04 25 15 55 02|Failed to set camera online
+2024 04 25 15 55 03|Failed to set camera online
+2024 04 25 15 55 03|Failed to set camera online
+2024 04 25 15 55 03|Failed to set camera online
+2024 04 25 15 55 04|Failed to set camera online
+2024 04 25 15 55 04|Failed to set camera online
+2024 04 25 15 55 05|Failed to set camera online
+2024 04 25 15 55 05|Failed to set camera online
+2024 04 25 15 55 05|Failed to set camera online
+2024 04 25 15 55 06|Failed to set camera online
+2024 04 25 15 55 06|Failed to set camera online
+2024 04 25 15 55 07|Failed to set camera online
+2024 04 25 15 55 07|Failed to set camera online
+2024 04 25 15 55 08|Failed to set camera online
+2024 04 25 15 55 08|Failed to set camera online
+2024 04 25 15 55 08|Failed to set camera online
+2024 04 25 15 55 09|Failed to set camera online
+2024 04 25 15 55 09|Failed to set camera online
+2024 04 25 15 55 10|Failed to set camera online
+2024 04 25 15 55 10|Failed to set camera online
+2024 04 25 15 55 10|Failed to set camera online
+2024 04 25 15 55 11|Failed to set camera online
+2024 04 25 15 55 11|Failed to set camera online
+2024 04 25 15 55 12|Failed to set camera online
+2024 04 25 15 55 12|Failed to set camera online
+2024 04 25 15 55 12|Failed to set camera online
+2024 04 25 15 55 13|Failed to set camera online
+2024 04 25 15 55 13|Failed to set camera online
+2024 04 25 15 55 14|Failed to set camera online
+2024 04 25 15 55 14|Failed to set camera online
+2024 04 25 15 55 15|Failed to set camera online
+2024 04 25 15 55 15|Failed to set camera online
+2024 04 25 15 55 15|Failed to set camera online
+2024 04 25 15 55 16|Failed to set camera online
+2024 04 25 15 55 16|Failed to set camera online
+2024 04 25 15 55 17|Failed to set camera online
+2024 04 25 15 55 17|Failed to set camera online
+2024 04 25 15 55 17|Failed to set camera online
+2024 04 25 15 55 18|Failed to set camera online
+2024 04 25 15 55 18|Failed to set camera online
+2024 04 25 15 55 19|Failed to set camera online
+2024 04 25 15 55 19|Failed to set camera online
+2024 04 25 15 55 20|Failed to set camera online
+2024 04 25 15 55 20|Failed to set camera online
+2024 04 25 15 55 20|Failed to set camera online
+2024 04 25 15 55 21|Failed to set camera online
+2024 04 25 15 55 21|Failed to set camera online
+2024 04 25 15 55 22|Failed to set camera online
+2024 04 25 15 55 22|Failed to set camera online
+2024 04 25 15 55 22|Failed to set camera online
+2024 04 25 15 55 23|Failed to set camera online
+2024 04 25 15 55 23|Failed to set camera online
+2024 04 25 15 55 24|Failed to set camera online
+2024 04 25 15 55 24|Failed to set camera online
+2024 04 25 15 55 24|Failed to set camera online
+2024 04 25 15 55 25|Failed to set camera online
+2024 04 25 15 55 25|Failed to set camera online
+2024 04 25 15 55 26|Failed to set camera online
+2024 04 25 15 55 26|Failed to set camera online
+2024 04 25 15 55 27|Failed to set camera online
+2024 04 25 15 55 27|Failed to set camera online
+2024 04 25 15 55 27|Failed to set camera online
+2024 04 25 15 55 28|Failed to set camera online
+2024 04 25 15 55 28|Failed to set camera online
+2024 04 25 15 55 29|Failed to set camera online
+2024 04 25 15 55 29|Failed to set camera online
+2024 04 25 15 55 29|Failed to set camera online
+2024 04 25 15 55 30|Failed to set camera online
+2024 04 25 15 55 30|Failed to set camera online
+2024 04 25 15 55 31|Failed to set camera online
+2024 04 25 15 55 31|Failed to set camera online
+2024 04 25 15 55 31|Failed to set camera online
+2024 04 25 15 55 32|Failed to set camera online
+2024 04 25 15 55 32|Failed to set camera online
+2024 04 25 15 55 33|Failed to set camera online
+2024 04 25 15 55 33|Failed to set camera online
+2024 04 25 15 55 34|Failed to set camera online
+2024 04 25 15 55 34|Failed to set camera online
+2024 04 25 15 55 34|Failed to set camera online
+2024 04 25 15 55 35|Failed to set camera online
+2024 04 25 15 55 35|Failed to set camera online
+2024 04 25 15 55 36|Failed to set camera online
+2024 04 25 15 55 36|Failed to set camera online
+2024 04 25 15 55 36|Failed to set camera online
+2024 04 25 15 55 37|Failed to set camera online
+2024 04 25 15 55 37|Failed to set camera online
+2024 04 25 15 55 38|Failed to set camera online
+2024 04 25 15 55 38|Failed to set camera online
+2024 04 25 15 55 39|Failed to set camera online
+2024 04 25 15 55 39|Failed to set camera online
+2024 04 25 15 55 39|Failed to set camera online
+2024 04 25 15 55 40|Failed to set camera online
+2024 04 25 15 55 40|UserClick|StopBtn
+2024 04 25 15 55 41|UserClick|StopBtn_MsgBox_YES
+2024 04 25 15 55 41|Failed to set camera online
+2024 04 25 15 55 41|FAULT|Unable to load Job on Camera: 1 Job: 
+2024 04 25 15 55 42|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 25 15 55 42|TIMER|Change Vision Inspection Number, Cam1, Insp1|142.08
+2024 04 25 15 55 43|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 15 55 43|Application stopped.
+2024 04 25 16 06 03|UserClick|StartBtn
+2024 04 25 16 06 03|starting...
+2024 04 25 16 06 03|Running Vision MSA for Camera 1, Inspection 1, Number of Samples = 5
+2024 04 25 16 06 05|Failed to set camera online
+2024 04 25 16 06 05|Failed to set camera online
+2024 04 25 16 06 05|Failed to set camera online
+2024 04 25 16 06 06|Failed to set camera online
+2024 04 25 16 06 06|Failed to set camera online
+2024 04 25 16 06 06|Failed to set camera online
+2024 04 25 16 06 07|Failed to set camera online
+2024 04 25 16 06 07|UserClick|StopBtn
+2024 04 25 16 06 07|Failed to set camera online
+2024 04 25 16 06 07|Failed to set camera online
+2024 04 25 16 06 08|UserClick|StopBtn_MsgBox_YES
+2024 04 25 16 06 08|Application stopped.
+2024 04 25 16 06 08|Failed to set camera online
+2024 04 25 16 06 26|UserClick|StartBtn
+2024 04 25 16 06 26|starting...
+2024 04 25 16 06 26|Running Vision MSA for Camera 1, Inspection 1, Number of Samples = 5
+2024 04 25 16 06 27|MSA Sample 1 of 5
+2024 04 25 16 06 28|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 16 06 29|MSA Sample 2 of 5
+2024 04 25 16 06 30|TIMER|INSPECT_MSA_PointXY|0.53
+2024 04 25 16 06 31|MSA Sample 3 of 5
+2024 04 25 16 06 32|TIMER|INSPECT_MSA_PointXY|0.55
+2024 04 25 16 06 33|VISIONDATA|MSA_PointXY|MSA_SAMPLE_1|RECIEVE_DATA_TIMEOUT
+2024 04 25 16 06 33|MSA Sample 4 of 5
+2024 04 25 16 06 33|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 16 06 35|VISIONDATA|MSA_PointXY|MSA_SAMPLE_2|RECIEVE_DATA_TIMEOUT
+2024 04 25 16 06 35|UserClick|StopBtn
+2024 04 25 16 06 36|VISIONDATA|MSA_PointXY|MSA_SAMPLE_3|RECIEVE_DATA_TIMEOUT
+2024 04 25 16 06 38|UserClick|StopBtn_MsgBox_YES
+2024 04 25 16 06 38|MSA Sample 5 of 5
+2024 04 25 16 06 38|VISIONDATA|MSA_PointXY|MSA_SAMPLE_4|RECIEVE_DATA_TIMEOUT
+2024 04 25 16 06 39|Application stopped.
+2024 04 25 16 07 09|UserClick|StartBtn
+2024 04 25 16 07 09|starting...
+2024 04 25 16 07 09|Running Vision MSA for Camera 1, Inspection 1, Number of Samples = 5
+2024 04 25 16 07 10|MSA Sample 1 of 5
+2024 04 25 16 07 11|TIMER|INSPECT_MSA_PointXY|0.54
+2024 04 25 16 07 12|VISIONDATA|MSA_PointXY|MSA_SAMPLE_1|CAM1_INSP1|PASS|PAT_X|1073.91|PAT_Y|1686.23|PAT_U|-1.392|PAT_SCORE|98.0603
+2024 04 25 16 07 12|MSA Sample 2 of 5
+2024 04 25 16 07 12|TIMER|INSPECT_MSA_PointXY|0.55
+2024 04 25 16 07 14|VISIONDATA|MSA_PointXY|MSA_SAMPLE_2|CAM1_INSP1|PASS|PAT_X|1073.94|PAT_Y|1686.18|PAT_U|-5.07576|PAT_SCORE|98.0101
+2024 04 25 16 07 14|MSA Sample 3 of 5
+2024 04 25 16 07 14|TIMER|INSPECT_MSA_PointXY|0.55
+2024 04 25 16 07 15|VISIONDATA|MSA_PointXY|MSA_SAMPLE_3|CAM1_INSP1|PASS|PAT_X|1073.93|PAT_Y|1686.2|PAT_U|-2.7828|PAT_SCORE|98.0803
+2024 04 25 16 07 15|MSA Sample 4 of 5
+2024 04 25 16 07 16|TIMER|INSPECT_MSA_PointXY|0.56
+2024 04 25 16 07 17|VISIONDATA|MSA_PointXY|MSA_SAMPLE_4|CAM1_INSP1|PASS|PAT_X|1073.94|PAT_Y|1686.21|PAT_U|-3.21367|PAT_SCORE|98.0523
+2024 04 25 16 07 17|MSA Sample 5 of 5
+2024 04 25 16 07 18|TIMER|INSPECT_MSA_PointXY|0.55
+2024 04 25 16 07 19|VISIONDATA|MSA_PointXY|MSA_SAMPLE_5|CAM1_INSP1|PASS|PAT_X|1073.91|PAT_Y|1686.21|PAT_U|-1.11533|PAT_SCORE|98.3508
+2024 04 25 16 07 19|Application stopped.
+2024 04 25 16 08 10|UserClick|StartBtn
+2024 04 25 16 08 10|starting...
+2024 04 25 16 08 10|TIMER|Change Vision Inspection Number, Cam1, Insp1|0.00
+2024 04 25 16 08 10|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 08 13|UserClick|RetryBtn
+2024 04 25 16 08 18|Label_Pallet = 
+2024 04 25 16 08 18|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 08 40|UserClick|RetryBtn
+2024 04 25 16 08 45|Label_Pallet = 
+2024 04 25 16 08 45|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 09 37|UserClick|RetryBtn
+2024 04 25 16 09 41|Label_Pallet = 
+2024 04 25 16 09 41|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 09 50|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 25 16 09 51|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 25 16 13 04|UserClick|RetryBtn
+2024 04 25 16 13 09|Label_Pallet = 
+2024 04 25 16 13 09|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 13 25|UserClick|StopBtn
+2024 04 25 16 13 25|UserClick|StopBtn_MsgBox_YES
+2024 04 25 16 13 26|Application stopped.
+2024 04 25 16 13 29|UserClick|StartBtn
+2024 04 25 16 13 29|starting...
+2024 04 25 16 13 29|TIMER|Change Vision Inspection Number, Cam1, Insp1|0.00
+2024 04 25 16 13 29|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 13 31|UserClick|RetryBtn
+2024 04 25 16 13 36|Label_Pallet = 
+2024 04 25 16 13 36|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 18 30|UserClick|RetryBtn
+2024 04 25 16 18 34|Label_Pallet = 
+2024 04 25 16 18 36|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 18 55|UserClick|RetryBtn
+2024 04 25 16 19 00|Label_Pallet = 
+2024 04 25 16 19 00|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 19 50|UserClick|RetryBtn
+2024 04 25 16 19 55|Label_Pallet = 
+2024 04 25 16 19 55|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 20 00|UserClick|RetryBtn
+2024 04 25 16 20 05|Label_Pallet = 
+2024 04 25 16 20 05|Press Button to Trigger Camera to read Pallet Barcode
+2024 04 25 16 23 06|UserClick|StopBtn
+2024 04 25 16 23 07|UserClick|StopBtn_MsgBox_YES
+2024 04 25 16 23 07|Application stopped.

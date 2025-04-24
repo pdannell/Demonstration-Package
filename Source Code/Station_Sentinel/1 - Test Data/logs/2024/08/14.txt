@@ -1,0 +1,732 @@
+2024 08 14 10 44 44|UserClick|StartBtn
+2024 08 14 10 44 44|starting...
+2024 08 14 10 44 44|PN_PowerModule_Assembly=42053287
+2024 08 14 10 44 44|PN_Heatsink_Ported=42046308
+2024 08 14 10 44 44|PN_Heatsink_NonPorted=42046309
+2024 08 14 10 44 44|PN_SpringClamp=42054859
+2024 08 14 10 44 44|PN_Seal=42054859
+2024 08 14 10 44 44|PN_Retainer=42048934
+2024 08 14 10 44 44|MODEL_Heatsink_Ported=42053288
+2024 08 14 10 44 44|MODEL_Heatsink_NonPorted=42049647
+2024 08 14 10 44 44|PN_Insulator=DNE
+2024 08 14 10 44 44|PALLETARRAY|0|PAL0471
+2024 08 14 10 44 44|PALLETARRAY|1|PAL0472
+2024 08 14 10 44 44|PALLETARRAY|2|PAL0473
+2024 08 14 10 44 44|PALLETARRAY|3|PAL0474
+2024 08 14 10 44 44|PALLETARRAY|4|PAL0475
+2024 08 14 10 44 44|PALLETARRAY|5|PAL0476
+2024 08 14 10 44 45|Dry cycle Vision is ON
+2024 08 14 10 44 45|Dry cycle Vision is ON
+2024 08 14 10 44 46|TIMER|Initialize Outputs|0.09
+2024 08 14 10 44 50|TIMER|MECA500_Home|0.30
+2024 08 14 10 44 50|Switching lights to NEST and waiting 0 seconds
+2024 08 14 11 41 04|TIMER|Wait for operator to Send the Pallet|3374.54
+2024 08 14 11 41 09|TIMER|Indexing Front Pallet into Position|4.64
+2024 08 14 11 41 11|VISIONDATA|PALLET_BARCODE||PAL0472
+2024 08 14 11 41 11|TIMER|INSPECT_PALLET_BARCODE|1.61
+2024 08 14 11 41 11|Pallet Label=PAL0472
+2024 08 14 11 41 11|TIMER|Read Pallet Barcode from Vision|1.66
+2024 08 14 11 41 12|TIMER|MECA500_PickFromPallet|1.72
+2024 08 14 11 41 12|TIMER|Wait for Vacuum Pickup OK|0.09
+2024 08 14 11 41 19|TIMER|MECA500_PlaceOnNest|6.40
+2024 08 14 11 41 19|TIMER|Wait for Vacuum Pickup OFF|0.11
+2024 08 14 11 41 20|TIMER|MECA500_ClearNest|0.55
+2024 08 14 11 41 20|SCANDATA|4204630932560636
+2024 08 14 11 41 20|Non-Ported Heatsink Label=4204630932560636
+2024 08 14 11 41 20|TIMER|Scan Non-Ported Heatsink|0.41
+2024 08 14 11 41 20|FISComm String: BREQ|id=4204630932560636|process=PM_VISION|station=PM_L3S02
+2024 08 14 11 41 20|FIS Server Connected!
+2024 08 14 11 41 21|FIS Response: BCNF|id=4204630932560636|status=PASS|model=42049647|route=HEATSINK_UPPER
+2024 08 14 11 41 22|BCNF
+2024 08 14 11 41 22|id=4204630932560636
+2024 08 14 11 41 22|status=PASS
+2024 08 14 11 41 22|model=42049647
+2024 08 14 11 41 22|route=HEATSINK_UPPER
+2024 08 14 11 41 22|TIMER|FISBREQ - Heatsink_NonPorted|2.23
+2024 08 14 11 41 23|SCANDATA|4204630832560582
+2024 08 14 11 41 23|Ported Heatsink Label=4204630832560582
+2024 08 14 11 41 23|TIMER|Scan Ported Heatsink|0.61
+2024 08 14 11 41 23|FISComm String: BREQ|id=4204630832560582|process=PM_VISION|station=PM_L3S02
+2024 08 14 11 41 23|FIS Server Connected!
+2024 08 14 11 41 24|FIS Response: BCNF|id=4204630832560582|status=PASS|model=42049646|route=HEATSINK_LOWER
+2024 08 14 11 41 24|BCNF
+2024 08 14 11 41 24|id=4204630832560582
+2024 08 14 11 41 24|status=PASS
+2024 08 14 11 41 24|model=42049646
+2024 08 14 11 41 24|route=HEATSINK_LOWER
+2024 08 14 11 41 24|TIMER|FISBREQ - Heatsink_Ported|0.83
+2024 08 14 11 41 25|VISIONDATA|STLA_800VPIM250_TIMPADS_PortedHS|4204630832560582|PASS|Pad Area|184.281|177.944|177.852|178.86|177.537|177.405|Pad X|-27.4205|-47.5185|-83.5562|-103.725|-139.681|-159.863|Pad Y|-14.3399|-14.3961|-14.6842|-14.7085|-14.7375|-14.8104
+2024 08 14 11 41 26|TIMER|INSPECT_STLA_800VPIM250_TIMPADS_PortedHS|2.62
+2024 08 14 11 41 26|Switching lights to PALLET and waiting 2 seconds
+2024 08 14 11 41 28|TIMER|Switching Vision Lights|2.03
+2024 08 14 11 41 32|VISIONDATA|STLA_800VPIM250_TIMPADS_NonPortedHS|4204630932560636|FAIL|Pad Area|177.977|173.862|175.877|177.692|175.701|176.576|Pad X|27.4448|47.618|83.6504|103.655|139.647|159.629|Pad Y|-14.9048|-15.0318|-14.9099|-14.6241|-14.7222|-14.6794
+2024 08 14 11 41 36|ERROR|Timed out waiting for Vision PASS/FAIL I/O Signal, timeout = 5, Camera 2
+2024 08 14 11 41 55|Doors are now OPEN
+2024 08 14 11 42 32|UserClick|RetryBtn
+2024 08 14 11 42 36|VISIONDATA|STLA_800VPIM250_TIMPADS_NonPortedHS|4204630932560636|PASS|Pad Area|177.85|174.183|175.539|177.72|175.993|176.418|Pad X|27.442|47.609|83.6477|103.644|139.638|159.637|Pad Y|-14.9024|-15.0204|-14.9049|-14.6207|-14.7095|-14.6724
+2024 08 14 11 42 36|TIMER|INSPECT_STLA_800VPIM250_TIMPADS_NonPortedHS|65.94
+2024 08 14 11 42 36|Switching lights to BOTH and waiting 2 seconds
+2024 08 14 11 42 38|TIMER|Switching Vision Lights|2.03
+2024 08 14 11 42 41|VISIONDATA|STLA_800VPIM250_RETAINERS_SEALS|4204630932560636|PASS|Left Seal|OK|99.9996|Right Seal|OK|100|Clip1|800V_OK|99.9995|Clip2|800V_OK|100|Clip3|800V_OK|99.9976|Clip4|800V_OK|100|Clip5|800V_OK|97.8512|Clip6|800V_OK|99.4435|Clip7|800V_OK|100|Clip8|800V_OK|99.9998
+2024 08 14 11 42 42|TIMER|INSPECT_STLA_800VPIM250_RETAINERS_SEALS|1.56
+2024 08 14 11 43 51|TIMER|MECA500_PickFromNest|68.31
+2024 08 14 11 43 53|ERROR|Timed out Waiting for Vacuum to be OK, timeout= 2 seconds
+2024 08 14 11 44 33|UserClick|StopBtn
+2024 08 14 11 44 34|UserClick|StopBtn_MsgBox_YES
+2024 08 14 11 44 35|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 35|FIS Server Connected!
+2024 08 14 11 44 36|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 36|BACK
+2024 08 14 11 44 36|id=4204630832560582
+2024 08 14 11 44 36|status=PASS
+2024 08 14 11 44 36|TIMER|FISBCMP_PM_VISION_Ported|1.39
+2024 08 14 11 44 36|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 36|FIS Server Connected!
+2024 08 14 11 44 38|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 38|BACK
+2024 08 14 11 44 38|id=4204630932560636
+2024 08 14 11 44 38|status=PASS
+2024 08 14 11 44 38|TIMER|FISBCMP_PM_VISION_NonPorted|1.50
+2024 08 14 11 44 38|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 38|FIS Server Connected!
+2024 08 14 11 44 38|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 38|BACK
+2024 08 14 11 44 38|id=4204630832560582
+2024 08 14 11 44 38|status=PASS
+2024 08 14 11 44 38|TIMER|FISBCMP_PM_VISION_Ported|0.25
+2024 08 14 11 44 38|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 38|FIS Server Connected!
+2024 08 14 11 44 39|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 39|BACK
+2024 08 14 11 44 39|id=4204630932560636
+2024 08 14 11 44 39|status=PASS
+2024 08 14 11 44 39|TIMER|FISBCMP_PM_VISION_NonPorted|0.31
+2024 08 14 11 44 39|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 39|FIS Server Connected!
+2024 08 14 11 44 39|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 39|BACK
+2024 08 14 11 44 39|id=4204630832560582
+2024 08 14 11 44 39|status=PASS
+2024 08 14 11 44 39|TIMER|FISBCMP_PM_VISION_Ported|0.27
+2024 08 14 11 44 39|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 39|FIS Server Connected!
+2024 08 14 11 44 39|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 39|BACK
+2024 08 14 11 44 39|id=4204630932560636
+2024 08 14 11 44 39|status=PASS
+2024 08 14 11 44 39|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 39|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 39|FIS Server Connected!
+2024 08 14 11 44 40|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 40|BACK
+2024 08 14 11 44 40|id=4204630832560582
+2024 08 14 11 44 40|status=PASS
+2024 08 14 11 44 40|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 40|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 40|FIS Server Connected!
+2024 08 14 11 44 40|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 40|BACK
+2024 08 14 11 44 40|id=4204630932560636
+2024 08 14 11 44 40|status=PASS
+2024 08 14 11 44 40|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 40|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 40|FIS Server Connected!
+2024 08 14 11 44 40|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 40|BACK
+2024 08 14 11 44 40|id=4204630832560582
+2024 08 14 11 44 40|status=PASS
+2024 08 14 11 44 40|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 40|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 40|FIS Server Connected!
+2024 08 14 11 44 40|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 40|BACK
+2024 08 14 11 44 40|id=4204630932560636
+2024 08 14 11 44 40|status=PASS
+2024 08 14 11 44 40|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 40|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 40|FIS Server Connected!
+2024 08 14 11 44 41|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 41|BACK
+2024 08 14 11 44 41|id=4204630832560582
+2024 08 14 11 44 41|status=PASS
+2024 08 14 11 44 41|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 41|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 41|FIS Server Connected!
+2024 08 14 11 44 41|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 41|BACK
+2024 08 14 11 44 41|id=4204630932560636
+2024 08 14 11 44 41|status=PASS
+2024 08 14 11 44 41|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 41|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 41|FIS Server Connected!
+2024 08 14 11 44 41|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 41|BACK
+2024 08 14 11 44 41|id=4204630832560582
+2024 08 14 11 44 41|status=PASS
+2024 08 14 11 44 41|TIMER|FISBCMP_PM_VISION_Ported|0.30
+2024 08 14 11 44 41|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 41|FIS Server Connected!
+2024 08 14 11 44 42|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 42|BACK
+2024 08 14 11 44 42|id=4204630932560636
+2024 08 14 11 44 42|status=PASS
+2024 08 14 11 44 42|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 42|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 42|FIS Server Connected!
+2024 08 14 11 44 42|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 42|BACK
+2024 08 14 11 44 42|id=4204630832560582
+2024 08 14 11 44 42|status=PASS
+2024 08 14 11 44 42|TIMER|FISBCMP_PM_VISION_Ported|0.22
+2024 08 14 11 44 42|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 42|FIS Server Connected!
+2024 08 14 11 44 42|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 42|BACK
+2024 08 14 11 44 42|id=4204630932560636
+2024 08 14 11 44 42|status=PASS
+2024 08 14 11 44 42|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 42|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 42|FIS Server Connected!
+2024 08 14 11 44 43|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 43|BACK
+2024 08 14 11 44 43|id=4204630832560582
+2024 08 14 11 44 43|status=PASS
+2024 08 14 11 44 43|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 43|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 43|FIS Server Connected!
+2024 08 14 11 44 43|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 43|BACK
+2024 08 14 11 44 43|id=4204630932560636
+2024 08 14 11 44 43|status=PASS
+2024 08 14 11 44 43|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 43|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 43|FIS Server Connected!
+2024 08 14 11 44 43|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 43|BACK
+2024 08 14 11 44 43|id=4204630832560582
+2024 08 14 11 44 43|status=PASS
+2024 08 14 11 44 43|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 43|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 43|FIS Server Connected!
+2024 08 14 11 44 43|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 43|BACK
+2024 08 14 11 44 43|id=4204630932560636
+2024 08 14 11 44 43|status=PASS
+2024 08 14 11 44 43|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 43|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 43|FIS Server Connected!
+2024 08 14 11 44 44|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 44|BACK
+2024 08 14 11 44 44|id=4204630832560582
+2024 08 14 11 44 44|status=PASS
+2024 08 14 11 44 44|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 44|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 44|FIS Server Connected!
+2024 08 14 11 44 44|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 44|BACK
+2024 08 14 11 44 44|id=4204630932560636
+2024 08 14 11 44 44|status=PASS
+2024 08 14 11 44 44|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 44|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 44|FIS Server Connected!
+2024 08 14 11 44 44|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 44|BACK
+2024 08 14 11 44 44|id=4204630832560582
+2024 08 14 11 44 44|status=PASS
+2024 08 14 11 44 44|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 44|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 44|FIS Server Connected!
+2024 08 14 11 44 44|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 44|BACK
+2024 08 14 11 44 44|id=4204630932560636
+2024 08 14 11 44 44|status=PASS
+2024 08 14 11 44 44|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 45|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 45|FIS Server Connected!
+2024 08 14 11 44 45|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 45|BACK
+2024 08 14 11 44 45|id=4204630832560582
+2024 08 14 11 44 45|status=PASS
+2024 08 14 11 44 45|TIMER|FISBCMP_PM_VISION_Ported|0.25
+2024 08 14 11 44 45|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 45|FIS Server Connected!
+2024 08 14 11 44 45|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 45|BACK
+2024 08 14 11 44 45|id=4204630932560636
+2024 08 14 11 44 45|status=PASS
+2024 08 14 11 44 45|TIMER|FISBCMP_PM_VISION_NonPorted|0.27
+2024 08 14 11 44 45|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 45|FIS Server Connected!
+2024 08 14 11 44 46|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 46|BACK
+2024 08 14 11 44 46|id=4204630832560582
+2024 08 14 11 44 46|status=PASS
+2024 08 14 11 44 46|TIMER|FISBCMP_PM_VISION_Ported|0.25
+2024 08 14 11 44 46|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 46|FIS Server Connected!
+2024 08 14 11 44 46|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 46|BACK
+2024 08 14 11 44 46|id=4204630932560636
+2024 08 14 11 44 46|status=PASS
+2024 08 14 11 44 46|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 46|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 46|FIS Server Connected!
+2024 08 14 11 44 46|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 46|BACK
+2024 08 14 11 44 46|id=4204630832560582
+2024 08 14 11 44 46|status=PASS
+2024 08 14 11 44 46|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 46|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 46|FIS Server Connected!
+2024 08 14 11 44 46|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 46|BACK
+2024 08 14 11 44 46|id=4204630932560636
+2024 08 14 11 44 46|status=PASS
+2024 08 14 11 44 46|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 46|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 46|FIS Server Connected!
+2024 08 14 11 44 47|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 47|BACK
+2024 08 14 11 44 47|id=4204630832560582
+2024 08 14 11 44 47|status=PASS
+2024 08 14 11 44 47|TIMER|FISBCMP_PM_VISION_Ported|0.27
+2024 08 14 11 44 47|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 47|FIS Server Connected!
+2024 08 14 11 44 47|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 47|BACK
+2024 08 14 11 44 47|id=4204630932560636
+2024 08 14 11 44 47|status=PASS
+2024 08 14 11 44 47|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 47|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 47|FIS Server Connected!
+2024 08 14 11 44 47|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 47|BACK
+2024 08 14 11 44 47|id=4204630832560582
+2024 08 14 11 44 47|status=PASS
+2024 08 14 11 44 47|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 47|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 47|FIS Server Connected!
+2024 08 14 11 44 48|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 48|BACK
+2024 08 14 11 44 48|id=4204630932560636
+2024 08 14 11 44 48|status=PASS
+2024 08 14 11 44 48|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 48|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 48|FIS Server Connected!
+2024 08 14 11 44 48|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 48|BACK
+2024 08 14 11 44 48|id=4204630832560582
+2024 08 14 11 44 48|status=PASS
+2024 08 14 11 44 48|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 48|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 48|FIS Server Connected!
+2024 08 14 11 44 48|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 48|BACK
+2024 08 14 11 44 48|id=4204630932560636
+2024 08 14 11 44 48|status=PASS
+2024 08 14 11 44 48|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 48|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 48|FIS Server Connected!
+2024 08 14 11 44 48|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 48|BACK
+2024 08 14 11 44 48|id=4204630832560582
+2024 08 14 11 44 48|status=PASS
+2024 08 14 11 44 48|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 48|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 48|FIS Server Connected!
+2024 08 14 11 44 49|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 49|BACK
+2024 08 14 11 44 49|id=4204630932560636
+2024 08 14 11 44 49|status=PASS
+2024 08 14 11 44 49|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 49|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 49|FIS Server Connected!
+2024 08 14 11 44 49|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 49|BACK
+2024 08 14 11 44 49|id=4204630832560582
+2024 08 14 11 44 49|status=PASS
+2024 08 14 11 44 49|TIMER|FISBCMP_PM_VISION_Ported|0.25
+2024 08 14 11 44 49|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 49|FIS Server Connected!
+2024 08 14 11 44 49|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 49|BACK
+2024 08 14 11 44 49|id=4204630932560636
+2024 08 14 11 44 49|status=PASS
+2024 08 14 11 44 49|TIMER|FISBCMP_PM_VISION_NonPorted|0.27
+2024 08 14 11 44 49|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 49|FIS Server Connected!
+2024 08 14 11 44 50|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 50|BACK
+2024 08 14 11 44 50|id=4204630832560582
+2024 08 14 11 44 50|status=PASS
+2024 08 14 11 44 50|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 50|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 50|FIS Server Connected!
+2024 08 14 11 44 50|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 50|BACK
+2024 08 14 11 44 50|id=4204630932560636
+2024 08 14 11 44 50|status=PASS
+2024 08 14 11 44 50|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 50|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 50|FIS Server Connected!
+2024 08 14 11 44 50|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 50|BACK
+2024 08 14 11 44 50|id=4204630832560582
+2024 08 14 11 44 50|status=PASS
+2024 08 14 11 44 50|TIMER|FISBCMP_PM_VISION_Ported|0.25
+2024 08 14 11 44 50|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 50|FIS Server Connected!
+2024 08 14 11 44 51|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 51|BACK
+2024 08 14 11 44 51|id=4204630932560636
+2024 08 14 11 44 51|status=PASS
+2024 08 14 11 44 51|TIMER|FISBCMP_PM_VISION_NonPorted|0.39
+2024 08 14 11 44 51|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 51|FIS Server Connected!
+2024 08 14 11 44 51|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 51|BACK
+2024 08 14 11 44 51|id=4204630832560582
+2024 08 14 11 44 51|status=PASS
+2024 08 14 11 44 51|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 51|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 51|FIS Server Connected!
+2024 08 14 11 44 51|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 51|BACK
+2024 08 14 11 44 51|id=4204630932560636
+2024 08 14 11 44 51|status=PASS
+2024 08 14 11 44 51|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 51|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 51|FIS Server Connected!
+2024 08 14 11 44 51|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 51|BACK
+2024 08 14 11 44 51|id=4204630832560582
+2024 08 14 11 44 51|status=PASS
+2024 08 14 11 44 51|TIMER|FISBCMP_PM_VISION_Ported|0.22
+2024 08 14 11 44 52|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 52|FIS Server Connected!
+2024 08 14 11 44 52|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 52|BACK
+2024 08 14 11 44 52|id=4204630932560636
+2024 08 14 11 44 52|status=PASS
+2024 08 14 11 44 52|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 52|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 52|FIS Server Connected!
+2024 08 14 11 44 52|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 52|BACK
+2024 08 14 11 44 52|id=4204630832560582
+2024 08 14 11 44 52|status=PASS
+2024 08 14 11 44 52|TIMER|FISBCMP_PM_VISION_Ported|0.25
+2024 08 14 11 44 52|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 52|FIS Server Connected!
+2024 08 14 11 44 52|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 52|BACK
+2024 08 14 11 44 52|id=4204630932560636
+2024 08 14 11 44 52|status=PASS
+2024 08 14 11 44 52|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 52|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 52|FIS Server Connected!
+2024 08 14 11 44 53|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 53|BACK
+2024 08 14 11 44 53|id=4204630832560582
+2024 08 14 11 44 53|status=PASS
+2024 08 14 11 44 53|TIMER|FISBCMP_PM_VISION_Ported|0.25
+2024 08 14 11 44 53|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 53|FIS Server Connected!
+2024 08 14 11 44 53|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 53|BACK
+2024 08 14 11 44 53|id=4204630932560636
+2024 08 14 11 44 53|status=PASS
+2024 08 14 11 44 53|TIMER|FISBCMP_PM_VISION_NonPorted|0.37
+2024 08 14 11 44 53|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 53|FIS Server Connected!
+2024 08 14 11 44 53|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 53|BACK
+2024 08 14 11 44 53|id=4204630832560582
+2024 08 14 11 44 53|status=PASS
+2024 08 14 11 44 53|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 53|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 53|FIS Server Connected!
+2024 08 14 11 44 54|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 54|BACK
+2024 08 14 11 44 54|id=4204630932560636
+2024 08 14 11 44 54|status=PASS
+2024 08 14 11 44 54|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 54|UserClick|StopBtn
+2024 08 14 11 44 54|UserClick|StopBtn_MsgBox_YES
+2024 08 14 11 44 54|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 54|FIS Server Connected!
+2024 08 14 11 44 54|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 54|BACK
+2024 08 14 11 44 54|id=4204630832560582
+2024 08 14 11 44 54|status=PASS
+2024 08 14 11 44 54|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 54|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 54|FIS Server Connected!
+2024 08 14 11 44 55|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 55|BACK
+2024 08 14 11 44 55|id=4204630932560636
+2024 08 14 11 44 55|status=PASS
+2024 08 14 11 44 55|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 55|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 55|FIS Server Connected!
+2024 08 14 11 44 55|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 55|BACK
+2024 08 14 11 44 55|id=4204630832560582
+2024 08 14 11 44 55|status=PASS
+2024 08 14 11 44 55|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 55|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 55|FIS Server Connected!
+2024 08 14 11 44 55|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 55|BACK
+2024 08 14 11 44 55|id=4204630932560636
+2024 08 14 11 44 55|status=PASS
+2024 08 14 11 44 55|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 44 55|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 55|FIS Server Connected!
+2024 08 14 11 44 56|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 56|BACK
+2024 08 14 11 44 56|id=4204630832560582
+2024 08 14 11 44 56|status=PASS
+2024 08 14 11 44 56|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 56|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 56|FIS Server Connected!
+2024 08 14 11 44 56|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 56|BACK
+2024 08 14 11 44 56|id=4204630932560636
+2024 08 14 11 44 56|status=PASS
+2024 08 14 11 44 56|TIMER|FISBCMP_PM_VISION_NonPorted|0.34
+2024 08 14 11 44 56|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 56|FIS Server Connected!
+2024 08 14 11 44 56|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 56|BACK
+2024 08 14 11 44 56|id=4204630832560582
+2024 08 14 11 44 56|status=PASS
+2024 08 14 11 44 56|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 56|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 56|FIS Server Connected!
+2024 08 14 11 44 56|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 56|BACK
+2024 08 14 11 44 56|id=4204630932560636
+2024 08 14 11 44 56|status=PASS
+2024 08 14 11 44 56|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 57|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 57|FIS Server Connected!
+2024 08 14 11 44 57|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 57|BACK
+2024 08 14 11 44 57|id=4204630832560582
+2024 08 14 11 44 57|status=PASS
+2024 08 14 11 44 57|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 57|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 57|FIS Server Connected!
+2024 08 14 11 44 57|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 57|BACK
+2024 08 14 11 44 57|id=4204630932560636
+2024 08 14 11 44 57|status=PASS
+2024 08 14 11 44 57|TIMER|FISBCMP_PM_VISION_NonPorted|0.28
+2024 08 14 11 44 57|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 57|FIS Server Connected!
+2024 08 14 11 44 57|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 57|BACK
+2024 08 14 11 44 57|id=4204630832560582
+2024 08 14 11 44 57|status=PASS
+2024 08 14 11 44 57|TIMER|FISBCMP_PM_VISION_Ported|0.22
+2024 08 14 11 44 57|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 57|FIS Server Connected!
+2024 08 14 11 44 58|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 58|BACK
+2024 08 14 11 44 58|id=4204630932560636
+2024 08 14 11 44 58|status=PASS
+2024 08 14 11 44 58|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 58|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 58|FIS Server Connected!
+2024 08 14 11 44 58|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 58|BACK
+2024 08 14 11 44 58|id=4204630832560582
+2024 08 14 11 44 58|status=PASS
+2024 08 14 11 44 58|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 58|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 58|FIS Server Connected!
+2024 08 14 11 44 58|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 58|BACK
+2024 08 14 11 44 58|id=4204630932560636
+2024 08 14 11 44 58|status=PASS
+2024 08 14 11 44 58|TIMER|FISBCMP_PM_VISION_NonPorted|0.23
+2024 08 14 11 44 58|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 58|FIS Server Connected!
+2024 08 14 11 44 59|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 59|BACK
+2024 08 14 11 44 59|id=4204630832560582
+2024 08 14 11 44 59|status=PASS
+2024 08 14 11 44 59|TIMER|FISBCMP_PM_VISION_Ported|0.30
+2024 08 14 11 44 59|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 59|FIS Server Connected!
+2024 08 14 11 44 59|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 44 59|BACK
+2024 08 14 11 44 59|id=4204630932560636
+2024 08 14 11 44 59|status=PASS
+2024 08 14 11 44 59|TIMER|FISBCMP_PM_VISION_NonPorted|0.27
+2024 08 14 11 44 59|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42053288|msg=PAL0472
+2024 08 14 11 44 59|FIS Server Connected!
+2024 08 14 11 44 59|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 11 44 59|BACK
+2024 08 14 11 44 59|id=4204630832560582
+2024 08 14 11 44 59|status=PASS
+2024 08 14 11 44 59|TIMER|FISBCMP_PM_VISION_Ported|0.23
+2024 08 14 11 44 59|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=FAIL|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet.Fail at inspecting power module assembly pallet. Program was stopped|model=42049647|pallet=PAL0472
+2024 08 14 11 44 59|FIS Server Connected!
+2024 08 14 11 45 00|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 11 45 00|BACK
+2024 08 14 11 45 00|id=4204630932560636
+2024 08 14 11 45 00|status=PASS
+2024 08 14 11 45 00|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 11 45 26|Connecting to ADUs...
+2024 08 14 11 45 26|Devices found: 3
+2024 08 14 11 45 26|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 08 14 11 45 26|USB: Base E22188 REY_PM_L3S02 Base
+2024 08 14 11 45 26|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 08 14 11 45 26|Keyence Scanner Connected!
+2024 08 14 11 45 27|Keyence Scanner Connected!
+2024 08 14 11 45 28|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 08 14 11 45 29|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 08 14 11 46 35|Connecting to ADUs...
+2024 08 14 11 46 35|Devices found: 3
+2024 08 14 11 46 35|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 08 14 11 46 35|USB: Base E22188 REY_PM_L3S02 Base
+2024 08 14 11 46 35|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 08 14 11 46 35|Keyence Scanner Connected!
+2024 08 14 11 46 36|Keyence Scanner Connected!
+2024 08 14 11 46 37|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 08 14 11 46 38|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 08 14 11 46 58|IO ready; touch START...
+2024 08 14 11 48 44|UserClick|StartBtn
+2024 08 14 11 48 44|starting...
+2024 08 14 11 48 44|PN_PowerModule_Assembly=42057410
+2024 08 14 11 48 44|PN_Heatsink_Ported=42036366
+2024 08 14 11 48 44|PN_Heatsink_NonPorted=42036367
+2024 08 14 11 48 44|PN_SpringClamp=42040020
+2024 08 14 11 48 44|PN_Seal=42040020
+2024 08 14 11 48 44|PN_Retainer=42048934
+2024 08 14 11 48 44|MODEL_Heatsink_Ported=42037640
+2024 08 14 11 48 44|MODEL_Heatsink_NonPorted=42037641
+2024 08 14 11 48 44|PN_Insulator=DNE
+2024 08 14 11 48 44|PALLETARRAY|0|PAL0451
+2024 08 14 11 48 45|PALLETARRAY|1|PAL0452
+2024 08 14 11 48 45|PALLETARRAY|2|PAL0453
+2024 08 14 11 48 45|PALLETARRAY|3|PAL0454
+2024 08 14 11 48 45|PALLETARRAY|4|PAL0455
+2024 08 14 11 48 45|PALLETARRAY|5|PAL0456
+2024 08 14 11 48 45|PALLETARRAY|6|PAL0460
+2024 08 14 11 48 45|PALLETARRAY|7|PAL0463
+2024 08 14 11 48 45|Dry cycle Vision is ON
+2024 08 14 11 48 45|Dry cycle Vision is ON
+2024 08 14 11 48 46|TIMER|Initialize Outputs|0.11
+2024 08 14 11 48 49|TIMER|MECA500_Home|0.30
+2024 08 14 11 48 49|Switching lights to NEST and waiting 0 seconds
+2024 08 14 11 48 50|TIMER|Indexing Front Pallet into Position|1.33
+2024 08 14 11 48 51|VISIONDATA|PALLET_BARCODE||PAL0472
+2024 08 14 11 48 51|TIMER|INSPECT_PALLET_BARCODE|0.27
+2024 08 14 11 48 51|ERROR|Invalid Pallet Detected,PAL0472,STLA_400VPIM250
+2024 08 14 11 50 05|Application stopped.
+2024 08 14 11 50 05|Doors are now OPEN
+2024 08 14 11 50 21|Doors are now OPEN
+2024 08 14 12 02 59|UserClick|Quit
+2024 08 14 12 03 30|Connecting to ADUs...
+2024 08 14 12 03 30|Devices found: 3
+2024 08 14 12 03 30|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 08 14 12 03 30|USB: Base E22188 REY_PM_L3S02 Base
+2024 08 14 12 03 30|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 08 14 12 03 30|Keyence Scanner Connected!
+2024 08 14 12 03 30|Keyence Scanner Connected!
+2024 08 14 12 03 31|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 08 14 12 03 32|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 08 14 12 03 50|IO ready; touch START...
+2024 08 14 12 04 13|UserClick|StartBtn
+2024 08 14 12 04 13|starting...
+2024 08 14 12 04 13|PN_PowerModule_Assembly=42053287
+2024 08 14 12 04 13|PN_Heatsink_Ported=42046308
+2024 08 14 12 04 13|PN_Heatsink_NonPorted=42046309
+2024 08 14 12 04 13|PN_SpringClamp=42054859
+2024 08 14 12 04 13|PN_Seal=42054859
+2024 08 14 12 04 13|PN_Retainer=42048934
+2024 08 14 12 04 13|MODEL_Heatsink_Ported=42053288
+2024 08 14 12 04 13|MODEL_Heatsink_NonPorted=42049647
+2024 08 14 12 04 13|PN_Insulator=DNE
+2024 08 14 12 04 13|PALLETARRAY|0|PAL0471
+2024 08 14 12 04 13|PALLETARRAY|1|PAL0472
+2024 08 14 12 04 13|PALLETARRAY|2|PAL0473
+2024 08 14 12 04 13|PALLETARRAY|3|PAL0474
+2024 08 14 12 04 13|PALLETARRAY|4|PAL0475
+2024 08 14 12 04 13|PALLETARRAY|5|PAL0476
+2024 08 14 12 04 14|Dry cycle Vision is ON
+2024 08 14 12 04 14|Dry cycle Vision is ON
+2024 08 14 12 04 14|TIMER|Initialize Outputs|0.09
+2024 08 14 12 04 17|TIMER|MECA500_Home|0.30
+2024 08 14 12 04 17|Switching lights to NEST and waiting 0 seconds
+2024 08 14 12 04 19|TIMER|Indexing Front Pallet into Position|1.34
+2024 08 14 12 04 19|VISIONDATA|PALLET_BARCODE||PAL0472
+2024 08 14 12 04 19|TIMER|INSPECT_PALLET_BARCODE|0.27
+2024 08 14 12 04 19|Pallet Label=PAL0472
+2024 08 14 12 04 19|TIMER|Read Pallet Barcode from Vision|0.31
+2024 08 14 12 04 20|TIMER|MECA500_PickFromPallet|1.34
+2024 08 14 12 04 21|TIMER|Wait for Vacuum Pickup OK|0.08
+2024 08 14 12 04 27|TIMER|MECA500_PlaceOnNest|6.42
+2024 08 14 12 04 27|TIMER|Wait for Vacuum Pickup OFF|0.12
+2024 08 14 12 04 28|TIMER|MECA500_ClearNest|0.53
+2024 08 14 12 04 28|SCANDATA|4204630932560636
+2024 08 14 12 04 28|Non-Ported Heatsink Label=4204630932560636
+2024 08 14 12 04 28|TIMER|Scan Non-Ported Heatsink|0.41
+2024 08 14 12 04 28|FISComm String: BREQ|id=4204630932560636|process=PM_VISION|station=PM_L3S02
+2024 08 14 12 04 28|FIS Server Connected!
+2024 08 14 12 04 29|FIS Response: BCNF|id=4204630932560636|status=PASS|model=42049647|route=
+2024 08 14 12 04 29|BCNF
+2024 08 14 12 04 29|id=4204630932560636
+2024 08 14 12 04 29|status=PASS
+2024 08 14 12 04 29|model=42049647
+2024 08 14 12 04 29|route=
+2024 08 14 12 04 29|TIMER|FISBREQ - Heatsink_NonPorted|0.31
+2024 08 14 12 04 29|SCANDATA|4204630832560582
+2024 08 14 12 04 29|Ported Heatsink Label=4204630832560582
+2024 08 14 12 04 29|TIMER|Scan Ported Heatsink|0.39
+2024 08 14 12 04 29|FISComm String: BREQ|id=4204630832560582|process=PM_VISION|station=PM_L3S02
+2024 08 14 12 04 29|FIS Server Connected!
+2024 08 14 12 04 29|FIS Response: BCNF|id=4204630832560582|status=PASS|model=42053288|route=
+2024 08 14 12 04 29|BCNF
+2024 08 14 12 04 29|id=4204630832560582
+2024 08 14 12 04 29|status=PASS
+2024 08 14 12 04 29|model=42053288
+2024 08 14 12 04 29|route=
+2024 08 14 12 04 29|TIMER|FISBREQ - Heatsink_Ported|0.27
+2024 08 14 12 04 31|VISIONDATA|STLA_800VPIM250_TIMPADS_PortedHS|4204630832560582|PASS|Pad Area|184.309|179.76|178.196|178.195|177.572|177.658|Pad X|-27.4276|-47.5129|-83.553|-103.711|-139.663|-159.868|Pad Y|-14.3592|-14.4311|-14.6457|-14.7134|-14.7199|-14.8195
+2024 08 14 12 04 32|TIMER|INSPECT_STLA_800VPIM250_TIMPADS_PortedHS|2.27
+2024 08 14 12 04 32|Switching lights to PALLET and waiting 2 seconds
+2024 08 14 12 04 34|TIMER|Switching Vision Lights|2.03
+2024 08 14 12 04 35|VISIONDATA|STLA_800VPIM250_TIMPADS_NonPortedHS|4204630932560636|PASS|Pad Area|177.535|174.252|176.236|177.523|175.046|176.75|Pad X|27.4325|47.6086|83.6424|103.643|139.644|159.635|Pad Y|-14.9022|-15.0472|-14.9186|-14.6231|-14.7449|-14.6976
+2024 08 14 12 04 36|TIMER|INSPECT_STLA_800VPIM250_TIMPADS_NonPortedHS|2.39
+2024 08 14 12 04 36|Switching lights to BOTH and waiting 2 seconds
+2024 08 14 12 04 38|TIMER|Switching Vision Lights|2.03
+2024 08 14 12 04 41|VISIONDATA|STLA_800VPIM250_RETAINERS_SEALS|4204630932560636|PASS|Left Seal|OK|99.9993|Right Seal|OK|100|Clip1|800V_OK|99.9941|Clip2|800V_OK|100|Clip3|800V_OK|96.5701|Clip4|800V_OK|99.9998|Clip5|800V_OK|99.98|Clip6|800V_OK|77.2967|Clip7|800V_OK|100|Clip8|800V_OK|99.9939
+2024 08 14 12 04 41|TIMER|INSPECT_STLA_800VPIM250_RETAINERS_SEALS|1.55
+2024 08 14 12 04 42|TIMER|MECA500_PickFromNest|0.52
+2024 08 14 12 04 42|TIMER|Wait for Vacuum Pickup OK|0.02
+2024 08 14 12 04 49|TIMER|MECA500_PlaceOnPallet|6.89
+2024 08 14 12 04 49|TIMER|Wait for Vacuum Pickup OFF|0.12
+2024 08 14 12 04 51|TIMER|MECA500_Home|1.17
+2024 08 14 12 04 51|FISComm String: BCMP|id=4204630832560582|process=PM_VISION|station=PM_L3S02|status=PASS|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Pass at inspecting power module assembly pallet|model=42053288|msg=PAL0472
+2024 08 14 12 04 51|FIS Server Connected!
+2024 08 14 12 04 51|FIS Response: BACK|id=4204630832560582|status=PASS
+2024 08 14 12 04 51|BACK
+2024 08 14 12 04 51|id=4204630832560582
+2024 08 14 12 04 51|status=PASS
+2024 08 14 12 04 51|TIMER|FISBCMP_PM_VISION_Ported|0.28
+2024 08 14 12 04 51|FISComm String: BCMP|id=4204630932560636|process=PM_VISION|station=PM_L3S02|status=PASS|testres=CAM1,PALLET_BARCODE_PASS|testres=CAM1,STLA_800VPIM250_TIMPADS_PortedHS_PASS|testres=CAM2,STLA_800VPIM250_TIMPADS_NonPortedHS_PASS|testres=CAM2,STLA_800VPIM250_RETAINERS_SEALS_PASS|msg=Pass at inspecting power module assembly pallet|model=42049647|pallet=PAL0472
+2024 08 14 12 04 51|FIS Server Connected!
+2024 08 14 12 04 51|FIS Response: BACK|id=4204630932560636|status=PASS
+2024 08 14 12 04 51|BACK
+2024 08 14 12 04 51|id=4204630932560636
+2024 08 14 12 04 51|status=PASS
+2024 08 14 12 04 51|TIMER|FISBCMP_PM_VISION_NonPorted|0.25
+2024 08 14 12 40 04|TIMER|Waiting for Assembly Cell to be ready|2112.38
+2024 08 14 12 40 07|TIMER|Sending Pallet to Assembly Cell|3.87
+2024 08 14 12 40 07|Cycle Attempts = 1
+2024 08 14 12 40 07|CycleTime|STLA_800VPIM250|PASS_1|4204630832560582|2150.06
+2024 08 14 12 40 07|Switching lights to NEST and waiting 0 seconds

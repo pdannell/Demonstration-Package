@@ -1,0 +1,13 @@
+2024 08 19 13 09 30|Keyence Scanner Disconnected!
+2024 08 19 13 09 30|Attempting to reconnect...
+2024 08 19 13 09 35|Timeout connecting to Keyence Scanner 192.168.0.21
+2024 08 19 13 09 40|Keyence Scanner Disconnected!
+2024 08 19 13 09 40|Attempting to reconnect...
+2024 08 19 13 09 45|Timeout connecting to Keyence Scanner 192.168.0.22
+2024 08 19 13 11 39|Doors are now OPEN
+2024 08 19 13 22 19|Doors are now OPEN
+2024 08 19 14 41 16|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 08 19 14 41 16|ERROR|Access Denied. Unable to toggle output.
+2024 08 19 14 43 21|Doors are now OPEN
+2024 08 19 15 06 25|Doors are now OPEN
+2024 08 19 15 41 48|Doors are now OPEN

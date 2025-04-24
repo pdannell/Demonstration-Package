@@ -1,0 +1,257 @@
+2024 03 13 07 16 19|Connecting to ADUs...
+2024 03 13 07 16 20|Devices found: 3
+2024 03 13 07 16 20|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 13 07 16 20|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 13 07 16 20|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 13 07 16 20|Keyence Scanner Connected!
+2024 03 13 07 16 20|Keyence Scanner Connected!
+2024 03 13 07 16 21|IO ready; touch START...
+2024 03 13 07 16 31|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 03 13 07 20 33|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 03 13 07 20 34|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 03 13 07 21 12|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 03 13 07 22 08|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 03 13 07 22 23|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 03 13 08 05 49|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 03 13 08 07 03|UserClick|ToggleOutput_Front Conveyor Go BACK_ON
+2024 03 13 08 07 09|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 03 13 08 07 22|UserClick|ToggleOutput_Front Pallet Clamp ON_OFF
+2024 03 13 08 07 24|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 03 13 08 07 28|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 03 13 08 07 30|UserClick|ToggleOutput_Front Conveyor Go BACK_OFF
+2024 03 13 08 07 34|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 03 13 08 07 38|UserClick|ToggleOutput_Front Conveyor Go BACK_ON
+2024 03 13 08 07 39|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 03 13 08 07 41|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 03 13 08 07 43|UserClick|ToggleOutput_Front Conveyor Go BACK_OFF
+2024 03 13 08 07 45|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 03 13 08 07 47|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 03 13 08 10 03|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 03 13 08 23 55|UserClick|ToggleOutput_Front Conveyor Go BACK_ON
+2024 03 13 08 23 57|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 03 13 08 24 02|UserClick|ToggleOutput_Front Conveyor Go BACK_OFF
+2024 03 13 08 24 08|UserClick|ToggleOutput_Front Conveyor Go BACK_ON
+2024 03 13 08 24 10|UserClick|ToggleOutput_Front Conveyor Go BACK_OFF
+2024 03 13 08 24 12|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 03 13 08 24 14|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 03 13 08 24 27|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 03 13 10 13 14|Connecting to ADUs...
+2024 03 13 10 13 14|Devices found: 3
+2024 03 13 10 13 14|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 13 10 13 14|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 13 10 13 14|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 13 10 13 14|Keyence Scanner Connected!
+2024 03 13 10 13 14|Keyence Scanner Connected!
+2024 03 13 10 13 15|IO ready; touch START...
+2024 03 13 10 13 33|UserClick|Quit
+2024 03 13 10 15 34|Connecting to ADUs...
+2024 03 13 10 15 34|Devices found: 3
+2024 03 13 10 15 34|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 13 10 15 34|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 13 10 15 34|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 13 10 15 34|Keyence Scanner Connected!
+2024 03 13 10 15 34|Keyence Scanner Connected!
+2024 03 13 10 15 35|IO ready; touch START...
+2024 03 13 10 21 58|Connecting to ADUs...
+2024 03 13 10 21 58|Devices found: 3
+2024 03 13 10 21 59|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 13 10 21 59|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 13 10 21 59|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 13 10 21 59|Keyence Scanner Connected!
+2024 03 13 10 21 59|Keyence Scanner Connected!
+2024 03 13 10 22 00|IO ready; touch START...
+2024 03 13 10 22 12|UserClick|StartBtn
+2024 03 13 10 22 12|starting...
+2024 03 13 10 22 12|Application stopped.
+2024 03 13 10 22 33|UserClick|StartBtn
+2024 03 13 10 22 33|starting...
+2024 03 13 10 22 36|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 03 13 10 22 57|TIMER|COMPLETED_JOB_CHANGE|24.36
+2024 03 13 10 22 57|TIMER|Change Vision Inspection Number, Cam1, Insp1|24.39
+2024 03 13 10 22 58|TIMER|Indexing Front Pallet into Position|0.48
+2024 03 13 10 22 58|SCANDATA|DK70887833343276
+2024 03 13 10 22 58|Non-Ported Heatsink Label=DK70887833343276
+2024 03 13 10 22 58|TIMER|Scan Non-Ported Heatsink|0.39
+2024 03 13 10 22 59|FISComm String: BREQ|id=DK70887833343276|process=STLA_GPIM_01|station=GPIM_L1S01
+2024 03 13 10 22 59|TIMER|FISBREQ - Heatsink_NonPorted|1.03
+2024 03 13 10 23 07|UserClick|RetryBtn
+2024 03 13 10 23 07|TIMER|Waiting for Ported Heatsink to be in the Nest|7.44
+2024 03 13 10 23 07|SCANDATA|DK70887833343276
+2024 03 13 10 23 07|Ported Heatsink Label=DK70887833343276
+2024 03 13 10 23 07|TIMER|Scan Ported Heatsink|0.41
+2024 03 13 10 23 08|FISComm String: BREQ|id=DK70887833343276|process=STLA_GPIM_01|station=GPIM_L1S01
+2024 03 13 10 23 08|TIMER|FISBREQ - Heatsink_Ported|1.01
+2024 03 13 10 23 09|TIMER|INSPECT_STLA_HS1_TIMPADS|0.97
+2024 03 13 10 23 09|VISIONDATA|STLA_HS1_TIMPADS|FAIL|PAD1|NOK||PAD2|NOK||PAD3|NOK|
+2024 03 13 10 25 44|Keyence Scanner Disconnected!
+2024 03 13 10 25 44|Attempting to reconnect...
+2024 03 13 10 25 44|Keyence Scanner Disconnected!
+2024 03 13 10 25 44|Attempting to reconnect...
+2024 03 13 10 25 49|Timeout connecting to Keyence Scanner 192.168.0.21
+2024 03 13 10 25 49|Timeout connecting to Keyence Scanner 192.168.0.22
+2024 03 13 10 25 54|FAULT|Timeout connecting to Insight Camera 192.168.0.11
+2024 03 13 10 29 55|Connecting to ADUs...
+2024 03 13 10 29 55|Devices found: 3
+2024 03 13 10 29 55|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 13 10 29 55|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 13 10 29 55|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 13 10 29 56|Keyence Scanner Connected!
+2024 03 13 10 29 56|Keyence Scanner Connected!
+2024 03 13 10 29 57|IO ready; touch START...
+2024 03 13 10 29 59|UserClick|StartBtn
+2024 03 13 10 29 59|starting...
+2024 03 13 10 30 01|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 03 13 10 30 22|Failed to set camera online
+2024 03 13 10 30 22|Failed to set camera online
+2024 03 13 10 30 23|Failed to set camera online
+2024 03 13 10 30 23|Failed to set camera online
+2024 03 13 10 30 23|Failed to set camera online
+2024 03 13 10 30 24|Failed to set camera online
+2024 03 13 10 30 24|Failed to set camera online
+2024 03 13 10 30 25|Failed to set camera online
+2024 03 13 10 30 25|Failed to set camera online
+2024 03 13 10 30 25|Failed to set camera online
+2024 03 13 10 30 26|Failed to set camera online
+2024 03 13 10 30 26|Failed to set camera online
+2024 03 13 10 30 27|Failed to set camera online
+2024 03 13 10 30 27|Failed to set camera online
+2024 03 13 10 30 28|Failed to set camera online
+2024 03 13 10 30 28|Failed to set camera online
+2024 03 13 10 30 28|Failed to set camera online
+2024 03 13 10 30 29|FAULT|Unable to load Job on Camera: 1 Job: 
+2024 03 13 10 30 31|UserClick|StopBtn
+2024 03 13 10 30 31|UserClick|StopBtn_MsgBox_YES
+2024 03 13 10 30 32|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 03 13 10 30 32|TIMER|Change Vision Inspection Number, Cam1, Insp1|32.56
+2024 03 13 10 30 32|Application stopped.
+2024 03 13 10 30 34|UserClick|StartBtn
+2024 03 13 10 30 34|starting...
+2024 03 13 10 30 35|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 03 13 10 30 56|TIMER|COMPLETED_JOB_CHANGE|21.29
+2024 03 13 10 30 56|TIMER|Change Vision Inspection Number, Cam1, Insp1|21.31
+2024 03 13 10 30 56|TIMER|Indexing Front Pallet into Position|0.34
+2024 03 13 10 30 57|SCANDATA|DK70887833343276
+2024 03 13 10 30 57|Non-Ported Heatsink Label=DK70887833343276
+2024 03 13 10 30 57|TIMER|Scan Non-Ported Heatsink|0.37
+2024 03 13 10 30 58|FISComm String: BREQ|id=DK70887833343276|process=STLA_GPIM_01|station=GPIM_L1S01
+2024 03 13 10 30 58|TIMER|FISBREQ - Heatsink_NonPorted|1.08
+2024 03 13 10 31 20|UserClick|RetryBtn
+2024 03 13 10 31 21|TIMER|Waiting for Ported Heatsink to be in the Nest|23.15
+2024 03 13 10 31 21|SCANDATA|DK70887833343276
+2024 03 13 10 31 21|Ported Heatsink Label=DK70887833343276
+2024 03 13 10 31 21|TIMER|Scan Ported Heatsink|0.40
+2024 03 13 10 31 22|FISComm String: BREQ|id=DK70887833343276|process=STLA_GPIM_01|station=GPIM_L1S01
+2024 03 13 10 31 22|TIMER|FISBREQ - Heatsink_Ported|1.01
+2024 03 13 10 31 23|VISIONDATA|STLA_HS1_TIMPADS|FAIL|PAD1|NOK||PAD2|NOK||PAD3|NOK|
+2024 03 13 10 31 23|TIMER|INSPECT_STLA_HS1_TIMPADS|0.97
+2024 03 13 10 40 44|Connecting to ADUs...
+2024 03 13 10 40 44|Devices found: 3
+2024 03 13 10 40 44|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 13 10 40 44|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 13 10 40 44|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 13 10 40 44|Keyence Scanner Connected!
+2024 03 13 10 40 44|Keyence Scanner Connected!
+2024 03 13 10 40 45|IO ready; touch START...
+2024 03 13 10 41 25|UserClick|Quit
+2024 03 13 13 32 21|Connecting to ADUs...
+2024 03 13 13 32 21|Devices found: 3
+2024 03 13 13 32 21|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 13 13 32 21|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 13 13 32 21|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 13 13 32 21|Keyence Scanner Connected!
+2024 03 13 13 32 21|Keyence Scanner Connected!
+2024 03 13 13 32 22|IO ready; touch START...
+2024 03 13 13 32 38|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 13 32 38|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 13 33 18|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 13 33 20|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 13 33 37|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 13 33 38|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 13 33 45|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 13 33 46|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 14 33 51|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 33 52|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 33 53|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 33 54|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 33 54|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 33 57|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 34 01|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 34 44|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 35 47|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 36 08|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 37 45|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 37 50|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 37 51|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 37 53|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 39 16|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 39 21|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 39 54|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 44 25|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 46 09|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 46 11|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 46 38|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 46 39|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 46 47|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 13 14 48 12|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 14 48 14|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 14 50 46|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 14 50 47|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 14 52 22|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 14 52 23|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 14 53 13|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 13 14 57 37|UserClick|ToggleOutput_Front Pallet Clamp ON_ON
+2024 03 13 15 13 56|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 13 15 28 42|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 28 42|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 29 22|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 29 23|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 29 45|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 29 46|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 30 08|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 30 12|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 30 24|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 30 27|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 31 11|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 31 12|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 31 25|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 31 26|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 32 49|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 32 50|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 33 40|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 33 40|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 34 27|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 34 28|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 38 50|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 38 51|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 42 43|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 13 15 42 45|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 13 15 42 46|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 13 15 42 49|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 13 15 42 50|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 13 15 43 32|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 13 15 45 19|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 45 20|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 45 55|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 13 15 48 04|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 13 15 48 04|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 13 15 48 18|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 13 16 01 01|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 13 16 02 26|Keyence Scanner Disconnected!
+2024 03 13 16 02 26|Attempting to reconnect...
+2024 03 13 16 02 31|Timeout connecting to Keyence Scanner 192.168.0.21
+2024 03 13 16 02 45|Keyence Scanner Disconnected!
+2024 03 13 16 02 45|Attempting to reconnect...
+2024 03 13 16 02 50|Timeout connecting to Keyence Scanner 192.168.0.22
+2024 03 13 16 10 50|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 13 16 11 52|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 13 16 12 23|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 13 16 27 09|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 13 16 55 53|UserClick|Quit
+2024 03 13 16 55 57|Connecting to ADUs...
+2024 03 13 16 55 57|Devices found: 3
+2024 03 13 16 55 57|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 13 16 55 57|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 13 16 55 57|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 13 16 55 57|Keyence Scanner Connected!
+2024 03 13 16 55 57|Keyence Scanner Connected!
+2024 03 13 16 55 59|IO ready; touch START...

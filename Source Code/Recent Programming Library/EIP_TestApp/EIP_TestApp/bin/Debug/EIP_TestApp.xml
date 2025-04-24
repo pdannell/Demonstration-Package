@@ -1,0 +1,82 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EIP_TestApp
+</name>
+</assembly>
+<members>
+<member name="T:EIP_TestApp.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:EIP_TestApp.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:EIP_TestApp.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:EIP_TestApp.LIB_Deprag">
+ <summary>
+ Wrapper for All Deprag based modules. Requires LIB_EIP as a dependency when in use.
+ </summary>
+</member>
+<member name="M:EIP_TestApp.LIB_Deprag.SFM_Module.SFM_ReadInputs">
+ <summary>
+ Function which reads all the motor status state bits and feeds them back into a SFM_DepragResults array.
+ </summary>
+ <returns>SFM_DepragResults array</returns>
+</member>
+<member name="M:EIP_TestApp.LIB_Deprag.SFM_Module.SFM_RunProgram(System.Int32,System.Int32,System.Boolean)">
+ <summary>
+ Main run program command function that autohandles the motor to do stuff.
+ </summary>
+ <param name="command">Use class built in ENUM for this.</param>
+ <param name="programNumber">Tells us which program to use when using Enum.Program</param>
+ <param name="onOff">Tells us the state to set on/off based items to such as Motor On/Off</param>
+</member>
+<member name="T:EIP_TestApp.LIB_EIP.ResultsList">
+ <summary>
+ Main Class for holding autodiscovery device data.
+ </summary>
+</member>
+<member name="M:EIP_TestApp.LIB_EIP.SubscriptionHandler">
+ <summary>
+ Handler that checks if we need a new EIP connection. Implicit and Explicit Supported.
+ </summary>
+</member>
+<member name="M:EIP_TestApp.LIB_EIP.DiscoverDevices">
+ <summary>
+ Calling this function returns a listing of all discovered EIP devices, their data and 
+ </summary>
+ <returns>ResultsList Class Structure is returned to the user.</returns>
+</member>
+<member name="M:EIP_TestApp.LIB_EIP.Explicit_ReadInputDigital(System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Function that reads back either All Bytes on an address, a word, or bit.
+ </summary>
+ <param name="dataInstanceAddress">Required - Device Instance Address(Returns all data if only this is filled out)</param>
+ <param name="dataWord">Optional - Word In Data String(Returns the entire word if only this is fialled out)</param>
+ <param name="bitOnWord">Optional - Bit to read from our word</param>
+ <returns>Data Requested As a String List of either All Bytes, Single Byte, Single Bit</returns>
+</member>
+<member name="M:EIP_TestApp.LIB_EIP.Explicit_SetOutput(System.String,System.Byte[])">
+ <summary>
+ Function that sets any series of data you request.
+ </summary>
+ <param name="dataInstanceAddress">Instance To Set</param>
+ <param name="setByteSeries">Series of bytes that corrosponds to each of the max supported bytes.</param>
+</member>
+<member name="M:EIP_TestApp.LIB_EIP.TestFunction">
+ <summary>
+ Test area used only for internal debug.
+ </summary>
+</member>
+</members>
+</doc>

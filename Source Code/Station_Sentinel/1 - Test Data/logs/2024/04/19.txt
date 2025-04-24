@@ -1,0 +1,80 @@
+2024 04 19 08 35 34|Connecting to ADUs...
+2024 04 19 08 35 34|Devices found: 3
+2024 04 19 08 35 34|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 19 08 35 34|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 19 08 35 34|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 19 08 35 34|Keyence Scanner Connected!
+2024 04 19 08 35 34|Keyence Scanner Connected!
+2024 04 19 08 35 57|IO ready; touch START...
+2024 04 19 08 36 19|UserClick|StartBtn
+2024 04 19 08 36 19|starting...
+2024 04 19 08 36 19|Running Test MECA500 Routine...
+2024 04 19 08 36 39|TIMER|MECA500_Initialize|20.27
+2024 04 19 08 36 40|TIMER|MECA500_Home|1.17
+2024 04 19 08 36 42|TIMER|MECA500_Pick|1.42
+2024 04 19 08 36 48|TIMER|MECA500_Place|6.89
+2024 04 19 08 36 50|TIMER|MECA500_Clear|1.19
+2024 04 19 08 36 53|TIMER|PortedHeatink_DoStuff|3.01
+2024 04 19 08 37 01|TIMER|MECA500_Combine|8.57
+2024 04 19 08 37 03|TIMER|MECA500_Home|1.40
+2024 04 19 08 37 03|TestTime_Meca500|NonPortedHeatsink|23.68
+2024 04 19 08 37 03|Application stopped.
+2024 04 19 08 37 10|UserClick|StartBtn
+2024 04 19 08 37 10|starting...
+2024 04 19 08 37 11|Running Test MECA500 Routine...
+2024 04 19 08 37 31|TIMER|MECA500_Initialize|20.30
+2024 04 19 08 37 32|TIMER|MECA500_Home|1.17
+2024 04 19 08 37 33|TIMER|MECA500_Pick|1.42
+2024 04 19 08 37 40|TIMER|MECA500_Place|6.90
+2024 04 19 08 37 42|TIMER|MECA500_Clear|1.18
+2024 04 19 08 37 45|TIMER|PortedHeatink_DoStuff|3.01
+2024 04 19 08 37 53|TIMER|MECA500_Combine|8.56
+2024 04 19 08 37 55|TIMER|MECA500_Home|1.40
+2024 04 19 08 37 55|TestTime_Meca500|NonPortedHeatsink|23.71
+2024 04 19 08 37 55|Application stopped.
+2024 04 19 08 38 11|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 19 08 38 12|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 19 08 38 14|UserClick|ToggleOutput_Trigger Vision 2_ON
+2024 04 19 08 38 15|UserClick|ToggleOutput_Trigger Vision 2_OFF
+2024 04 19 08 38 16|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 19 08 38 17|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 19 08 40 40|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 19 08 40 41|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 19 08 43 07|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 19 08 43 07|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 19 08 43 09|UserClick|ToggleOutput_Trigger Vision 2_ON
+2024 04 19 08 43 10|UserClick|ToggleOutput_Trigger Vision 2_OFF
+2024 04 19 09 02 13|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 09 02 14|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 19 09 04 50|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 09 07 10|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF
+2024 04 19 09 07 10|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 09 23 26|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 09 26 37|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 10 20 20|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 10 20 20|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 19 10 22 30|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 10 22 31|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF
+2024 04 19 10 23 29|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 10 25 22|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 10 29 02|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 10 32 47|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 10 33 22|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 10 34 08|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 10 35 51|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 10 38 06|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 19 10 38 07|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 19 10 38 08|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 10 38 11|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 10 38 31|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 04 19 10 38 38|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 04 19 10 38 38|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 12 26 31|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 12 29 29|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 19 12 40 12|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 12 40 12|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF
+2024 04 19 12 53 22|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 12 56 01|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 19 13 15 55|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 19 13 15 56|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 19 14 02 18|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF

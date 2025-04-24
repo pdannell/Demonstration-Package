@@ -1,0 +1,6 @@
+2024 09 03 09 46 36|Error: ADU_write call failed:
+2024 09 03 09 46 36| 0REY_PM_L3S02 Base, PI
+2024 09 03 09 46 36|Error: ReadAduDevice call failed:
+2024 09 03 09 46 36| 0REY_PM_L3S02 Base
+2024 09 03 09 46 36|Doors are now OPEN
+2024 09 03 12 11 54|Doors are now OPEN

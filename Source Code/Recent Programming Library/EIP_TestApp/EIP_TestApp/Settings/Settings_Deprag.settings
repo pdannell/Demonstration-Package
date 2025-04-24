@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings_Deprag">
+  <Profiles />
+  <Settings>
+    <Setting Name="SFM_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.111</Value>
+    </Setting>
+    <Setting Name="SFM_Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">44818</Value>
+    </Setting>
+    <Setting Name="SFM_eipProductName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JXC9</Value>
+    </Setting>
+    <Setting Name="SFM_eipType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="SFM_eipVendorID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">209</Value>
+    </Setting>
+    <Setting Name="SFM_Enable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

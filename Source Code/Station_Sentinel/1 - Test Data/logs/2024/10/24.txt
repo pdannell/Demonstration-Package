@@ -1,0 +1,57 @@
+2024 10 24 15 03 49|Doors are now OPEN
+2024 10 24 15 04 23|TIMER|Wait for operator to Send the Pallet|6398.63
+2024 10 24 15 04 27|TIMER|Indexing Front Pallet into Position|4.16
+2024 10 24 15 04 28|VISIONDATA|PALLET_BARCODE||PAL0460
+2024 10 24 15 04 28|TIMER|INSPECT_PALLET_BARCODE|0.30
+2024 10 24 15 04 28|Pallet Label=PAL0460
+2024 10 24 15 04 28|TIMER|Read Pallet Barcode from Vision|0.39
+2024 10 24 15 04 31|Doors are now OPEN
+2024 10 24 15 04 31|TIMER|MECA500_PickFromPallet|3.21
+2024 10 24 15 04 36|ERROR|Timed out Waiting for Vacuum to be OK, timeout= 2 seconds
+2024 10 24 15 04 43|ERROR|Timed Out waiting for Vacuum to be OK, Pallet_Pick
+2024 10 24 15 04 46|UserClick|RetryBtn
+2024 10 24 15 04 48|TIMER|MECA500_PickFromPallet|1.29
+2024 10 24 15 04 51|TIMER|Wait for Vacuum Pickup OK|3.03
+2024 10 24 15 04 58|Ported Heatsink was dropped during robot movements...
+2024 10 24 15 05 31|ERROR|Heatsink was dropped when picking from pallet and placing it on the nest
+2024 10 24 15 05 34|Doors are now OPEN
+2024 10 24 15 06 05|UserClick|RetryBtn
+2024 10 24 15 06 05|Application stopped.
+2024 10 24 15 06 20|UserClick|StartBtn
+2024 10 24 15 06 20|starting...
+2024 10 24 15 06 20|PN_PowerModule_Assembly=42057410
+2024 10 24 15 06 20|PN_Heatsink_Ported=42036366
+2024 10 24 15 06 20|PN_Heatsink_NonPorted=42036367
+2024 10 24 15 06 20|PN_Clip=42040020
+2024 10 24 15 06 20|PN_Seal=42040020
+2024 10 24 15 06 20|PN_Retainer=42048934
+2024 10 24 15 06 20|MODEL_Heatsink_Ported=42037640
+2024 10 24 15 06 20|MODEL_Heatsink_NonPorted=42037641
+2024 10 24 15 06 20|PN_Insulator=DNE
+2024 10 24 15 06 20|PALLETARRAY|0|PAL0451
+2024 10 24 15 06 20|PALLETARRAY|1|PAL0452
+2024 10 24 15 06 20|PALLETARRAY|2|PAL0453
+2024 10 24 15 06 20|PALLETARRAY|3|PAL0454
+2024 10 24 15 06 20|PALLETARRAY|4|PAL0455
+2024 10 24 15 06 20|PALLETARRAY|5|PAL0456
+2024 10 24 15 06 20|PALLETARRAY|6|PAL0460
+2024 10 24 15 06 20|PALLETARRAY|7|PAL0463
+2024 10 24 15 06 21|Dry cycle Vision is ON
+2024 10 24 15 06 21|Dry cycle Vision is ON
+2024 10 24 15 06 21|TIMER|Initialize Outputs|0.10
+2024 10 24 15 06 31|TIMER|MECA500_Home|7.05
+2024 10 24 15 06 31|Switching lights to NEST and waiting 0 seconds
+2024 10 24 15 06 32|TIMER|Indexing Front Pallet into Position|1.30
+2024 10 24 15 06 32|VISIONDATA|PALLET_BARCODE||PAL0460
+2024 10 24 15 06 33|TIMER|INSPECT_PALLET_BARCODE|0.29
+2024 10 24 15 06 33|Pallet Label=PAL0460
+2024 10 24 15 06 33|TIMER|Read Pallet Barcode from Vision|0.37
+2024 10 24 15 06 34|TIMER|MECA500_PickFromPallet|1.30
+2024 10 24 15 06 37|TIMER|Wait for Vacuum Pickup OK|3.02
+2024 10 24 15 06 39|Doors are now OPEN
+2024 10 24 15 06 57|Ported Heatsink was dropped during robot movements...
+2024 10 24 15 06 59|Doors are now OPEN
+2024 10 24 15 08 21|ERROR|Heatsink was dropped when picking from pallet and placing it on the nest
+2024 10 24 15 08 28|Doors are now OPEN
+2024 10 24 15 09 04|Doors are now OPEN
+2024 10 24 15 10 09|Doors are now OPEN

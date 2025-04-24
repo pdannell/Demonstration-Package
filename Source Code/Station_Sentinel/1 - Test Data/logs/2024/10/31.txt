@@ -1,0 +1,6 @@
+2024 10 31 10 20 54|Doors are now OPEN
+2024 10 31 15 07 30|UserClick|StopBtn
+2024 10 31 15 07 33|UserClick|StopBtn_MsgBox_YES
+2024 10 31 15 07 38|UserClick|StopBtn
+2024 10 31 15 07 39|UserClick|StopBtn_MsgBox_YES
+2024 10 31 15 07 41|UserClick|StopBtn

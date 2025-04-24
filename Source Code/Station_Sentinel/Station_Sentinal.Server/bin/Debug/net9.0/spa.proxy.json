@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:54717",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\pdannelly\\source\\repos\\Station_Sentinel\\Station_Sentinal.Server\\..\\station_sentinal.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

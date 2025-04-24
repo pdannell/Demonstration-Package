@@ -1,0 +1,90 @@
+2024 04 10 11 58 00|Connecting to ADUs...
+2024 04 10 11 58 00|Devices found: 3
+2024 04 10 11 58 00|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 10 11 58 00|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 10 11 58 00|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 10 11 58 00|Keyence Scanner Connected!
+2024 04 10 11 58 00|Keyence Scanner Connected!
+2024 04 10 11 58 23|IO ready; touch START...
+2024 04 10 12 17 17|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 10 12 17 18|UserClick|ToggleOutput_Vision Light 1 - Nest_OFF
+2024 04 10 12 17 20|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 10 12 17 21|UserClick|ToggleOutput_Vision Light 2 - Pallet_OFF
+2024 04 10 12 26 22|UserClick|ToggleOutput_Back Stop Go DOWN_ON
+2024 04 10 12 26 23|UserClick|ToggleOutput_Back Stop Go DOWN_OFF
+2024 04 10 12 26 24|UserClick|ToggleOutput_Front Stop 2 Go DOWN_ON
+2024 04 10 12 26 24|UserClick|ToggleOutput_Back Stop Go DOWN_ON
+2024 04 10 12 26 51|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 12 27 49|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 12 27 50|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 12 27 52|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 12 27 52|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 12 28 06|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 12 28 07|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 12 28 08|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 12 28 28|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 12 28 36|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 12 28 40|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 12 29 16|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 12 35 15|UserClick|ToggleOutput_Back Stop Go DOWN_OFF
+2024 04 10 12 35 26|UserClick|ToggleOutput_Back Stop Go DOWN_ON
+2024 04 10 12 35 28|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 12 35 55|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 26 49|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 26 49|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 27 32|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 27 32|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 27 34|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 27 34|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 27 35|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 27 36|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 28 05|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 28 06|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 28 24|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 28 25|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 29 46|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 29 47|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 29 50|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 29 51|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 31 09|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 31 10|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 31 28|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 31 29|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 31 30|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 31 32|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 31 38|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 31 39|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 35 21|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 35 22|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 35 32|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 35 36|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 35 39|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 35 40|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 35 53|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 35 54|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 36 15|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 36 17|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 36 20|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 36 21|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 36 29|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 04 10 14 36 30|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 04 10 14 37 39|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 37 45|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 37 47|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 38 01|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 38 02|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 38 07|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 38 08|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 38 12|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 38 33|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 38 37|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 14 38 39|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 14 38 40|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 14 54 57|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 14 54 58|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 15 04 52|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 15 04 52|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 04 10 15 08 54|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 04 10 15 08 58|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 04 10 15 17 46|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 04 10 15 17 47|UserClick|ToggleOutput_Back Conveyor Go ON_OFF

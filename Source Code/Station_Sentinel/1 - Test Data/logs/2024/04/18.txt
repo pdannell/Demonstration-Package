@@ -1,0 +1,640 @@
+2024 04 18 10 24 13|Connecting to ADUs...
+2024 04 18 10 24 13|Devices found: 3
+2024 04 18 10 24 13|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 18 10 24 13|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 18 10 24 13|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 18 10 24 14|Keyence Scanner Connected!
+2024 04 18 10 24 14|Keyence Scanner Connected!
+2024 04 18 10 24 36|IO ready; touch START...
+2024 04 18 10 24 41|UserClick|ToggleOutput_Me Ready to Receive Front_ON
+2024 04 18 10 26 07|UserClick|ToggleOutput_Me Ready to Receive Front_OFF
+2024 04 18 11 04 29|UserClick|ToggleOutput_Me Ready to Receive Front_ON
+2024 04 18 15 38 44|UserClick|StartBtn
+2024 04 18 15 38 44|starting...
+2024 04 18 15 38 45|TIMER|Initialize Outputs|0.13
+2024 04 18 15 38 57|UserClick|RetryBtn
+2024 04 18 15 38 57|TIMER|Remove Nested Hestsink|9.80
+2024 04 18 15 39 25|TIMER|Wait for operator to Send the Pallet|27.42
+2024 04 18 15 39 29|TIMER|Indexing Front Pallet into Position|3.94
+2024 04 18 15 39 29|SCANDATA|DK70887833343259
+2024 04 18 15 39 29|Non-Ported Heatsink Label=DK70887833343259
+2024 04 18 15 39 29|TIMER|Scan Non-Ported Heatsink|0.30
+2024 04 18 15 39 30|FISComm String: BREQ|id=DK70887833343259|process=STLA_GPIM_01|station=GPIM_L1S01
+2024 04 18 15 39 30|TIMER|FISBREQ - Heatsink_NonPorted|1.02
+2024 04 18 15 39 31|VISIONJOB|Loading New Job on Camera: 2 Job: 
+2024 04 18 15 39 42|UserClick|StopBtn
+2024 04 18 15 39 43|UserClick|StopBtn_MsgBox_YES
+2024 04 18 15 40 38|Connecting to ADUs...
+2024 04 18 15 40 38|Devices found: 3
+2024 04 18 15 40 38|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 18 15 40 38|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 18 15 40 38|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 18 15 40 38|Keyence Scanner Connected!
+2024 04 18 15 40 38|Keyence Scanner Connected!
+2024 04 18 15 41 01|IO ready; touch START...
+2024 04 18 15 41 07|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 18 15 41 18|UserClick|StartBtn
+2024 04 18 15 41 18|starting...
+2024 04 18 15 41 18|TIMER|Initialize Outputs|0.09
+2024 04 18 15 41 24|TIMER|Indexing Front Pallet into Position|2.35
+2024 04 18 15 41 24|SCANDATA|DK70887833343259
+2024 04 18 15 41 24|Non-Ported Heatsink Label=DK70887833343259
+2024 04 18 15 41 24|TIMER|Scan Non-Ported Heatsink|0.38
+2024 04 18 15 41 25|FISComm String: BREQ|id=DK70887833343259|process=STLA_GPIM_01|station=GPIM_L1S01
+2024 04 18 15 41 25|TIMER|FISBREQ - Heatsink_NonPorted|1.02
+2024 04 18 15 41 26|VISIONJOB|Loading New Job on Camera: 2 Job: 
+2024 04 18 15 41 47|Failed to set camera online
+2024 04 18 15 41 48|Failed to set camera online
+2024 04 18 15 41 48|Failed to set camera online
+2024 04 18 15 41 48|Failed to set camera online
+2024 04 18 15 41 49|Failed to set camera online
+2024 04 18 15 41 49|Failed to set camera online
+2024 04 18 15 41 50|Failed to set camera online
+2024 04 18 15 42 51|Connecting to ADUs...
+2024 04 18 15 42 51|Devices found: 3
+2024 04 18 15 42 51|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 18 15 42 51|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 18 15 42 51|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 18 15 42 51|Keyence Scanner Connected!
+2024 04 18 15 42 51|Keyence Scanner Connected!
+2024 04 18 15 42 54|IO ready; touch START...
+2024 04 18 15 43 18|UserClick|StartBtn
+2024 04 18 15 43 18|starting...
+2024 04 18 15 43 19|TIMER|Initialize Outputs|0.09
+2024 04 18 15 43 22|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 18 15 43 43|Failed to set camera online
+2024 04 18 15 43 43|Failed to set camera online
+2024 04 18 15 43 44|Failed to set camera online
+2024 04 18 15 43 44|Failed to set camera online
+2024 04 18 15 43 44|Failed to set camera online
+2024 04 18 15 43 45|Failed to set camera online
+2024 04 18 15 43 45|Failed to set camera online
+2024 04 18 15 43 46|Failed to set camera online
+2024 04 18 15 43 46|Failed to set camera online
+2024 04 18 15 43 46|Failed to set camera online
+2024 04 18 15 43 47|Failed to set camera online
+2024 04 18 15 43 47|Failed to set camera online
+2024 04 18 15 43 48|Failed to set camera online
+2024 04 18 15 43 48|Failed to set camera online
+2024 04 18 15 43 49|Failed to set camera online
+2024 04 18 15 43 49|Failed to set camera online
+2024 04 18 15 43 49|Failed to set camera online
+2024 04 18 15 43 50|Failed to set camera online
+2024 04 18 15 43 50|Failed to set camera online
+2024 04 18 15 43 51|Failed to set camera online
+2024 04 18 15 43 51|Failed to set camera online
+2024 04 18 15 43 51|Failed to set camera online
+2024 04 18 15 43 52|Failed to set camera online
+2024 04 18 15 43 52|Failed to set camera online
+2024 04 18 15 43 53|Failed to set camera online
+2024 04 18 15 43 53|Failed to set camera online
+2024 04 18 15 43 53|Failed to set camera online
+2024 04 18 15 43 54|Failed to set camera online
+2024 04 18 15 43 54|Failed to set camera online
+2024 04 18 15 43 55|Failed to set camera online
+2024 04 18 15 43 55|Failed to set camera online
+2024 04 18 15 43 55|Failed to set camera online
+2024 04 18 15 43 56|Failed to set camera online
+2024 04 18 15 43 56|Failed to set camera online
+2024 04 18 15 43 57|Failed to set camera online
+2024 04 18 15 43 57|Failed to set camera online
+2024 04 18 15 43 57|Failed to set camera online
+2024 04 18 15 43 58|Failed to set camera online
+2024 04 18 15 43 59|Failed to set camera online
+2024 04 18 15 43 59|Failed to set camera online
+2024 04 18 15 43 59|Failed to set camera online
+2024 04 18 15 44 00|Failed to set camera online
+2024 04 18 15 44 00|Failed to set camera online
+2024 04 18 15 44 01|Failed to set camera online
+2024 04 18 15 44 01|Failed to set camera online
+2024 04 18 15 44 01|Failed to set camera online
+2024 04 18 15 44 02|Failed to set camera online
+2024 04 18 15 44 02|Failed to set camera online
+2024 04 18 15 44 03|Failed to set camera online
+2024 04 18 15 44 03|Failed to set camera online
+2024 04 18 15 44 04|Failed to set camera online
+2024 04 18 15 44 04|Failed to set camera online
+2024 04 18 15 44 04|Failed to set camera online
+2024 04 18 15 44 05|Failed to set camera online
+2024 04 18 15 44 05|Failed to set camera online
+2024 04 18 15 44 06|Failed to set camera online
+2024 04 18 15 44 06|Failed to set camera online
+2024 04 18 15 44 06|Failed to set camera online
+2024 04 18 15 44 07|Failed to set camera online
+2024 04 18 15 44 07|Failed to set camera online
+2024 04 18 15 44 08|Failed to set camera online
+2024 04 18 15 44 08|Failed to set camera online
+2024 04 18 15 44 08|Failed to set camera online
+2024 04 18 15 44 09|Failed to set camera online
+2024 04 18 15 44 09|Failed to set camera online
+2024 04 18 15 44 10|Failed to set camera online
+2024 04 18 15 44 10|Failed to set camera online
+2024 04 18 15 44 10|Failed to set camera online
+2024 04 18 15 44 11|Failed to set camera online
+2024 04 18 15 44 11|Failed to set camera online
+2024 04 18 15 44 12|Failed to set camera online
+2024 04 18 15 44 12|Failed to set camera online
+2024 04 18 15 44 13|Failed to set camera online
+2024 04 18 15 44 13|Failed to set camera online
+2024 04 18 15 44 13|Failed to set camera online
+2024 04 18 15 44 14|Failed to set camera online
+2024 04 18 15 44 14|Failed to set camera online
+2024 04 18 15 44 15|Failed to set camera online
+2024 04 18 15 44 15|Failed to set camera online
+2024 04 18 15 44 15|Failed to set camera online
+2024 04 18 15 44 16|Failed to set camera online
+2024 04 18 15 44 16|Failed to set camera online
+2024 04 18 15 44 17|Failed to set camera online
+2024 04 18 15 44 17|Failed to set camera online
+2024 04 18 15 44 17|Failed to set camera online
+2024 04 18 15 44 18|Failed to set camera online
+2024 04 18 15 44 18|Failed to set camera online
+2024 04 18 15 44 19|Failed to set camera online
+2024 04 18 15 44 19|Failed to set camera online
+2024 04 18 15 44 19|Failed to set camera online
+2024 04 18 15 44 20|Failed to set camera online
+2024 04 18 15 44 20|Failed to set camera online
+2024 04 18 15 44 21|Failed to set camera online
+2024 04 18 15 44 21|Failed to set camera online
+2024 04 18 15 44 22|Failed to set camera online
+2024 04 18 15 44 22|Failed to set camera online
+2024 04 18 15 44 22|Failed to set camera online
+2024 04 18 15 44 23|Failed to set camera online
+2024 04 18 15 44 23|Failed to set camera online
+2024 04 18 15 44 24|Failed to set camera online
+2024 04 18 15 44 24|Failed to set camera online
+2024 04 18 15 44 24|Failed to set camera online
+2024 04 18 15 44 25|Failed to set camera online
+2024 04 18 15 44 25|Failed to set camera online
+2024 04 18 15 44 26|Failed to set camera online
+2024 04 18 15 44 26|Failed to set camera online
+2024 04 18 15 44 26|Failed to set camera online
+2024 04 18 15 44 27|Failed to set camera online
+2024 04 18 15 44 27|Failed to set camera online
+2024 04 18 15 44 28|Failed to set camera online
+2024 04 18 15 44 29|Failed to set camera online
+2024 04 18 15 44 29|Failed to set camera online
+2024 04 18 15 44 29|Failed to set camera online
+2024 04 18 15 44 30|Failed to set camera online
+2024 04 18 15 44 30|Failed to set camera online
+2024 04 18 15 44 31|Failed to set camera online
+2024 04 18 15 44 31|Failed to set camera online
+2024 04 18 15 44 31|Failed to set camera online
+2024 04 18 15 44 32|Failed to set camera online
+2024 04 18 15 44 32|Failed to set camera online
+2024 04 18 15 44 33|Failed to set camera online
+2024 04 18 15 44 33|Failed to set camera online
+2024 04 18 15 44 34|Failed to set camera online
+2024 04 18 15 44 34|Failed to set camera online
+2024 04 18 15 44 34|Failed to set camera online
+2024 04 18 15 44 35|Failed to set camera online
+2024 04 18 15 44 35|Failed to set camera online
+2024 04 18 15 44 36|Failed to set camera online
+2024 04 18 15 44 36|Failed to set camera online
+2024 04 18 15 44 36|Failed to set camera online
+2024 04 18 15 44 37|Failed to set camera online
+2024 04 18 15 44 37|Failed to set camera online
+2024 04 18 15 44 38|Failed to set camera online
+2024 04 18 15 44 38|Failed to set camera online
+2024 04 18 15 44 38|Failed to set camera online
+2024 04 18 15 44 39|Failed to set camera online
+2024 04 18 15 44 39|Failed to set camera online
+2024 04 18 15 44 40|Failed to set camera online
+2024 04 18 15 44 40|Failed to set camera online
+2024 04 18 15 44 40|Failed to set camera online
+2024 04 18 15 44 41|Failed to set camera online
+2024 04 18 15 44 41|Failed to set camera online
+2024 04 18 15 44 42|Failed to set camera online
+2024 04 18 15 44 42|Failed to set camera online
+2024 04 18 15 44 42|Failed to set camera online
+2024 04 18 15 44 43|Failed to set camera online
+2024 04 18 15 44 43|Failed to set camera online
+2024 04 18 15 44 44|Failed to set camera online
+2024 04 18 15 44 44|Failed to set camera online
+2024 04 18 15 44 45|Failed to set camera online
+2024 04 18 15 44 45|Failed to set camera online
+2024 04 18 15 44 45|Failed to set camera online
+2024 04 18 15 44 46|Failed to set camera online
+2024 04 18 15 44 46|Failed to set camera online
+2024 04 18 15 44 47|Failed to set camera online
+2024 04 18 15 44 47|Failed to set camera online
+2024 04 18 15 44 47|Failed to set camera online
+2024 04 18 15 44 48|Failed to set camera online
+2024 04 18 15 44 48|Failed to set camera online
+2024 04 18 15 44 49|Failed to set camera online
+2024 04 18 15 44 49|Failed to set camera online
+2024 04 18 15 44 49|Failed to set camera online
+2024 04 18 15 44 50|Failed to set camera online
+2024 04 18 15 44 50|Failed to set camera online
+2024 04 18 15 44 51|Failed to set camera online
+2024 04 18 15 44 51|Failed to set camera online
+2024 04 18 15 44 51|Failed to set camera online
+2024 04 18 15 44 52|Failed to set camera online
+2024 04 18 15 44 52|Failed to set camera online
+2024 04 18 15 44 53|Failed to set camera online
+2024 04 18 15 44 53|Failed to set camera online
+2024 04 18 15 44 53|Failed to set camera online
+2024 04 18 15 44 54|Failed to set camera online
+2024 04 18 15 44 54|Failed to set camera online
+2024 04 18 15 44 55|Failed to set camera online
+2024 04 18 15 44 55|Failed to set camera online
+2024 04 18 15 44 56|Failed to set camera online
+2024 04 18 15 44 56|Failed to set camera online
+2024 04 18 15 44 56|Failed to set camera online
+2024 04 18 15 44 57|Failed to set camera online
+2024 04 18 15 44 57|Failed to set camera online
+2024 04 18 15 44 58|Failed to set camera online
+2024 04 18 15 44 58|Failed to set camera online
+2024 04 18 15 44 58|Failed to set camera online
+2024 04 18 15 44 59|Failed to set camera online
+2024 04 18 15 44 59|Failed to set camera online
+2024 04 18 15 45 00|Failed to set camera online
+2024 04 18 15 45 00|Failed to set camera online
+2024 04 18 15 45 00|Failed to set camera online
+2024 04 18 15 45 01|Failed to set camera online
+2024 04 18 15 45 01|Failed to set camera online
+2024 04 18 15 45 02|Failed to set camera online
+2024 04 18 15 45 02|Failed to set camera online
+2024 04 18 15 45 02|Failed to set camera online
+2024 04 18 15 45 03|Failed to set camera online
+2024 04 18 15 45 03|Failed to set camera online
+2024 04 18 15 45 04|Failed to set camera online
+2024 04 18 15 45 04|Failed to set camera online
+2024 04 18 15 45 04|Failed to set camera online
+2024 04 18 15 45 05|Failed to set camera online
+2024 04 18 15 45 05|Failed to set camera online
+2024 04 18 15 45 06|Failed to set camera online
+2024 04 18 15 45 06|Failed to set camera online
+2024 04 18 15 45 07|Failed to set camera online
+2024 04 18 15 45 07|Failed to set camera online
+2024 04 18 15 45 07|Failed to set camera online
+2024 04 18 15 45 08|Failed to set camera online
+2024 04 18 15 45 08|Failed to set camera online
+2024 04 18 15 45 09|Failed to set camera online
+2024 04 18 15 45 09|Failed to set camera online
+2024 04 18 15 45 09|Failed to set camera online
+2024 04 18 15 45 10|Failed to set camera online
+2024 04 18 15 45 10|Failed to set camera online
+2024 04 18 15 45 11|Failed to set camera online
+2024 04 18 15 45 11|Failed to set camera online
+2024 04 18 15 45 11|Failed to set camera online
+2024 04 18 15 45 12|Failed to set camera online
+2024 04 18 15 45 12|Failed to set camera online
+2024 04 18 15 45 13|Failed to set camera online
+2024 04 18 15 45 13|Failed to set camera online
+2024 04 18 15 45 13|Failed to set camera online
+2024 04 18 15 45 14|Failed to set camera online
+2024 04 18 15 45 14|Failed to set camera online
+2024 04 18 15 45 15|Failed to set camera online
+2024 04 18 15 45 15|Failed to set camera online
+2024 04 18 15 45 16|Failed to set camera online
+2024 04 18 15 45 16|Failed to set camera online
+2024 04 18 15 45 16|Failed to set camera online
+2024 04 18 15 45 17|Failed to set camera online
+2024 04 18 15 45 17|Failed to set camera online
+2024 04 18 15 45 18|Failed to set camera online
+2024 04 18 15 45 18|Failed to set camera online
+2024 04 18 15 45 18|Failed to set camera online
+2024 04 18 15 45 19|Failed to set camera online
+2024 04 18 15 45 19|Failed to set camera online
+2024 04 18 15 45 20|Failed to set camera online
+2024 04 18 15 45 20|Failed to set camera online
+2024 04 18 15 45 20|Failed to set camera online
+2024 04 18 15 45 21|Failed to set camera online
+2024 04 18 15 45 21|Failed to set camera online
+2024 04 18 15 45 22|Failed to set camera online
+2024 04 18 15 45 22|Failed to set camera online
+2024 04 18 15 45 22|Failed to set camera online
+2024 04 18 15 45 23|Failed to set camera online
+2024 04 18 15 45 23|Failed to set camera online
+2024 04 18 15 45 24|Failed to set camera online
+2024 04 18 15 45 24|Failed to set camera online
+2024 04 18 15 45 24|Failed to set camera online
+2024 04 18 15 45 25|Failed to set camera online
+2024 04 18 15 45 25|Failed to set camera online
+2024 04 18 15 45 26|Failed to set camera online
+2024 04 18 15 45 26|Failed to set camera online
+2024 04 18 15 45 27|Failed to set camera online
+2024 04 18 15 45 27|Failed to set camera online
+2024 04 18 15 45 27|Failed to set camera online
+2024 04 18 15 45 28|Failed to set camera online
+2024 04 18 15 45 28|Failed to set camera online
+2024 04 18 15 45 29|Failed to set camera online
+2024 04 18 15 45 29|Failed to set camera online
+2024 04 18 15 45 29|Failed to set camera online
+2024 04 18 15 45 30|Failed to set camera online
+2024 04 18 15 45 30|Failed to set camera online
+2024 04 18 15 45 31|Failed to set camera online
+2024 04 18 15 45 31|Failed to set camera online
+2024 04 18 15 45 31|Failed to set camera online
+2024 04 18 15 45 32|Failed to set camera online
+2024 04 18 15 45 32|Failed to set camera online
+2024 04 18 15 45 33|Failed to set camera online
+2024 04 18 15 45 33|Failed to set camera online
+2024 04 18 15 45 34|Failed to set camera online
+2024 04 18 15 45 34|Failed to set camera online
+2024 04 18 15 45 34|Failed to set camera online
+2024 04 18 15 45 35|Failed to set camera online
+2024 04 18 15 45 35|Failed to set camera online
+2024 04 18 15 45 36|Failed to set camera online
+2024 04 18 15 45 36|Failed to set camera online
+2024 04 18 15 45 36|Failed to set camera online
+2024 04 18 15 45 37|Failed to set camera online
+2024 04 18 15 45 37|Failed to set camera online
+2024 04 18 15 45 38|Failed to set camera online
+2024 04 18 15 45 38|Failed to set camera online
+2024 04 18 15 45 38|Failed to set camera online
+2024 04 18 15 45 39|Failed to set camera online
+2024 04 18 15 45 39|Failed to set camera online
+2024 04 18 15 45 40|Failed to set camera online
+2024 04 18 15 45 40|Failed to set camera online
+2024 04 18 15 45 40|Failed to set camera online
+2024 04 18 15 45 41|Failed to set camera online
+2024 04 18 15 45 41|Failed to set camera online
+2024 04 18 15 45 42|Failed to set camera online
+2024 04 18 15 45 42|Failed to set camera online
+2024 04 18 15 45 42|Failed to set camera online
+2024 04 18 15 45 43|Failed to set camera online
+2024 04 18 15 45 43|Failed to set camera online
+2024 04 18 15 45 44|Failed to set camera online
+2024 04 18 15 45 44|Failed to set camera online
+2024 04 18 15 45 45|Failed to set camera online
+2024 04 18 15 45 45|Failed to set camera online
+2024 04 18 15 45 45|Failed to set camera online
+2024 04 18 15 45 46|Failed to set camera online
+2024 04 18 15 45 46|Failed to set camera online
+2024 04 18 15 45 47|Failed to set camera online
+2024 04 18 15 45 47|Failed to set camera online
+2024 04 18 15 45 47|Failed to set camera online
+2024 04 18 15 45 48|Failed to set camera online
+2024 04 18 15 45 48|Failed to set camera online
+2024 04 18 15 45 49|Failed to set camera online
+2024 04 18 15 45 49|Failed to set camera online
+2024 04 18 15 45 49|Failed to set camera online
+2024 04 18 15 45 50|Failed to set camera online
+2024 04 18 15 45 50|Failed to set camera online
+2024 04 18 15 45 51|Failed to set camera online
+2024 04 18 15 45 51|Failed to set camera online
+2024 04 18 15 45 51|Failed to set camera online
+2024 04 18 15 45 52|Failed to set camera online
+2024 04 18 15 45 52|Failed to set camera online
+2024 04 18 15 45 53|Failed to set camera online
+2024 04 18 15 45 53|Failed to set camera online
+2024 04 18 15 45 54|Failed to set camera online
+2024 04 18 15 45 54|Failed to set camera online
+2024 04 18 15 45 54|Failed to set camera online
+2024 04 18 15 45 55|Failed to set camera online
+2024 04 18 15 45 55|Failed to set camera online
+2024 04 18 15 45 56|Failed to set camera online
+2024 04 18 15 45 56|Failed to set camera online
+2024 04 18 15 45 56|Failed to set camera online
+2024 04 18 15 45 57|Failed to set camera online
+2024 04 18 15 45 57|Failed to set camera online
+2024 04 18 15 45 58|Failed to set camera online
+2024 04 18 15 45 58|Failed to set camera online
+2024 04 18 15 45 58|Failed to set camera online
+2024 04 18 15 45 59|Failed to set camera online
+2024 04 18 15 45 59|Failed to set camera online
+2024 04 18 15 46 00|Failed to set camera online
+2024 04 18 15 46 00|Failed to set camera online
+2024 04 18 15 46 00|Failed to set camera online
+2024 04 18 15 46 01|Failed to set camera online
+2024 04 18 15 46 01|Failed to set camera online
+2024 04 18 15 46 02|Failed to set camera online
+2024 04 18 15 46 02|Failed to set camera online
+2024 04 18 15 46 03|Failed to set camera online
+2024 04 18 15 46 03|Failed to set camera online
+2024 04 18 15 46 03|Failed to set camera online
+2024 04 18 15 46 04|Failed to set camera online
+2024 04 18 15 46 04|Failed to set camera online
+2024 04 18 15 46 05|Failed to set camera online
+2024 04 18 15 46 05|Failed to set camera online
+2024 04 18 15 46 06|Failed to set camera online
+2024 04 18 15 46 06|Failed to set camera online
+2024 04 18 15 46 07|Failed to set camera online
+2024 04 18 15 46 07|Failed to set camera online
+2024 04 18 15 46 07|Failed to set camera online
+2024 04 18 15 46 08|Failed to set camera online
+2024 04 18 15 46 08|Failed to set camera online
+2024 04 18 15 46 09|Failed to set camera online
+2024 04 18 15 46 09|Failed to set camera online
+2024 04 18 15 46 09|Failed to set camera online
+2024 04 18 15 46 10|Failed to set camera online
+2024 04 18 15 46 10|Failed to set camera online
+2024 04 18 15 46 11|Failed to set camera online
+2024 04 18 15 46 11|Failed to set camera online
+2024 04 18 15 46 11|Failed to set camera online
+2024 04 18 15 46 12|Failed to set camera online
+2024 04 18 15 46 12|Failed to set camera online
+2024 04 18 15 46 13|Failed to set camera online
+2024 04 18 15 46 13|Failed to set camera online
+2024 04 18 15 46 13|Failed to set camera online
+2024 04 18 15 46 14|Failed to set camera online
+2024 04 18 15 46 14|Failed to set camera online
+2024 04 18 15 46 15|Failed to set camera online
+2024 04 18 15 46 15|Failed to set camera online
+2024 04 18 15 46 16|Failed to set camera online
+2024 04 18 15 46 16|Failed to set camera online
+2024 04 18 15 46 16|Failed to set camera online
+2024 04 18 15 46 17|Failed to set camera online
+2024 04 18 15 46 17|Failed to set camera online
+2024 04 18 15 46 18|Failed to set camera online
+2024 04 18 15 46 18|Failed to set camera online
+2024 04 18 15 46 18|Failed to set camera online
+2024 04 18 15 46 19|Failed to set camera online
+2024 04 18 15 46 19|Failed to set camera online
+2024 04 18 15 46 20|Failed to set camera online
+2024 04 18 15 46 20|Failed to set camera online
+2024 04 18 15 46 20|Failed to set camera online
+2024 04 18 15 46 21|Failed to set camera online
+2024 04 18 15 46 21|Failed to set camera online
+2024 04 18 15 46 22|Failed to set camera online
+2024 04 18 15 46 22|UserClick|StopBtn
+2024 04 18 15 46 23|UserClick|StopBtn_MsgBox_YES
+2024 04 18 15 46 23|Failed to set camera online
+2024 04 18 15 46 23|FAULT|Unable to load Job on Camera: 1 Job: 
+2024 04 18 15 46 24|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 04 18 15 46 24|TIMER|Change Vision Inspection Number, Cam1, Insp1|182.67
+2024 04 18 15 46 24|VISIONJOB|Loading New Job on Camera: 2 Job: 
+2024 04 18 15 46 24|TIMER|Change Vision Inspection Number, Cam2, Insp1|0.02
+2024 04 18 15 46 24|Application stopped.
+2024 04 18 15 46 26|UserClick|Quit
+2024 04 18 15 46 55|Connecting to ADUs...
+2024 04 18 15 46 55|Devices found: 3
+2024 04 18 15 46 55|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 18 15 46 55|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 18 15 46 55|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 18 15 46 55|Keyence Scanner Connected!
+2024 04 18 15 46 56|Keyence Scanner Connected!
+2024 04 18 15 46 58|IO ready; touch START...
+2024 04 18 15 47 23|UserClick|StartBtn
+2024 04 18 15 47 23|starting...
+2024 04 18 15 47 23|TIMER|Initialize Outputs|0.09
+2024 04 18 15 47 26|VISIONJOB|Loading New Job on Camera: 2 Job: 
+2024 04 18 15 47 48|Failed to set camera online
+2024 04 18 15 47 48|Failed to set camera online
+2024 04 18 15 47 48|Failed to set camera online
+2024 04 18 15 47 49|Failed to set camera online
+2024 04 18 15 47 49|Failed to set camera online
+2024 04 18 15 47 50|Failed to set camera online
+2024 04 18 15 47 50|Failed to set camera online
+2024 04 18 15 47 51|Failed to set camera online
+2024 04 18 15 47 51|Failed to set camera online
+2024 04 18 15 47 51|Failed to set camera online
+2024 04 18 15 47 52|Failed to set camera online
+2024 04 18 15 47 52|Failed to set camera online
+2024 04 18 15 47 53|Failed to set camera online
+2024 04 18 15 47 53|Failed to set camera online
+2024 04 18 15 47 53|Failed to set camera online
+2024 04 18 15 47 54|Failed to set camera online
+2024 04 18 15 47 54|Failed to set camera online
+2024 04 18 15 47 55|Failed to set camera online
+2024 04 18 15 47 55|Failed to set camera online
+2024 04 18 15 47 55|Failed to set camera online
+2024 04 18 15 47 56|Failed to set camera online
+2024 04 18 15 47 56|Failed to set camera online
+2024 04 18 15 47 57|FAULT|Unable to load Job on Camera: 2 Job: 
+2024 04 18 15 48 00|UserClick|RetryBtn
+2024 04 18 15 48 00|VISIONJOB|Loading New Job on Camera: 2 Job: 
+2024 04 18 15 48 09|UserClick|StopBtn
+2024 04 18 15 48 10|UserClick|StopBtn_MsgBox_YES
+2024 04 18 15 48 10|TIMER|Change Vision Inspection Number, Cam2, Insp1|43.69
+2024 04 18 15 48 10|Application stopped.
+2024 04 18 15 48 57|UserClick|StartBtn
+2024 04 18 15 48 57|starting...
+2024 04 18 15 48 57|Running Test Cameras
+2024 04 18 15 48 58|VISIONJOB|Loading New Job on Camera: 2 Job: 
+2024 04 18 15 49 20|TIMER|COMPLETED_JOB_CHANGE|21.24
+2024 04 18 15 49 26|VISIONDATA|TEST1|CAM2_STLA_1|FAIL|
+2024 04 18 15 49 30|UserClick|RetryBtn
+2024 04 18 15 49 31|VISIONDATA|TEST1|CAM2_STLA_1|FAIL|
+2024 04 18 15 49 32|UserClick|RetryBtn
+2024 04 18 15 49 33|VISIONDATA|TEST1|CAM2_STLA_1|FAIL|
+2024 04 18 15 49 52|UserClick|ToggleOutput_Vision Light 2 - Pallet_ON
+2024 04 18 15 49 54|UserClick|RetryBtn
+2024 04 18 15 49 55|TIMER|INSPECT_TEST1|56.63
+2024 04 18 15 49 55|VISIONDATA|TEST1|CAM2_STLA_1|PASS|
+2024 04 18 15 49 56|TIMER|INSPECT_TEST2|0.57
+2024 04 18 15 49 56|VISIONDATA|TEST2|CAM2_STLA_1|PASS|
+2024 04 18 15 49 57|TIMER|INSPECT_TEST3|0.55
+2024 04 18 15 49 57|VISIONDATA|TEST3|CAM2_STLA_1|PASS|
+2024 04 18 15 49 59|TIMER|INSPECT_TEST1|0.53
+2024 04 18 15 49 59|VISIONDATA|TEST1|CAM2_STLA_1|PASS|
+2024 04 18 15 49 59|TIMER|INSPECT_TEST2|0.54
+2024 04 18 15 50 00|VISIONDATA|TEST2|CAM2_STLA_1|PASS|
+2024 04 18 15 50 00|TIMER|INSPECT_TEST3|0.54
+2024 04 18 15 50 00|VISIONDATA|TEST3|CAM2_STLA_1|PASS|
+2024 04 18 15 50 02|TIMER|INSPECT_TEST1|0.55
+2024 04 18 15 50 02|VISIONDATA|TEST1|CAM2_STLA_1|PASS|
+2024 04 18 15 50 03|TIMER|INSPECT_TEST2|0.53
+2024 04 18 15 50 03|VISIONDATA|TEST2|CAM2_STLA_1|PASS|
+2024 04 18 15 50 03|TIMER|INSPECT_TEST3|0.54
+2024 04 18 15 50 04|VISIONDATA|TEST3|CAM2_STLA_1|PASS|
+2024 04 18 15 50 05|TIMER|INSPECT_TEST1|0.54
+2024 04 18 15 50 05|UserClick|StopBtn
+2024 04 18 15 50 05|VISIONDATA|TEST1|CAM2_STLA_1|PASS|
+2024 04 18 15 50 06|UserClick|StopBtn_MsgBox_YES
+2024 04 18 15 50 06|Vision Inspect with Camera 2 failed.
+2024 04 18 15 50 06|Application stopped.
+2024 04 18 15 50 14|UserClick|StartBtn
+2024 04 18 15 50 14|starting...
+2024 04 18 15 50 14|TIMER|Initialize Outputs|0.10
+2024 04 18 15 50 17|TIMER|Change Vision Inspection Number, Cam2, Insp1|0.01
+2024 04 18 15 50 18|TIMER|Indexing Front Pallet into Position|1.31
+2024 04 18 15 50 19|SCANDATA|DK70887833343259
+2024 04 18 15 50 19|Non-Ported Heatsink Label=DK70887833343259
+2024 04 18 15 50 19|TIMER|Scan Non-Ported Heatsink|0.41
+2024 04 18 15 50 20|FISComm String: BREQ|id=DK70887833343259|process=STLA_GPIM_01|station=GPIM_L1S01
+2024 04 18 15 50 20|TIMER|FISBREQ - Heatsink_NonPorted|1.01
+2024 04 18 15 50 20|TIMER|INSPECT_STLA_400VPIM250_TIMPADS_NonPortedHS|0.54
+2024 04 18 15 50 20|TIMER|Change Vision Inspection Number, Cam2, Insp2|0.00
+2024 04 18 15 50 21|VISIONDATA|STLA_400VPIM250_TIMPADS_NonPortedHS|CAM2_STLA_1|FAIL|
+2024 04 18 15 50 21|TIMER|INSPECT_STLA_400VPIM250_RETAINERS_SEALS|0.54
+2024 04 18 15 50 21|TIMER|Change Vision Inspection Number, Cam2, Insp3|0.01
+2024 04 18 15 50 22|VISIONDATA|STLA_400VPIM250_RETAINERS_SEALS|CAM2_STLA_1|PASS|
+2024 04 18 15 50 22|TIMER|INSPECT_STLA_400VPIM250_CLIPS|0.54
+2024 04 18 15 50 22|TIMER|Change Vision Inspection Number, Cam2, Insp3|0.00
+2024 04 18 15 51 50|Connecting to ADUs...
+2024 04 18 15 51 50|Devices found: 3
+2024 04 18 15 51 50|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 18 15 51 50|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 18 15 51 50|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 18 15 51 50|Keyence Scanner Connected!
+2024 04 18 15 51 50|Keyence Scanner Connected!
+2024 04 18 15 52 13|IO ready; touch START...
+2024 04 18 15 52 52|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 04 18 15 52 53|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 04 18 15 53 22|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 04 18 15 53 23|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 04 18 15 53 34|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 18 16 02 22|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 04 18 16 02 56|UserClick|StartBtn
+2024 04 18 16 02 56|starting...
+2024 04 18 16 02 56|Running Test Cameras
+2024 04 18 16 02 58|TIMER|INSPECT_TEST1|0.57
+2024 04 18 16 02 58|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 18 16 02 58|TIMER|INSPECT_TEST2|0.53
+2024 04 18 16 02 59|VISIONDATA|TEST2|CAM1_STLA_1|PASS|
+2024 04 18 16 02 59|TIMER|INSPECT_TEST3|0.54
+2024 04 18 16 02 59|VISIONDATA|TEST3|CAM1_STLA_1|PASS|
+2024 04 18 16 03 01|TIMER|INSPECT_TEST1|0.58
+2024 04 18 16 03 01|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 18 16 03 02|TIMER|INSPECT_TEST2|0.55
+2024 04 18 16 03 02|VISIONDATA|TEST2|CAM1_STLA_1|PASS|
+2024 04 18 16 03 02|TIMER|INSPECT_TEST3|0.56
+2024 04 18 16 03 03|VISIONDATA|TEST3|CAM1_STLA_1|PASS|
+2024 04 18 16 03 04|TIMER|INSPECT_TEST1|0.55
+2024 04 18 16 03 05|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 18 16 03 05|TIMER|INSPECT_TEST2|0.54
+2024 04 18 16 03 06|VISIONDATA|TEST2|CAM1_STLA_1|PASS|
+2024 04 18 16 03 06|TIMER|INSPECT_TEST3|0.55
+2024 04 18 16 03 06|VISIONDATA|TEST3|CAM1_STLA_1|PASS|
+2024 04 18 16 03 08|TIMER|INSPECT_TEST1|0.55
+2024 04 18 16 03 09|VISIONDATA|TEST1|CAM1_STLA_1|FAIL|
+2024 04 18 16 03 09|TIMER|INSPECT_TEST2|0.55
+2024 04 18 16 03 09|VISIONDATA|TEST2|CAM1_STLA_1|PASS|
+2024 04 18 16 03 10|TIMER|INSPECT_TEST3|0.57
+2024 04 18 16 03 10|VISIONDATA|TEST3|CAM1_STLA_1|PASS|
+2024 04 18 16 03 11|UserClick|StopBtn
+2024 04 18 16 03 12|UserClick|StopBtn_MsgBox_YES
+2024 04 18 16 03 12|Vision Inspect with Camera 1 failed.
+2024 04 18 16 03 12|Application stopped.
+2024 04 18 16 03 54|Connecting to ADUs...
+2024 04 18 16 03 54|Devices found: 3
+2024 04 18 16 03 54|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 18 16 03 54|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 18 16 03 54|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 18 16 03 54|Keyence Scanner Connected!
+2024 04 18 16 03 54|Keyence Scanner Connected!
+2024 04 18 16 04 17|IO ready; touch START...
+2024 04 18 16 04 27|UserClick|StartBtn
+2024 04 18 16 04 27|starting...
+2024 04 18 16 04 27|TIMER|Initialize Outputs|0.10
+2024 04 18 16 04 30|VISIONJOB|Loading New Job on Camera: 2 Job: 
+2024 04 18 16 04 51|TIMER|COMPLETED_JOB_CHANGE|21.25
+2024 04 18 16 04 51|TIMER|Change Vision Inspection Number, Cam2, Insp1|21.27
+2024 04 18 16 40 31|UserClick|RetryBtn
+2024 04 18 16 40 32|TIMER|Remove Nested Hestsink|2140.49
+2024 04 18 16 40 34|TIMER|Indexing Front Pallet into Position|2.34
+2024 04 18 16 40 34|SCANDATA|DK70887833343259
+2024 04 18 16 40 34|Non-Ported Heatsink Label=DK70887833343259
+2024 04 18 16 40 34|TIMER|Scan Non-Ported Heatsink|0.39
+2024 04 18 16 40 35|FISComm String: BREQ|id=DK70887833343259|process=STLA_GPIM_01|station=GPIM_L1S01
+2024 04 18 16 40 35|TIMER|FISBREQ - Heatsink_NonPorted|1.02
+2024 04 18 16 40 37|Camera 2 is Offline
+2024 04 18 16 40 37|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 04 18 16 40 38|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 04 18 16 40 41|UserClick|RetryBtn
+2024 04 18 16 40 43|Camera 2 is Offline
+2024 04 18 16 40 57|UserClick|RetryBtn
+2024 04 18 16 40 59|VISIONDATA|STLA_400VPIM250_TIMPADS_NonPortedHS|CAM2_STLA_1|PASS|
+2024 04 18 16 41 00|UserClick|RetryBtn
+2024 04 18 16 41 01|TIMER|INSPECT_STLA_400VPIM250_TIMPADS_NonPortedHS|24.90
+2024 04 18 16 41 01|TIMER|Change Vision Inspection Number, Cam2, Insp2|0.00
+2024 04 18 16 41 01|VISIONDATA|STLA_400VPIM250_TIMPADS_NonPortedHS|CAM2_STLA_1|PASS|
+2024 04 18 16 41 01|TIMER|INSPECT_STLA_400VPIM250_RETAINERS_SEALS|0.54
+2024 04 18 16 41 01|TIMER|Change Vision Inspection Number, Cam2, Insp3|0.00
+2024 04 18 16 41 02|VISIONDATA|STLA_400VPIM250_RETAINERS_SEALS|CAM2_STLA_1|PASS|
+2024 04 18 16 41 02|TIMER|INSPECT_STLA_400VPIM250_CLIPS|0.55
+2024 04 18 16 41 02|TIMER|Change Vision Inspection Number, Cam2, Insp3|0.00
+2024 04 18 16 41 02|TIMER|Change Vision Inspection Number, Cam1, Insp1|0.00

@@ -1,0 +1,61 @@
+2024 04 04 09 47 33|Connecting to ADUs...
+2024 04 04 09 47 33|Devices found: 3
+2024 04 04 09 47 33|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 04 09 47 33|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 04 09 47 33|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 04 09 47 33|Keyence Scanner Connected!
+2024 04 04 09 47 33|Keyence Scanner Connected!
+2024 04 04 09 48 24|User: Admin
+2024 04 04 09 52 23|Connecting to ADUs...
+2024 04 04 09 52 23|Devices found: 3
+2024 04 04 09 52 23|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 04 09 52 23|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 04 09 52 23|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 04 09 52 23|Keyence Scanner Connected!
+2024 04 04 09 52 23|Keyence Scanner Connected!
+2024 04 04 09 59 01|Connecting to ADUs...
+2024 04 04 09 59 01|Devices found: 3
+2024 04 04 09 59 01|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 04 09 59 01|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 04 09 59 01|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 04 09 59 01|Keyence Scanner Connected!
+2024 04 04 09 59 01|Keyence Scanner Connected!
+2024 04 04 09 59 26|IO ready; touch START...
+2024 04 04 09 59 36|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 04 04 09 59 37|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 04 04 09 59 45|Connecting to ADUs...
+2024 04 04 09 59 46|Devices found: 3
+2024 04 04 09 59 46|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 04 04 09 59 46|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 04 04 09 59 46|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 04 04 09 59 46|Keyence Scanner Connected!
+2024 04 04 09 59 46|Keyence Scanner Connected!
+2024 04 04 09 59 48|IO ready; touch START...
+2024 04 04 10 00 23|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 04 10 00 29|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 04 10 00 32|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 04 10 00 36|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 04 10 00 39|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 04 10 00 39|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 04 10 01 26|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 04 10 01 27|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 04 10 06 25|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 04 10 06 26|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 04 10 06 29|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 04 10 06 30|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 04 10 19 14|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 04 10 19 15|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 04 10 19 25|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 04 10 19 26|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 04 10 19 29|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 04 10 20 45|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 04 10 20 51|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 04 10 20 54|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 04 10 21 04|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 04 10 21 05|UserClick|ToggleOutput_Me Ready to Receive Back_ON
+2024 04 04 10 21 05|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 04 10 21 11|UserClick|ToggleOutput_Me Ready to Send Front_ON
+2024 04 04 10 21 12|UserClick|ToggleOutput_Me Ready to Receive Back_OFF
+2024 04 04 10 21 18|UserClick|ToggleOutput_Me Ready to Send Front_OFF
+2024 04 04 10 25 55|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 04 04 10 26 03|UserClick|ToggleOutput_Vacuum Go ON_OFF

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "station_sentinal.client", "station_sentinal.client\station_sentinal.client.esproj", "{32965900-F683-3C63-9949-AF5D4C2B4B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Station_Sentinal.Server", "Station_Sentinal.Server\Station_Sentinal.Server.csproj", "{84D6E4F9-D849-4326-8550-C8260E456A3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32965900-F683-3C63-9949-AF5D4C2B4B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32965900-F683-3C63-9949-AF5D4C2B4B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32965900-F683-3C63-9949-AF5D4C2B4B4E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{32965900-F683-3C63-9949-AF5D4C2B4B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32965900-F683-3C63-9949-AF5D4C2B4B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32965900-F683-3C63-9949-AF5D4C2B4B4E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{84D6E4F9-D849-4326-8550-C8260E456A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D6E4F9-D849-4326-8550-C8260E456A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D6E4F9-D849-4326-8550-C8260E456A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D6E4F9-D849-4326-8550-C8260E456A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF8C222-D4BB-4D1A-B6CB-7FC69E4FE081}
+	EndGlobalSection
+EndGlobal

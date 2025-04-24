@@ -1,0 +1,42 @@
+2024 09 10 08 07 58|UserClick|Quit
+2024 09 10 08 08 29|Connecting to ADUs...
+2024 09 10 08 08 29|Devices found: 3
+2024 09 10 08 08 29|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 09 10 08 08 29|USB: Base E22188 REY_PM_L3S02 Base
+2024 09 10 08 08 29|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 09 10 08 08 29|Keyence Scanner Connected!
+2024 09 10 08 08 29|Keyence Scanner Connected!
+2024 09 10 08 08 30|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 09 10 08 08 31|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 09 10 08 08 33|IO ready; touch START...
+2024 09 10 10 09 50|Connecting to ADUs...
+2024 09 10 10 09 50|Devices found: 3
+2024 09 10 10 09 50|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 09 10 10 09 50|USB: Base E22188 REY_PM_L3S02 Base
+2024 09 10 10 09 50|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 09 10 10 09 50|Keyence Scanner Connected!
+2024 09 10 10 09 50|Keyence Scanner Connected!
+2024 09 10 10 09 51|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 09 10 10 09 52|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 09 10 10 09 54|IO ready; touch START...
+2024 09 10 10 19 36|Connecting to ADUs...
+2024 09 10 10 19 36|Devices found: 3
+2024 09 10 10 19 37|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 09 10 10 19 37|USB: Base E22188 REY_PM_L3S02 Base
+2024 09 10 10 19 37|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 09 10 10 19 37|Keyence Scanner Connected!
+2024 09 10 10 19 37|Keyence Scanner Connected!
+2024 09 10 10 19 38|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 09 10 10 19 39|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 09 10 10 19 41|IO ready; touch START...
+2024 09 10 11 51 37|Connecting to ADUs...
+2024 09 10 11 51 38|Devices found: 3
+2024 09 10 11 51 38|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 09 10 11 51 38|USB: Base E22188 REY_PM_L3S02 Base
+2024 09 10 11 51 38|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 09 10 11 51 38|Keyence Scanner Connected!
+2024 09 10 11 51 38|Keyence Scanner Connected!
+2024 09 10 11 51 39|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 09 10 11 51 40|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 09 10 11 51 42|IO ready; touch START...
+2024 09 10 22 44 56|Doors are now OPEN

@@ -1,0 +1,15 @@
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\obj\Debug\net9.0\Generate Updated Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\obj\Debug\net9.0\Generate Updated Data.AssemblyInfoInputs.cache
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\obj\Debug\net9.0\Generate Updated Data.AssemblyInfo.cs
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\obj\Debug\net9.0\Generate Updated Data.csproj.CoreCompileInputs.cache
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\obj\Debug\net9.0\Generate Updated Data.sourcelink.json
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\bin\Debug\net9.0\Generate Updated Data.exe
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\bin\Debug\net9.0\Generate Updated Data.deps.json
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\bin\Debug\net9.0\Generate Updated Data.runtimeconfig.json
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\bin\Debug\net9.0\Generate Updated Data.dll
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\bin\Debug\net9.0\Generate Updated Data.pdb
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\obj\Debug\net9.0\Generate Updated Data.dll
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\obj\Debug\net9.0\refint\Generate Updated Data.dll
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\obj\Debug\net9.0\Generate Updated Data.pdb
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\obj\Debug\net9.0\Generate Updated Data.genruntimeconfig.cache
+C:\Users\pdannelly\source\repos\Station_Sentinel\1 - Test Data\Generate Updated Data\Generate Updated Data\obj\Debug\net9.0\ref\Generate Updated Data.dll

@@ -1,0 +1,5 @@
+2024 08 23 09 23 57|UserClick|StopBtn
+2024 08 23 09 23 58|UserClick|StopBtn_MsgBox_YES
+2024 08 23 09 23 58|Application stopped.
+2024 08 23 12 59 44|Doors are now OPEN
+2024 08 23 15 39 03|Doors are now OPEN

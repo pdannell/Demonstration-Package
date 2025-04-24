@@ -1,0 +1,13 @@
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\obj\Debug\EIP_TestApp.Resources.resources
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\obj\Debug\EIP_TestApp.vbproj.GenerateResource.cache
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\obj\Debug\EIP_TestApp.vbproj.CoreCompileInputs.cache
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\bin\Debug\EIP_TestApp.exe.config
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\bin\Debug\EIP_TestApp.exe
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\bin\Debug\EIP_TestApp.pdb
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\bin\Debug\EIP_TestApp.xml
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\bin\Debug\EEIP.dll
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\obj\Debug\EIP_TestApp.vbproj.CopyComplete
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\obj\Debug\EIP_TestApp.exe
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\obj\Debug\EIP_TestApp.xml
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\obj\Debug\EIP_TestApp.pdb
+C:\Users\cimplecell\source\repos\EIP_TestApp\EIP_TestApp\obj\Debug\EIP_TestApp.vbprojAssemblyReference.cache

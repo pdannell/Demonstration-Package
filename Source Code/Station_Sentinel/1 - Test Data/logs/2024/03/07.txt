@@ -1,0 +1,176 @@
+2024 03 07 08 43 21|Connecting to ADUs...
+2024 03 07 08 43 21|Devices found: 3
+2024 03 07 08 43 21|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 08 43 21|USB: Base2 E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 08 43 21|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 08 44 00|Connecting to ADUs...
+2024 03 07 08 44 00|Devices found: 3
+2024 03 07 08 44 00|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 08 44 00|USB: Base2 E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 08 44 00|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 08 44 50|Connecting to ADUs...
+2024 03 07 08 44 50|Devices found: 3
+2024 03 07 08 44 50|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 08 44 50|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 08 44 50|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 08 44 50|IO ready; touch START...
+2024 03 07 08 46 51|Connecting to ADUs...
+2024 03 07 08 46 51|Devices found: 3
+2024 03 07 08 46 51|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 08 46 51|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 08 46 51|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 08 46 51|IO ready; touch START...
+2024 03 07 08 47 53|Connecting to ADUs...
+2024 03 07 08 47 54|Devices found: 3
+2024 03 07 08 47 54|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 08 47 54|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 08 47 54|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 08 47 54|IO ready; touch START...
+2024 03 07 08 57 54|UserClick|ToggleOutput_Front Pallet Clamp ON_ON
+2024 03 07 09 54 35|Connecting to ADUs...
+2024 03 07 09 54 35|Devices found: 3
+2024 03 07 09 54 35|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 09 54 35|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 09 54 35|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 09 54 35|IO ready; touch START...
+2024 03 07 09 55 31|UserClick|ToggleOutput_Front Pallet Clamp ON_OFF
+2024 03 07 09 55 38|UserClick|ToggleOutput_Front Stop 1 Go DOWN_ON
+2024 03 07 09 55 38|UserClick|ToggleOutput_Front Stop 1 Go DOWN_OFF
+2024 03 07 09 55 39|UserClick|ToggleOutput_Front Stop 1 Go DOWN_ON
+2024 03 07 09 55 40|UserClick|ToggleOutput_Front Stop 1 Go DOWN_OFF
+2024 03 07 09 55 43|UserClick|ToggleOutput_Front Stop 2 Go DOWN2_ON
+2024 03 07 09 55 44|UserClick|ToggleOutput_Front Stop 2 Go DOWN2_OFF
+2024 03 07 09 55 47|UserClick|ToggleOutput_Front Stop 3 Go DOWN_ON
+2024 03 07 09 55 48|UserClick|ToggleOutput_Front Stop 3 Go DOWN_OFF
+2024 03 07 09 55 52|UserClick|ToggleOutput_Back Stop Go DOWN_ON
+2024 03 07 09 55 52|UserClick|ToggleOutput_Back Stop Go DOWN_OFF
+2024 03 07 09 55 55|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 07 09 55 56|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 07 09 55 57|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 07 09 55 58|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 07 09 56 46|UserClick|Quit
+2024 03 07 09 57 24|Connecting to ADUs...
+2024 03 07 09 57 24|Devices found: 3
+2024 03 07 09 57 24|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 09 57 24|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 09 57 24|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 09 57 24|IO ready; touch START...
+2024 03 07 09 57 39|UserClick|Quit
+2024 03 07 09 57 49|Connecting to ADUs...
+2024 03 07 09 57 49|Devices found: 3
+2024 03 07 09 57 49|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 09 57 49|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 09 57 49|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 09 57 49|IO ready; touch START...
+2024 03 07 09 58 11|Connecting to ADUs...
+2024 03 07 09 58 11|Devices found: 3
+2024 03 07 09 58 12|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 09 58 12|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 09 58 12|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 09 58 20|IO ready; touch START...
+2024 03 07 09 58 25|UserClick|Quit
+2024 03 07 09 58 38|Connecting to ADUs...
+2024 03 07 09 58 38|Devices found: 3
+2024 03 07 09 58 39|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 09 58 39|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 09 58 39|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 09 58 41|IO ready; touch START...
+2024 03 07 09 58 50|UserClick|Quit
+2024 03 07 09 59 30|Connecting to ADUs...
+2024 03 07 09 59 30|Devices found: 3
+2024 03 07 09 59 30|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 09 59 30|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 09 59 30|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 09 59 30|IO ready; touch START...
+2024 03 07 09 59 33|UserClick|ToggleOutput_Tower Light - Red_ON
+2024 03 07 09 59 34|UserClick|ToggleOutput_Tower Light - Red_OFF
+2024 03 07 09 59 42|UserClick|ToggleOutput_Tower Light - Red_ON
+2024 03 07 09 59 43|UserClick|ToggleOutput_Tower Light - Red_OFF
+2024 03 07 09 59 49|UserClick|ToggleOutput_Tower Light - Red_ON
+2024 03 07 09 59 50|UserClick|ToggleOutput_Tower Light - Red_OFF
+2024 03 07 09 59 51|UserClick|ToggleOutput_Tower Light - Green_ON
+2024 03 07 09 59 52|UserClick|ToggleOutput_Tower Light - Green_OFF
+2024 03 07 09 59 53|UserClick|ToggleOutput_Tower Light - White_ON
+2024 03 07 09 59 53|UserClick|ToggleOutput_Tower Light - White_OFF
+2024 03 07 09 59 54|UserClick|ToggleOutput_Tower Light - White_ON
+2024 03 07 09 59 54|UserClick|ToggleOutput_Tower Light - Green_ON
+2024 03 07 09 59 55|UserClick|ToggleOutput_Tower Light - Green_OFF
+2024 03 07 09 59 56|UserClick|ToggleOutput_Tower Light - White_OFF
+2024 03 07 09 59 57|UserClick|ToggleOutput_Tower Light - Red_ON
+2024 03 07 09 59 57|UserClick|ToggleOutput_Tower Light - Green_ON
+2024 03 07 09 59 58|UserClick|ToggleOutput_Tower Light - Green_OFF
+2024 03 07 09 59 59|UserClick|ToggleOutput_Tower Light - White_ON
+2024 03 07 10 00 00|UserClick|ToggleOutput_Tower Light - White_OFF
+2024 03 07 10 00 01|UserClick|ToggleOutput_Tower Light - Red_OFF
+2024 03 07 10 00 02|UserClick|ToggleOutput_Tower Light - Red_ON
+2024 03 07 10 00 03|UserClick|ToggleOutput_Tower Light - Green_ON
+2024 03 07 10 00 03|UserClick|ToggleOutput_Tower Light - Green_OFF
+2024 03 07 10 00 05|UserClick|ToggleOutput_Tower Light - Red_OFF
+2024 03 07 10 00 06|UserClick|ToggleOutput_Tower Light - Green_ON
+2024 03 07 10 00 06|UserClick|ToggleOutput_Tower Light - Red_ON
+2024 03 07 10 00 07|UserClick|ToggleOutput_Tower Light - Red_OFF
+2024 03 07 10 00 08|UserClick|ToggleOutput_Tower Light - White_ON
+2024 03 07 10 00 09|UserClick|ToggleOutput_Tower Light - White_OFF
+2024 03 07 10 00 10|UserClick|ToggleOutput_Tower Light - Green_OFF
+2024 03 07 10 00 10|UserClick|ToggleOutput_Tower Light - Red_ON
+2024 03 07 10 00 11|UserClick|ToggleOutput_Tower Light - White_ON
+2024 03 07 10 00 12|UserClick|ToggleOutput_Tower Light - White_OFF
+2024 03 07 10 00 12|UserClick|ToggleOutput_Tower Light - Red_OFF
+2024 03 07 10 27 43|UserClick|ToggleOutput_Front Stop 2 Go DOWN_ON
+2024 03 07 10 28 09|UserClick|ToggleOutput_Front Pallet Clamp ON_ON
+2024 03 07 10 28 43|UserClick|ToggleOutput_Front Pallet Clamp ON_OFF
+2024 03 07 10 28 46|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 03 07 10 28 51|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 03 07 10 28 54|UserClick|ToggleOutput_Front Conveyor Go BACK_ON
+2024 03 07 10 28 55|UserClick|ToggleOutput_Front Conveyor Go BACK_OFF
+2024 03 07 10 28 57|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 03 07 10 30 48|UserClick|ToggleOutput_Front Stop 3 Go DOWN_ON
+2024 03 07 10 30 53|UserClick|ToggleOutput_Front Stop 3 Go DOWN_OFF
+2024 03 07 10 30 53|UserClick|ToggleOutput_Front Stop 1 Go DOWN_ON
+2024 03 07 10 42 22|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 03 07 13 20 20|UserClick|ToggleOutput_Front Stop 1 Go DOWN_OFF
+2024 03 07 13 20 41|UserClick|ToggleOutput_Front Stop 1 Go DOWN_ON
+2024 03 07 13 24 41|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 07 13 25 42|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 07 13 25 48|UserClick|ToggleOutput_Front Pallet Clamp ON_ON
+2024 03 07 13 27 01|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 07 13 29 37|UserClick|Quit
+2024 03 07 13 30 30|Connecting to ADUs...
+2024 03 07 13 30 30|Devices found: 3
+2024 03 07 13 30 30|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 13 30 30|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 13 30 30|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 13 30 30|IO ready; touch START...
+2024 03 07 13 31 00|UserClick|ToggleOutput_Trigger Vision 1_ON
+2024 03 07 13 31 01|UserClick|ToggleOutput_Trigger Vision 1_OFF
+2024 03 07 13 32 08|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 07 13 38 02|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 07 13 39 49|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 07 14 24 10|UserClick|Quit
+2024 03 07 14 46 29|Connecting to ADUs...
+2024 03 07 14 46 30|Devices found: 3
+2024 03 07 14 46 30|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 07 14 46 30|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 07 14 46 30|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 07 14 46 35|Timeout connecting to Keyence Scanner 192.168.0.21
+2024 03 07 14 46 40|Timeout connecting to Keyence Scanner 192.168.0.22
+2024 03 07 14 46 41|IO ready; touch START...
+2024 03 07 14 47 18|UserClick|ToggleOutput_Front Pallet Clamp ON_OFF
+2024 03 07 14 47 25|UserClick|ToggleOutput_Back Stop Go DOWN_ON
+2024 03 07 14 49 45|UserClick|ToggleOutput_VisionBox Ready to Receive_ON
+2024 03 07 14 49 46|UserClick|ToggleOutput_VisionBox Ready to Receive_OFF
+2024 03 07 14 49 47|UserClick|ToggleOutput_VisionBox Ready to Receive_ON
+2024 03 07 14 49 48|UserClick|ToggleOutput_VisionBox Ready to Receive_OFF
+2024 03 07 14 49 50|UserClick|ToggleOutput_VisionBox Ready to Receive_ON
+2024 03 07 14 49 51|UserClick|ToggleOutput_VisionBox Ready to Receive_OFF
+2024 03 07 14 49 53|UserClick|ToggleOutput_Output - 2K4_ON
+2024 03 07 14 49 54|UserClick|ToggleOutput_Output - 2K4_OFF
+2024 03 07 14 49 54|UserClick|ToggleOutput_Output - 2K5_ON
+2024 03 07 14 49 55|UserClick|ToggleOutput_Output - 2K5_OFF
+2024 03 07 14 56 36|UserClick|ToggleOutput_Tower Light - Red_ON
+2024 03 07 14 56 44|UserClick|ToggleOutput_Tower Light - Red_OFF
+2024 03 07 14 56 45|UserClick|ToggleOutput_Tower Light - Green_ON
+2024 03 07 14 56 54|UserClick|ToggleOutput_Tower Light - Green_OFF
+2024 03 07 14 56 55|UserClick|ToggleOutput_Tower Light - White_ON
+2024 03 07 14 57 05|UserClick|ToggleOutput_Tower Light - White_OFF
+2024 03 07 16 22 18|UserClick|Quit

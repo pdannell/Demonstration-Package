@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Generate Updated Data/1.0.0": {
+        "runtime": {
+          "Generate Updated Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generate Updated Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

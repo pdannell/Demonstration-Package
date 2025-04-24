@@ -1,0 +1,688 @@
+2024 03 14 07 16 46|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 14 07 16 47|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 14 07 27 14|UserClick|Quit
+2024 03 14 08 03 41|Connecting to ADUs...
+2024 03 14 08 03 41|Devices found: 3
+2024 03 14 08 03 41|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 08 03 41|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 08 03 41|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 08 03 41|Keyence Scanner Connected!
+2024 03 14 08 03 41|Keyence Scanner Connected!
+2024 03 14 08 03 42|IO ready; touch START...
+2024 03 14 08 07 47|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 14 08 07 49|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 14 08 07 56|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 14 08 49 58|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 14 08 52 02|UserClick|ToggleOutput_Vision Light(s) ON_ON
+2024 03 14 08 58 18|UserClick|ToggleOutput_Vision Light(s) ON_OFF
+2024 03 14 09 59 22|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 14 09 59 23|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 14 10 04 46|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 10 05 35|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 10 05 56|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 10 07 57|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 10 08 56|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 10 14 26|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 10 15 13|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 10 15 24|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 10 16 44|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 10 20 49|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 11 03 40|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 11 03 56|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 11 04 14|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 11 04 25|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 11 04 33|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 11 04 52|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 11 05 30|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 11 07 45|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 11 07 55|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 11 09 46|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 11 12 30|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 11 18 23|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 12 42 11|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 12 48 08|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 12 48 33|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 12 52 41|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 12 53 16|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 12 54 11|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 12 59 44|Connecting to ADUs...
+2024 03 14 12 59 45|Devices found: 3
+2024 03 14 12 59 45|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 12 59 45|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 12 59 45|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 12 59 45|Keyence Scanner Connected!
+2024 03 14 12 59 45|Keyence Scanner Connected!
+2024 03 14 12 59 46|IO ready; touch START...
+2024 03 14 12 59 50|UserClick|StartBtn
+2024 03 14 12 59 50|starting...
+2024 03 14 13 00 05|Connecting to ADUs...
+2024 03 14 13 00 06|Devices found: 3
+2024 03 14 13 00 06|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 00 06|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 00 06|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 00 06|Keyence Scanner Connected!
+2024 03 14 13 00 06|Keyence Scanner Connected!
+2024 03 14 13 00 07|IO ready; touch START...
+2024 03 14 13 00 09|UserClick|StartBtn
+2024 03 14 13 00 09|starting...
+2024 03 14 13 00 14|UserClick|RetryBtn
+2024 03 14 13 00 27|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 13 00 30|UserClick|RetryBtn
+2024 03 14 13 02 48|Connecting to ADUs...
+2024 03 14 13 02 48|Devices found: 3
+2024 03 14 13 02 48|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 02 48|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 02 48|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 02 48|Keyence Scanner Connected!
+2024 03 14 13 02 48|Keyence Scanner Connected!
+2024 03 14 13 02 49|IO ready; touch START...
+2024 03 14 13 03 31|Connecting to ADUs...
+2024 03 14 13 03 31|Devices found: 3
+2024 03 14 13 03 31|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 03 31|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 03 31|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 03 31|Keyence Scanner Connected!
+2024 03 14 13 03 31|Keyence Scanner Connected!
+2024 03 14 13 03 32|IO ready; touch START...
+2024 03 14 13 03 36|UserClick|StartBtn
+2024 03 14 13 03 36|starting...
+2024 03 14 13 03 47|Connecting to ADUs...
+2024 03 14 13 03 47|Devices found: 3
+2024 03 14 13 03 47|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 03 47|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 03 47|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 03 47|Keyence Scanner Connected!
+2024 03 14 13 03 47|Keyence Scanner Connected!
+2024 03 14 13 03 48|IO ready; touch START...
+2024 03 14 13 03 50|UserClick|StartBtn
+2024 03 14 13 03 50|starting...
+2024 03 14 13 04 05|UserClick|RetryBtn
+2024 03 14 13 04 08|UserClick|RetryBtn
+2024 03 14 13 04 45|Connecting to ADUs...
+2024 03 14 13 04 45|Devices found: 3
+2024 03 14 13 04 45|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 04 45|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 04 45|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 04 45|Keyence Scanner Connected!
+2024 03 14 13 04 45|Keyence Scanner Connected!
+2024 03 14 13 04 46|IO ready; touch START...
+2024 03 14 13 04 49|UserClick|StartBtn
+2024 03 14 13 04 49|starting...
+2024 03 14 13 05 23|Connecting to ADUs...
+2024 03 14 13 05 23|Devices found: 3
+2024 03 14 13 05 23|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 05 23|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 05 23|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 05 23|Keyence Scanner Connected!
+2024 03 14 13 05 23|Keyence Scanner Connected!
+2024 03 14 13 05 24|IO ready; touch START...
+2024 03 14 13 05 28|UserClick|StartBtn
+2024 03 14 13 05 28|starting...
+2024 03 14 13 06 19|Connecting to ADUs...
+2024 03 14 13 06 19|Devices found: 3
+2024 03 14 13 06 19|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 06 19|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 06 19|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 06 20|Keyence Scanner Connected!
+2024 03 14 13 06 20|Keyence Scanner Connected!
+2024 03 14 13 06 21|IO ready; touch START...
+2024 03 14 13 06 33|Connecting to ADUs...
+2024 03 14 13 06 33|Devices found: 3
+2024 03 14 13 06 33|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 06 33|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 06 33|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 06 33|Keyence Scanner Connected!
+2024 03 14 13 06 33|Keyence Scanner Connected!
+2024 03 14 13 06 34|IO ready; touch START...
+2024 03 14 13 06 37|UserClick|StartBtn
+2024 03 14 13 06 37|starting...
+2024 03 14 13 07 01|Connecting to ADUs...
+2024 03 14 13 07 01|Devices found: 3
+2024 03 14 13 07 01|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 07 01|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 07 01|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 07 01|Keyence Scanner Connected!
+2024 03 14 13 07 01|Keyence Scanner Connected!
+2024 03 14 13 07 02|IO ready; touch START...
+2024 03 14 13 07 04|UserClick|StartBtn
+2024 03 14 13 07 04|starting...
+2024 03 14 13 09 51|Connecting to ADUs...
+2024 03 14 13 09 51|Devices found: 3
+2024 03 14 13 09 51|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 09 51|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 09 51|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 09 51|Keyence Scanner Connected!
+2024 03 14 13 09 51|Keyence Scanner Connected!
+2024 03 14 13 09 52|IO ready; touch START...
+2024 03 14 13 09 56|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 14 13 09 56|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 14 13 10 10|UserClick|StartBtn
+2024 03 14 13 10 10|starting...
+2024 03 14 13 11 56|Connecting to ADUs...
+2024 03 14 13 11 56|Devices found: 3
+2024 03 14 13 11 56|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 11 56|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 11 56|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 11 56|Keyence Scanner Connected!
+2024 03 14 13 11 56|Keyence Scanner Connected!
+2024 03 14 13 11 57|IO ready; touch START...
+2024 03 14 13 12 04|UserClick|StartBtn
+2024 03 14 13 12 04|starting...
+2024 03 14 13 12 13|UserClick|RetryBtn
+2024 03 14 13 12 17|UserClick|RetryBtn
+2024 03 14 13 14 48|Connecting to ADUs...
+2024 03 14 13 14 48|Devices found: 3
+2024 03 14 13 14 48|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 14 48|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 14 48|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 14 49|Keyence Scanner Connected!
+2024 03 14 13 14 49|Keyence Scanner Connected!
+2024 03 14 13 14 50|IO ready; touch START...
+2024 03 14 13 14 55|UserClick|StartBtn
+2024 03 14 13 14 55|starting...
+2024 03 14 13 15 10|UserClick|RetryBtn
+2024 03 14 13 15 13|UserClick|RetryBtn
+2024 03 14 13 15 46|UserClick|RetryBtn
+2024 03 14 13 15 48|UserClick|RetryBtn
+2024 03 14 13 15 52|UserClick|RetryBtn
+2024 03 14 13 16 47|Application stopped.
+2024 03 14 13 19 10|Connecting to ADUs...
+2024 03 14 13 19 10|Devices found: 3
+2024 03 14 13 19 10|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 19 10|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 19 10|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 19 10|Keyence Scanner Connected!
+2024 03 14 13 19 10|Keyence Scanner Connected!
+2024 03 14 13 19 11|IO ready; touch START...
+2024 03 14 13 19 18|UserClick|StartBtn
+2024 03 14 13 19 18|starting...
+2024 03 14 13 20 58|Application stopped.
+2024 03 14 13 22 03|Connecting to ADUs...
+2024 03 14 13 22 03|Devices found: 3
+2024 03 14 13 22 03|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 22 03|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 22 03|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 22 03|Keyence Scanner Connected!
+2024 03 14 13 22 03|Keyence Scanner Connected!
+2024 03 14 13 22 04|IO ready; touch START...
+2024 03 14 13 22 39|UserClick|StartBtn
+2024 03 14 13 22 39|starting...
+2024 03 14 13 22 59|Application stopped.
+2024 03 14 13 24 01|Connecting to ADUs...
+2024 03 14 13 24 01|Devices found: 3
+2024 03 14 13 24 01|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 24 01|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 24 01|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 24 02|Keyence Scanner Connected!
+2024 03 14 13 24 02|Keyence Scanner Connected!
+2024 03 14 13 24 03|IO ready; touch START...
+2024 03 14 13 24 04|UserClick|StartBtn
+2024 03 14 13 24 04|starting...
+2024 03 14 13 24 27|Application stopped.
+2024 03 14 13 25 20|UserClick|StartBtn
+2024 03 14 13 25 20|starting...
+2024 03 14 13 25 48|Application stopped.
+2024 03 14 13 26 21|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 13 33 26|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 13 34 51|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 13 40 49|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 13 42 24|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 13 44 42|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 13 44 53|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 13 48 52|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 13 49 36|UserClick|StartBtn
+2024 03 14 13 49 36|starting...
+2024 03 14 13 50 00|Application stopped.
+2024 03 14 13 52 52|UserClick|StartBtn
+2024 03 14 13 52 52|starting...
+2024 03 14 13 53 06|Connecting to ADUs...
+2024 03 14 13 53 06|Devices found: 3
+2024 03 14 13 53 06|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 13 53 06|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 13 53 06|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 13 53 06|Keyence Scanner Connected!
+2024 03 14 13 53 06|Keyence Scanner Connected!
+2024 03 14 13 53 07|IO ready; touch START...
+2024 03 14 13 53 11|UserClick|StartBtn
+2024 03 14 13 53 11|starting...
+2024 03 14 13 53 35|Application stopped.
+2024 03 14 14 05 55|Connecting to ADUs...
+2024 03 14 14 05 55|Devices found: 3
+2024 03 14 14 05 55|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 05 55|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 05 55|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 05 55|Keyence Scanner Connected!
+2024 03 14 14 05 55|Keyence Scanner Connected!
+2024 03 14 14 05 56|IO ready; touch START...
+2024 03 14 14 05 58|UserClick|StartBtn
+2024 03 14 14 05 58|starting...
+2024 03 14 14 06 09|Connecting to ADUs...
+2024 03 14 14 06 09|Devices found: 3
+2024 03 14 14 06 09|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 06 09|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 06 09|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 06 09|Keyence Scanner Connected!
+2024 03 14 14 06 09|Keyence Scanner Connected!
+2024 03 14 14 06 11|IO ready; touch START...
+2024 03 14 14 06 12|UserClick|StartBtn
+2024 03 14 14 06 12|starting...
+2024 03 14 14 06 36|Application stopped.
+2024 03 14 14 07 12|UserClick|StartBtn
+2024 03 14 14 07 12|starting...
+2024 03 14 14 07 36|Application stopped.
+2024 03 14 14 18 59|Connecting to ADUs...
+2024 03 14 14 18 59|Devices found: 3
+2024 03 14 14 18 59|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 18 59|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 18 59|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 18 59|Keyence Scanner Connected!
+2024 03 14 14 18 59|Keyence Scanner Connected!
+2024 03 14 14 19 01|IO ready; touch START...
+2024 03 14 14 20 43|UserClick|StartBtn
+2024 03 14 14 20 43|starting...
+2024 03 14 14 21 07|Application stopped.
+2024 03 14 14 21 22|UserClick|StartBtn
+2024 03 14 14 21 22|starting...
+2024 03 14 14 21 46|Application stopped.
+2024 03 14 14 21 50|UserClick|StartBtn
+2024 03 14 14 21 50|starting...
+2024 03 14 14 22 14|Application stopped.
+2024 03 14 14 25 47|Connecting to ADUs...
+2024 03 14 14 25 47|Devices found: 3
+2024 03 14 14 25 47|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 25 47|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 25 47|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 25 47|Keyence Scanner Connected!
+2024 03 14 14 25 47|Keyence Scanner Connected!
+2024 03 14 14 25 48|IO ready; touch START...
+2024 03 14 14 25 54|UserClick|StartBtn
+2024 03 14 14 25 54|starting...
+2024 03 14 14 27 39|Connecting to ADUs...
+2024 03 14 14 27 39|Devices found: 3
+2024 03 14 14 27 39|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 27 39|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 27 39|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 27 39|Keyence Scanner Connected!
+2024 03 14 14 27 39|Keyence Scanner Connected!
+2024 03 14 14 27 40|IO ready; touch START...
+2024 03 14 14 27 45|UserClick|StartBtn
+2024 03 14 14 27 45|starting...
+2024 03 14 14 28 10|Application stopped.
+2024 03 14 14 30 13|Connecting to ADUs...
+2024 03 14 14 30 14|Devices found: 3
+2024 03 14 14 30 14|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 30 14|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 30 14|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 30 14|Keyence Scanner Connected!
+2024 03 14 14 30 14|Keyence Scanner Connected!
+2024 03 14 14 30 15|IO ready; touch START...
+2024 03 14 14 30 18|UserClick|StartBtn
+2024 03 14 14 30 18|starting...
+2024 03 14 14 30 34|Connecting to ADUs...
+2024 03 14 14 30 34|Devices found: 3
+2024 03 14 14 30 34|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 30 34|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 30 34|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 30 34|Keyence Scanner Connected!
+2024 03 14 14 30 34|Keyence Scanner Connected!
+2024 03 14 14 30 35|IO ready; touch START...
+2024 03 14 14 30 37|UserClick|StartBtn
+2024 03 14 14 30 37|starting...
+2024 03 14 14 31 20|Connecting to ADUs...
+2024 03 14 14 31 20|Devices found: 3
+2024 03 14 14 31 20|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 31 20|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 31 20|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 31 20|Keyence Scanner Connected!
+2024 03 14 14 31 20|Keyence Scanner Connected!
+2024 03 14 14 31 21|IO ready; touch START...
+2024 03 14 14 33 56|UserClick|StartBtn
+2024 03 14 14 33 56|starting...
+2024 03 14 14 34 21|Application stopped.
+2024 03 14 14 35 00|UserClick|StartBtn
+2024 03 14 14 35 00|starting...
+2024 03 14 14 35 25|Application stopped.
+2024 03 14 14 35 43|UserClick|StartBtn
+2024 03 14 14 35 43|starting...
+2024 03 14 14 36 08|Application stopped.
+2024 03 14 14 36 45|UserClick|StartBtn
+2024 03 14 14 36 45|starting...
+2024 03 14 14 37 10|Application stopped.
+2024 03 14 14 37 52|UserClick|StartBtn
+2024 03 14 14 37 52|starting...
+2024 03 14 14 38 17|Application stopped.
+2024 03 14 14 39 01|UserClick|StartBtn
+2024 03 14 14 39 01|starting...
+2024 03 14 14 39 26|Application stopped.
+2024 03 14 14 40 04|UserClick|StartBtn
+2024 03 14 14 40 04|starting...
+2024 03 14 14 40 29|Application stopped.
+2024 03 14 14 40 42|UserClick|StartBtn
+2024 03 14 14 40 42|starting...
+2024 03 14 14 41 07|Application stopped.
+2024 03 14 14 41 36|UserClick|StartBtn
+2024 03 14 14 41 36|starting...
+2024 03 14 14 42 01|Application stopped.
+2024 03 14 14 42 25|UserClick|StartBtn
+2024 03 14 14 42 25|starting...
+2024 03 14 14 42 50|Application stopped.
+2024 03 14 14 43 51|UserClick|StartBtn
+2024 03 14 14 43 51|starting...
+2024 03 14 14 45 43|Connecting to ADUs...
+2024 03 14 14 45 43|Devices found: 3
+2024 03 14 14 45 43|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 45 43|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 45 43|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 45 43|Keyence Scanner Connected!
+2024 03 14 14 45 43|Keyence Scanner Connected!
+2024 03 14 14 45 44|IO ready; touch START...
+2024 03 14 14 45 49|UserClick|StartBtn
+2024 03 14 14 45 49|starting...
+2024 03 14 14 45 51|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 03 14 14 45 58|UserClick|StopBtn
+2024 03 14 14 45 58|UserClick|StopBtn
+2024 03 14 14 45 59|UserClick|StopBtn
+2024 03 14 14 46 00|UserClick|StopBtn
+2024 03 14 14 46 02|UserClick|StopBtn_MsgBox_YES
+2024 03 14 14 46 02|UserClick|StopBtn_MsgBox_YES
+2024 03 14 14 46 02|UserClick|StopBtn_MsgBox_YES
+2024 03 14 14 46 02|UserClick|StopBtn_MsgBox_YES
+2024 03 14 14 46 02|TIMER|Change Vision Inspection Number, Cam1, Insp1|12.04
+2024 03 14 14 46 02|Application stopped.
+2024 03 14 14 46 05|UserClick|StartBtn
+2024 03 14 14 46 05|starting...
+2024 03 14 14 46 26|Connecting to ADUs...
+2024 03 14 14 46 26|Devices found: 3
+2024 03 14 14 46 26|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 46 26|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 46 26|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 46 26|Keyence Scanner Connected!
+2024 03 14 14 46 26|Keyence Scanner Connected!
+2024 03 14 14 46 27|IO ready; touch START...
+2024 03 14 14 46 29|UserClick|StartBtn
+2024 03 14 14 46 29|starting...
+2024 03 14 14 46 41|Connecting to ADUs...
+2024 03 14 14 46 41|Devices found: 3
+2024 03 14 14 46 41|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 46 41|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 46 41|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 46 41|Keyence Scanner Connected!
+2024 03 14 14 46 41|Keyence Scanner Connected!
+2024 03 14 14 46 42|IO ready; touch START...
+2024 03 14 14 46 46|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 03 14 14 47 09|UserClick|StartBtn
+2024 03 14 14 47 09|starting...
+2024 03 14 14 47 37|Connecting to ADUs...
+2024 03 14 14 47 38|Devices found: 3
+2024 03 14 14 47 38|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 47 38|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 47 38|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 47 38|Keyence Scanner Connected!
+2024 03 14 14 47 38|Keyence Scanner Connected!
+2024 03 14 14 47 39|IO ready; touch START...
+2024 03 14 14 47 41|UserClick|StartBtn
+2024 03 14 14 47 41|starting...
+2024 03 14 14 48 10|Connecting to ADUs...
+2024 03 14 14 48 10|Devices found: 3
+2024 03 14 14 48 10|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 48 10|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 48 10|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 48 10|Keyence Scanner Connected!
+2024 03 14 14 48 10|Keyence Scanner Connected!
+2024 03 14 14 48 11|IO ready; touch START...
+2024 03 14 14 48 14|UserClick|StartBtn
+2024 03 14 14 48 14|starting...
+2024 03 14 14 49 42|Connecting to ADUs...
+2024 03 14 14 49 43|Devices found: 3
+2024 03 14 14 49 43|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 49 43|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 49 43|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 49 43|Keyence Scanner Connected!
+2024 03 14 14 49 43|Keyence Scanner Connected!
+2024 03 14 14 49 44|IO ready; touch START...
+2024 03 14 14 49 46|UserClick|StartBtn
+2024 03 14 14 49 46|starting...
+2024 03 14 14 50 03|Connecting to ADUs...
+2024 03 14 14 50 03|Devices found: 3
+2024 03 14 14 50 03|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 50 03|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 50 03|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 50 03|Keyence Scanner Connected!
+2024 03 14 14 50 03|Keyence Scanner Connected!
+2024 03 14 14 50 04|IO ready; touch START...
+2024 03 14 14 50 06|UserClick|StartBtn
+2024 03 14 14 50 06|starting...
+2024 03 14 14 50 31|Application stopped.
+2024 03 14 14 54 09|UserClick|StartBtn
+2024 03 14 14 54 09|starting...
+2024 03 14 14 54 34|Application stopped.
+2024 03 14 14 54 42|UserClick|StartBtn
+2024 03 14 14 54 42|starting...
+2024 03 14 14 55 07|Application stopped.
+2024 03 14 14 55 49|UserClick|StartBtn
+2024 03 14 14 55 49|starting...
+2024 03 14 14 56 14|Application stopped.
+2024 03 14 14 56 25|UserClick|StartBtn
+2024 03 14 14 56 25|starting...
+2024 03 14 14 56 50|Application stopped.
+2024 03 14 14 57 18|UserClick|StartBtn
+2024 03 14 14 57 18|starting...
+2024 03 14 14 57 33|Connecting to ADUs...
+2024 03 14 14 57 33|Devices found: 3
+2024 03 14 14 57 33|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 57 33|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 57 33|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 57 33|Keyence Scanner Connected!
+2024 03 14 14 57 33|Keyence Scanner Connected!
+2024 03 14 14 57 34|IO ready; touch START...
+2024 03 14 14 57 35|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 14 14 57 36|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 14 14 57 39|UserClick|StartBtn
+2024 03 14 14 57 39|starting...
+2024 03 14 14 58 20|Connecting to ADUs...
+2024 03 14 14 58 20|Devices found: 3
+2024 03 14 14 58 20|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 14 58 20|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 14 58 20|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 14 58 20|Keyence Scanner Connected!
+2024 03 14 14 58 20|Keyence Scanner Connected!
+2024 03 14 14 58 21|IO ready; touch START...
+2024 03 14 14 58 25|UserClick|StartBtn
+2024 03 14 14 58 25|starting...
+2024 03 14 14 58 50|Application stopped.
+2024 03 14 15 00 02|Connecting to ADUs...
+2024 03 14 15 00 02|Devices found: 3
+2024 03 14 15 00 02|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 00 02|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 00 02|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 00 02|Keyence Scanner Connected!
+2024 03 14 15 00 02|Keyence Scanner Connected!
+2024 03 14 15 00 03|IO ready; touch START...
+2024 03 14 15 00 09|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 14 15 00 09|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 14 15 00 13|UserClick|StartBtn
+2024 03 14 15 00 13|starting...
+2024 03 14 15 00 38|Connecting to ADUs...
+2024 03 14 15 00 38|Devices found: 3
+2024 03 14 15 00 38|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 00 38|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 00 38|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 00 38|Keyence Scanner Connected!
+2024 03 14 15 00 38|Keyence Scanner Connected!
+2024 03 14 15 00 39|IO ready; touch START...
+2024 03 14 15 00 42|UserClick|StartBtn
+2024 03 14 15 00 42|starting...
+2024 03 14 15 00 43|UserClick|StopBtn
+2024 03 14 15 00 44|UserClick|StopBtn_MsgBox_YES
+2024 03 14 15 00 44|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 03 14 15 00 44|TIMER|Change Vision Inspection Number, Cam1, Insp1|1.58
+2024 03 14 15 00 44|Application stopped.
+2024 03 14 15 00 48|UserClick|StartBtn
+2024 03 14 15 00 48|starting...
+2024 03 14 15 01 14|Application stopped.
+2024 03 14 15 01 16|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 03 14 15 01 30|Connecting to ADUs...
+2024 03 14 15 01 30|Devices found: 3
+2024 03 14 15 01 30|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 01 30|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 01 30|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 01 30|Keyence Scanner Connected!
+2024 03 14 15 01 30|Keyence Scanner Connected!
+2024 03 14 15 01 31|IO ready; touch START...
+2024 03 14 15 01 52|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 14 15 01 53|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 14 15 01 54|UserClick|StartBtn
+2024 03 14 15 01 54|starting...
+2024 03 14 15 02 33|Connecting to ADUs...
+2024 03 14 15 02 33|Devices found: 3
+2024 03 14 15 02 33|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 02 33|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 02 33|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 02 33|Keyence Scanner Connected!
+2024 03 14 15 02 33|Keyence Scanner Connected!
+2024 03 14 15 02 34|IO ready; touch START...
+2024 03 14 15 02 35|UserClick|StartBtn
+2024 03 14 15 02 35|starting...
+2024 03 14 15 03 02|Application stopped.
+2024 03 14 15 03 03|UserClick|StartBtn
+2024 03 14 15 03 03|starting...
+2024 03 14 15 03 30|Application stopped.
+2024 03 14 15 04 14|UserClick|StartBtn
+2024 03 14 15 04 14|starting...
+2024 03 14 15 04 41|Application stopped.
+2024 03 14 15 04 53|UserClick|StartBtn
+2024 03 14 15 04 53|starting...
+2024 03 14 15 05 20|Application stopped.
+2024 03 14 15 06 17|UserClick|StartBtn
+2024 03 14 15 06 17|starting...
+2024 03 14 15 06 45|Application stopped.
+2024 03 14 15 07 09|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 15 07 11|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 15 07 30|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 15 07 35|UserClick|ToggleOutput_Vacuum Go ON_OFF
+2024 03 14 15 08 41|UserClick|StartBtn
+2024 03 14 15 08 41|starting...
+2024 03 14 15 09 08|Application stopped.
+2024 03 14 15 10 24|UserClick|StartBtn
+2024 03 14 15 10 24|starting...
+2024 03 14 15 10 41|Connecting to ADUs...
+2024 03 14 15 10 41|Devices found: 3
+2024 03 14 15 10 41|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 10 41|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 10 41|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 10 41|Keyence Scanner Connected!
+2024 03 14 15 10 41|Keyence Scanner Connected!
+2024 03 14 15 10 42|IO ready; touch START...
+2024 03 14 15 10 47|UserClick|StartBtn
+2024 03 14 15 10 47|starting...
+2024 03 14 15 10 59|Connecting to ADUs...
+2024 03 14 15 11 00|Devices found: 3
+2024 03 14 15 11 00|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 11 00|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 11 00|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 11 00|Keyence Scanner Connected!
+2024 03 14 15 11 00|Keyence Scanner Connected!
+2024 03 14 15 11 01|IO ready; touch START...
+2024 03 14 15 11 03|UserClick|ToggleOutput_Vacuum Go ON_ON
+2024 03 14 15 11 19|UserClick|StartBtn
+2024 03 14 15 11 20|starting...
+2024 03 14 15 11 46|Application stopped.
+2024 03 14 15 12 24|UserClick|StartBtn
+2024 03 14 15 12 24|starting...
+2024 03 14 15 12 50|Application stopped.
+2024 03 14 15 13 34|UserClick|StartBtn
+2024 03 14 15 13 34|starting...
+2024 03 14 15 14 00|Application stopped.
+2024 03 14 15 15 33|Connecting to ADUs...
+2024 03 14 15 15 33|Devices found: 3
+2024 03 14 15 15 33|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 15 33|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 15 33|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 15 33|Keyence Scanner Connected!
+2024 03 14 15 15 33|Keyence Scanner Connected!
+2024 03 14 15 15 34|IO ready; touch START...
+2024 03 14 15 15 35|UserClick|StartBtn
+2024 03 14 15 15 35|starting...
+2024 03 14 15 16 15|Connecting to ADUs...
+2024 03 14 15 16 15|Devices found: 3
+2024 03 14 15 16 15|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 16 15|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 16 15|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 16 15|Keyence Scanner Connected!
+2024 03 14 15 16 15|Keyence Scanner Connected!
+2024 03 14 15 16 16|IO ready; touch START...
+2024 03 14 15 16 17|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 14 15 16 18|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 14 15 16 20|UserClick|StartBtn
+2024 03 14 15 16 20|starting...
+2024 03 14 15 17 10|Connecting to ADUs...
+2024 03 14 15 17 10|Devices found: 3
+2024 03 14 15 17 10|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 17 10|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 17 10|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 17 10|Keyence Scanner Connected!
+2024 03 14 15 17 10|Keyence Scanner Connected!
+2024 03 14 15 17 11|IO ready; touch START...
+2024 03 14 15 17 17|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 14 15 17 17|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 14 15 17 29|UserClick|StartBtn
+2024 03 14 15 17 29|starting...
+2024 03 14 15 18 54|Connecting to ADUs...
+2024 03 14 15 18 54|Devices found: 3
+2024 03 14 15 18 54|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 18 54|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 18 54|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 18 54|Keyence Scanner Connected!
+2024 03 14 15 18 54|Keyence Scanner Connected!
+2024 03 14 15 18 55|IO ready; touch START...
+2024 03 14 15 19 04|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 14 15 19 04|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 14 15 19 10|UserClick|StartBtn
+2024 03 14 15 19 10|starting...
+2024 03 14 15 19 53|Application stopped.
+2024 03 14 15 27 58|Connecting to ADUs...
+2024 03 14 15 27 58|Devices found: 3
+2024 03 14 15 27 58|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 27 58|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 27 58|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 27 58|Keyence Scanner Connected!
+2024 03 14 15 27 58|Keyence Scanner Connected!
+2024 03 14 15 27 59|IO ready; touch START...
+2024 03 14 15 28 01|UserClick|StartBtn
+2024 03 14 15 28 01|starting...
+2024 03 14 15 28 31|Connecting to ADUs...
+2024 03 14 15 28 32|Devices found: 3
+2024 03 14 15 28 32|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 28 32|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 28 32|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 28 32|Keyence Scanner Connected!
+2024 03 14 15 28 32|Keyence Scanner Connected!
+2024 03 14 15 28 33|IO ready; touch START...
+2024 03 14 15 28 34|UserClick|ToggleOutput_ROBOT RESET_ON
+2024 03 14 15 28 35|UserClick|ToggleOutput_ROBOT RESET_OFF
+2024 03 14 15 28 36|UserClick|StartBtn
+2024 03 14 15 28 36|starting...
+2024 03 14 15 28 38|VISIONJOB|Loading New Job on Camera: 1 Job: 
+2024 03 14 15 29 00|TIMER|COMPLETED_JOB_CHANGE|23.54
+2024 03 14 15 29 00|TIMER|Change Vision Inspection Number, Cam1, Insp1|23.54
+2024 03 14 15 29 00|TIMER|Indexing Front Pallet into Position|0.50
+2024 03 14 15 29 00|SCANDATA|DK70887833343276
+2024 03 14 15 29 00|Non-Ported Heatsink Label=DK70887833343276
+2024 03 14 15 29 00|TIMER|Scan Non-Ported Heatsink|0.39
+2024 03 14 15 29 01|FISComm String: BREQ|id=DK70887833343276|process=STLA_GPIM_01|station=GPIM_L1S01
+2024 03 14 15 29 01|TIMER|FISBREQ - Heatsink_NonPorted|1.01
+2024 03 14 15 29 09|UserClick|StopBtn
+2024 03 14 15 29 10|UserClick|StopBtn_MsgBox_YES
+2024 03 14 15 29 10|Application stopped.
+2024 03 14 15 29 14|UserClick|StartBtn
+2024 03 14 15 29 14|starting...
+2024 03 14 15 29 58|Application stopped.
+2024 03 14 15 40 40|Connecting to ADUs...
+2024 03 14 15 40 40|Devices found: 3
+2024 03 14 15 40 40|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 14 15 40 40|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 14 15 40 40|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 14 15 40 40|Keyence Scanner Connected!
+2024 03 14 15 40 40|Keyence Scanner Connected!
+2024 03 14 15 40 41|IO ready; touch START...
+2024 03 14 15 58 45|UserClick|Quit

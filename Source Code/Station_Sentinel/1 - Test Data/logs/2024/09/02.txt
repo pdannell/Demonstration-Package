@@ -1,0 +1,8 @@
+2024 09 02 08 07 22|Doors are now OPEN
+2024 09 02 08 07 38|Doors are now OPEN
+2024 09 02 08 07 46|Doors are now OPEN
+2024 09 02 08 07 51|Doors are now OPEN
+2024 09 02 08 07 56|Doors are now OPEN
+2024 09 02 08 08 23|UserClick|StopBtn
+2024 09 02 08 08 24|UserClick|StopBtn_MsgBox_YES
+2024 09 02 08 08 24|Application stopped.

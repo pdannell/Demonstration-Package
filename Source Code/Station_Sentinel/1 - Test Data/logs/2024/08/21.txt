@@ -1,0 +1,14 @@
+2024 08 21 11 31 25|Connecting to ADUs...
+2024 08 21 11 31 25|Devices found: 3
+2024 08 21 11 31 25|USB: Tool1 E22253 REY_PM_L3S02 Tool 1
+2024 08 21 11 31 25|USB: Base E22188 REY_PM_L3S02 Base
+2024 08 21 11 31 25|USB: Tool2 E22196 REY_PM_L3S02 Tool 2
+2024 08 21 11 31 25|Keyence Scanner Connected!
+2024 08 21 11 31 25|Keyence Scanner Connected!
+2024 08 21 11 31 26|Cognex Camera #1,CAMERA1, initialized to IPAddess:192.168.0.11
+2024 08 21 11 31 27|Cognex Camera #2,CAMERA2, initialized to IPAddess:192.168.0.12
+2024 08 21 11 31 47|IO ready; touch START...
+2024 08 21 11 31 51|UserClick|ToggleOutput_Vision Light 1 - Nest_ON
+2024 08 21 11 31 51|ERROR|Access Denied. Unable to toggle output.
+2024 08 21 11 31 59|User: Admin
+2024 08 21 11 32 02|UserClick|ToggleOutput_Vision Light 1 - Nest_ON

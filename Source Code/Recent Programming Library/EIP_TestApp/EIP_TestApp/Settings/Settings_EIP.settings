@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings_EIP">
+  <Profiles />
+  <Settings>
+    <Setting Name="EIP_DiscoveryTime" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="EIP_DefaultIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.111</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

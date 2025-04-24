@@ -1,0 +1,26 @@
+2024 03 08 08 13 40|Connecting to ADUs...
+2024 03 08 08 13 40|Devices found: 3
+2024 03 08 08 13 40|USB: Tool1 E22253 REY_VIPER_HEATSINK_L3S02 Tool 1
+2024 03 08 08 13 40|USB: Base E22188 REY_VIPER_HEATSINK_L3S02 Base
+2024 03 08 08 13 40|USB: Tool2 E22196 REY_VIPER_HEATSINK_L3S02 Tool 2
+2024 03 08 08 13 45|Timeout connecting to Keyence Scanner 192.168.0.21
+2024 03 08 08 13 50|Timeout connecting to Keyence Scanner 192.168.0.22
+2024 03 08 08 13 51|IO ready; touch START...
+2024 03 08 08 28 04|UserClick|ToggleOutput_Tower Light - Red_ON
+2024 03 08 08 28 04|UserClick|ToggleOutput_Tower Light - Red_OFF
+2024 03 08 08 28 08|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 03 08 08 28 11|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 03 08 08 28 13|UserClick|ToggleOutput_Front Conveyor Go BACK_ON
+2024 03 08 08 28 13|UserClick|ToggleOutput_Front Conveyor Go BACK_OFF
+2024 03 08 08 28 14|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 03 08 08 28 14|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 03 08 08 29 07|UserClick|ToggleOutput_Front Stop 1 Go DOWN_ON
+2024 03 08 08 29 08|UserClick|ToggleOutput_Front Stop 2 Go DOWN_ON
+2024 03 08 08 29 08|UserClick|ToggleOutput_Front Stop 3 Go DOWN_ON
+2024 03 08 11 27 26|UserClick|ToggleOutput_Front Conveyor Go ON_ON
+2024 03 08 11 27 27|UserClick|ToggleOutput_Front Conveyor Go ON_OFF
+2024 03 08 11 27 28|UserClick|ToggleOutput_Front Conveyor Go BACK_ON
+2024 03 08 11 27 28|UserClick|ToggleOutput_Front Conveyor Go BACK_OFF
+2024 03 08 11 27 29|UserClick|ToggleOutput_Back Conveyor Go ON_ON
+2024 03 08 11 27 29|UserClick|ToggleOutput_Back Conveyor Go ON_OFF
+2024 03 08 16 40 10|UserClick|Quit

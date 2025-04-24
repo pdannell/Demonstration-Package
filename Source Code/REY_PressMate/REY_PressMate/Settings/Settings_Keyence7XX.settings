@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings_Keyence7XX">
+  <Profiles />
+  <Settings>
+    <Setting Name="Default_TCP_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.0.7.55</Value>
+    </Setting>
+    <Setting Name="Enabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Default_TCP_DataPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9004</Value>
+    </Setting>
+    <Setting Name="Default_TCP_CommandPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9004</Value>
+    </Setting>
+    <Setting Name="ReadTimeout" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30000</Value>
+    </Setting>
+    <Setting Name="TimeBetweenReads" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="Default_RS232_BaudRate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">115200</Value>
+    </Setting>
+    <Setting Name="Default_RS232_DataBits" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="Default_RS232_PortName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
